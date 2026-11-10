@@ -3,7 +3,7 @@
 The full text of the conversation between Rachel Franklin and Claude (Opus 5.5, Claude app) that produced this map,
 10 November 2026, 06:31–08:32 ET. Messages are verbatim. Tool calls (Strava connector, shell, file writes, image
 checks) are condensed to one-line *[italic notes]*; the code they produced is in this repo.
-Rachel's prompts alone are in [`PROMPTS.md`](PROMPTS.md).
+Rachel's prompts alone are in [`PROMPTS.md`](PROMPTS.md). The original conversation is shared at https://claude.ai/share/c37f1222-44bb-4378-8a37-824269326783.
 
 ---
 

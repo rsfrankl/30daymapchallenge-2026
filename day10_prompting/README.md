@@ -4,7 +4,7 @@ Every geo-located Strava activity Rachel Franklin recorded from May 2012 to Nove
 aggregated to H3 hexagons and drawn as glows on Buckminster Fuller's Dymaxion (Airocean) projection.
 The map was made entirely by prompting Claude.
 
-**The conversation:** [`CHAT.md`](CHAT.md) has the full chat text; [`PROMPTS.md`](PROMPTS.md) has Rachel's prompts alone.
+**The conversation:** [original chat in Claude](https://claude.ai/share/c37f1222-44bb-4378-8a37-824269326783) · [`CHAT.md`](CHAT.md) has the full chat text; [`PROMPTS.md`](PROMPTS.md) has Rachel's prompts alone.
 
 ![map](output/day10_prompting_strava_dymaxion.png)
 

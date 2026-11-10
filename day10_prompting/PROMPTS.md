@@ -57,3 +57,9 @@ layout, first-draft title) and reported each one back in the conversation. The f
 
 **14.**
 > Ok repository created.
+
+**15.**
+> Is there a full link to the chat I can use for my post?
+
+**16.**
+> Here you go: https://claude.ai/share/c37f1222-44bb-4378-8a37-824269326783
