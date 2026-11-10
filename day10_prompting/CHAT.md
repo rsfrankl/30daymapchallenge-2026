@@ -312,4 +312,32 @@ Can we check this in as a repo on my GitHub with easy access to our chat text?
 
 *[Tried to create the repo; this session can only push to repositories that already exist, so Rachel created the empty repo on github.com.]*
 
-This transcript, the code, data and map were then committed and pushed to this repo.
+---
+
+### Rachel
+
+If I later want to create a repo with all my maps for this month will that be difficult?
+
+### Claude
+
+*[Explained the options (merge later with `git subtree`, link per-day repos, or copy files) and suggested creating the month's repo now so a posted link stays valid.]*
+
+---
+
+### Rachel
+
+I'll create the map challenge repo. Anything special I need to do, beside create the repo?
+
+### Claude
+
+*[Asked for an empty public repo named `30daymapchallenge-2026`.]*
+
+---
+
+### Rachel
+
+Ok repository created.
+
+### Claude
+
+*[Cloned the repo, added a top-level index README, and merged this folder in as `day10_prompting/` with its git history; then pushed.]*

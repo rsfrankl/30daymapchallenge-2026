@@ -48,3 +48,12 @@ layout, first-draft title) and reported each one back in the conversation. The f
 
 **11.**
 > Can we check this in as a repo on my GitHub with easy access to our chat text?
+
+**12.**
+> If I later want to create a repo with all my maps for this month will that be difficult?
+
+**13.**
+> I'll create the map challenge repo. Anything special I need to do, beside create the repo?
+
+**14.**
+> Ok repository created.
