@@ -1,0 +1,2481 @@
+id,start_local,sport_type,location_summary,is_trainer
+4580081765,2012-05-21T06:19:03,Run,"Providence, Rhode Island",false
+4580081756,2012-05-23T06:21:47,Run,"Providence, Rhode Island",false
+4580081749,2012-05-25T06:17:15,Run,"Providence, Rhode Island",false
+4580081743,2012-05-29T06:22:01,Run,"Providence, Rhode Island",false
+4580081738,2012-05-30T06:16:19,Run,"Providence, Rhode Island",false
+4580081710,2012-06-01T06:25:16,Run,"Providence, Rhode Island",false
+4580081713,2012-06-03T08:36:10,Run,"Providence, Rhode Island",false
+4580081717,2012-06-05T06:29:33,Run,"Providence, Rhode Island",false
+4580081700,2012-06-07T06:46:04,Run,"Providence, Rhode Island",false
+4580081692,2012-06-09T09:15:36,Run,"Providence, Rhode Island",false
+4580081687,2012-06-11T08:09:44,Run,"Providence, Rhode Island",false
+4580081698,2012-06-14T07:22:36,Run,"Providence, Rhode Island",false
+4580081703,2012-06-16T08:18:27,Run,"Providence, Rhode Island",false
+4580081655,2012-06-20T19:18:46,Run,"Bad Schönborn, Germany",false
+4580081652,2012-06-21T10:38:54,Run,"Bad Schönborn, Germany",false
+4580081635,2012-06-28T10:48:13,Run,,true
+4580081638,2012-07-02T08:11:09,Run,"Columbus, Indiana",false
+4580081651,2012-07-04T07:39:34,Run,"Webster Groves, Missouri",false
+4580081636,2012-07-06T06:26:21,Run,"Quay County, New Mexico",false
+4580081624,2012-07-09T08:01:10,Run,"Coconino National Forest, Arizona",false
+4580081623,2012-07-11T08:13:58,Run,"Kane County, Utah",false
+4580081604,2012-07-13T08:15:33,Run,"Webster Groves, Missouri",false
+4580081577,2012-07-15T11:33:20,Run,,true
+4580081593,2012-07-17T08:37:07,Run,"Providence, Rhode Island",false
+4580081573,2012-07-18T17:00:43,Run,,true
+4580081566,2012-07-20T15:07:04,Run,"Providence, Rhode Island",false
+4580081570,2012-07-22T08:30:18,Run,"Providence, Rhode Island",false
+4580081551,2012-07-24T07:56:08,Run,"Providence, Rhode Island",false
+4580081549,2012-07-27T07:32:24,Run,"Bad Schönborn, Germany",false
+4580081547,2012-07-29T07:58:43,Run,"Bad Schönborn, Germany",false
+4580081546,2012-07-31T08:11:33,Run,"Bad Schönborn, Germany",false
+4580081524,2012-08-02T08:06:34,Run,"Bad Schönborn, Germany",false
+4580081519,2012-08-03T08:20:28,Run,"Bad Schönborn, Germany",false
+4580081516,2012-08-04T08:22:10,Run,"Bad Schönborn, Germany",false
+4580081512,2012-08-06T08:06:34,Run,"Bad Schönborn, Germany",false
+4580081513,2012-08-08T07:37:23,Run,"Bremen-West, Germany",false
+4580081520,2012-08-10T08:22:41,Run,"Bremen-West, Germany",false
+4580081484,2012-08-14T08:04:01,Run,"San Sebastián, Spain",false
+4580081487,2012-08-16T08:10:18,Run,"San Sebastián, Spain",false
+4580081486,2012-08-18T08:14:15,Run,"San Sebastián, Spain",false
+4580081454,2012-08-21T08:50:44,Run,"District of Bratislava I, Slovakia",false
+4580081448,2012-08-23T03:13:16,Run,,true
+4580081458,2012-08-26T07:43:00,Run,"Providence, Rhode Island",false
+4580081436,2012-08-27T07:10:21,Run,"Providence, Rhode Island",false
+4580081440,2012-08-28T06:47:28,Run,"Providence, Rhode Island",false
+4580081439,2012-08-30T07:36:59,Run,"Providence, Rhode Island",false
+4580081430,2012-08-31T08:08:00,Run,"Providence, Rhode Island",false
+4580081417,2012-09-02T08:38:14,Run,"Providence, Rhode Island",false
+4580081418,2012-09-04T07:40:02,Run,"Providence, Rhode Island",false
+4580081405,2012-09-06T06:15:59,Run,"Providence, Rhode Island",false
+4580081403,2012-09-08T06:17:36,Run,"Providence, Rhode Island",false
+4580081399,2012-09-09T10:05:01,Run,"Providence, Rhode Island",false
+4580081383,2012-09-10T06:17:35,Run,"Providence, Rhode Island",false
+4580081387,2012-09-11T06:10:12,Run,"Providence, Rhode Island",false
+4580081389,2012-09-13T06:10:43,Run,"Providence, Rhode Island",false
+4580081370,2012-09-14T06:20:33,Run,"Providence, Rhode Island",false
+4580081363,2012-09-15T06:55:29,Run,"Providence, Rhode Island",false
+4580081353,2012-09-17T07:16:02,Run,"Providence, Rhode Island",false
+4580081350,2012-09-20T06:26:19,Run,"Providence, Rhode Island",false
+4580081351,2012-09-22T07:08:45,Run,"Providence, Rhode Island",false
+4580081352,2012-09-24T06:11:32,Run,"Providence, Rhode Island",false
+4580081333,2012-09-26T07:55:34,Run,"Providence, Rhode Island",false
+4580081310,2012-09-28T18:10:26,Run,,true
+4580081328,2012-10-03T06:11:09,Run,"Providence, Rhode Island",false
+4580081322,2012-10-05T16:05:22,Run,"Providence, Rhode Island",false
+4580081302,2012-10-07T08:05:29,Run,"Providence, Rhode Island",false
+4580081284,2012-10-08T09:01:23,Run,"Providence, Rhode Island",false
+4580081299,2012-10-10T06:10:00,Run,"Providence, Rhode Island",false
+4580081296,2012-10-12T06:12:07,Run,"Providence, Rhode Island",false
+4580081292,2012-10-14T11:49:58,Run,"Providence, Rhode Island",false
+4580081278,2012-10-16T06:12:24,Run,"Providence, Rhode Island",false
+4580081280,2012-10-18T06:11:28,Run,"Providence, Rhode Island",false
+4580081266,2012-10-20T07:05:15,Run,"Providence, Rhode Island",false
+4580081253,2012-10-22T06:07:50,Run,"Providence, Rhode Island",false
+4580081232,2012-10-24T06:07:10,Run,"Providence, Rhode Island",false
+4580081268,2012-10-26T06:06:01,Run,"Providence, Rhode Island",false
+4580081273,2012-10-28T08:21:05,Run,"Providence, Rhode Island",false
+4580081246,2012-10-30T09:00:13,Run,"Providence, Rhode Island",false
+4580081243,2012-11-01T18:31:12,Run,,true
+4580081185,2012-11-04T18:01:43,Run,,true
+4580081191,2012-11-07T13:41:46,Run,,true
+4580081248,2012-11-09T11:24:25,Run,,true
+4580081179,2012-11-10T16:38:50,Run,,true
+4580081212,2012-11-12T08:12:40,Run,"Providence, Rhode Island",false
+4580081203,2012-11-14T06:59:29,Run,"Providence, Rhode Island",false
+4580081196,2012-11-16T07:10:29,Run,"Providence, Rhode Island",false
+4580081181,2012-11-18T08:46:18,Run,"Providence, Rhode Island",false
+4580081157,2012-11-20T07:07:39,Run,"Providence, Rhode Island",false
+4580081170,2012-11-22T08:43:37,Run,"Providence, Rhode Island",false
+4580081130,2012-11-24T07:56:20,Run,"Providence, Rhode Island",false
+4580081145,2012-11-26T07:01:43,Run,"Providence, Rhode Island",false
+4580081108,2012-11-28T07:23:52,Run,,true
+4580081107,2012-11-30T07:13:32,Run,"Providence, Rhode Island",false
+4580081077,2012-12-03T13:25:54,Run,,true
+4580081080,2012-12-13T06:37:57,Run,,true
+4580081126,2012-12-25T07:49:38,Run,"Providence, Rhode Island",false
+4580081063,2012-12-28T07:36:19,Run,"Providence, Rhode Island",false
+4580081037,2012-12-30T10:50:24,Run,,true
+4580081055,2013-01-01T10:37:42,Run,"Providence, Rhode Island",false
+4580081021,2013-01-08T06:48:09,Run,,true
+4580081036,2013-05-09T06:51:27,Run,"Providence, Rhode Island",false
+4580081025,2013-05-11T07:09:37,Run,"Providence, Rhode Island",false
+4580081031,2013-05-27T08:30:40,Run,"Providence, Rhode Island",false
+4580081034,2013-06-08T08:11:33,Run,"Providence, Rhode Island",false
+4580081016,2013-06-13T07:33:42,Run,"Providence, Rhode Island",false
+4580081013,2013-06-16T07:44:13,Run,"Bad Schönborn, Germany",false
+4580081015,2013-06-22T08:57:18,Run,"Bremen-West, Germany",false
+4580081022,2013-06-24T08:51:55,Run,"Bremen-West, Germany",false
+4580080993,2013-06-26T07:09:36,Run,"Groningen, Netherlands",false
+4580080996,2013-06-28T07:14:24,Run,"Groningen, Netherlands",false
+4580080987,2013-06-30T07:43:38,Run,"Bad Schönborn, Germany",false
+4580080972,2013-07-02T08:03:24,Run,"Bad Schönborn, Germany",false
+4580080965,2013-07-04T07:18:44,Run,"Bad Schönborn, Germany",false
+4580080978,2013-07-06T07:48:25,Run,"Bad Schönborn, Germany",false
+4580080943,2013-07-08T07:47:55,Run,"Bad Schönborn, Germany",false
+4580080940,2013-07-10T08:12:26,Run,"Altstadt, Germany",false
+4580080945,2013-07-12T08:43:34,Run,"Altstadt, Germany",false
+4580080929,2013-07-14T06:48:53,Run,"Bad Schönborn, Germany",false
+4580080928,2013-07-16T07:17:04,Run,"Bad Schönborn, Germany",false
+4580080925,2013-07-22T07:33:28,Run,"Providence, Rhode Island",false
+4580080922,2013-07-24T07:05:39,Run,"Providence, Rhode Island",false
+4580080912,2013-07-29T08:35:51,Run,"Providence, Rhode Island",false
+4580080887,2013-07-31T09:02:43,Run,"Providence, Rhode Island",false
+4580080894,2013-08-04T08:32:20,Run,"Providence, Rhode Island",false
+4580080902,2013-08-06T07:44:45,Run,"Providence, Rhode Island",false
+4580080853,2013-08-12T08:00:31,Run,"Bad Schönborn, Germany",false
+4580080877,2013-08-14T07:46:36,Run,"Bad Schönborn, Germany",false
+4580080865,2013-08-18T07:32:05,Run,"Greater London, United Kingdom",false
+4580080843,2013-08-20T07:27:43,Run,"Oxford, United Kingdom",false
+4580080838,2013-08-22T13:18:40,Run,"Cambridge, United Kingdom",false
+4580080836,2013-08-24T09:50:05,Run,"Bad Schönborn, Germany",false
+4580080840,2013-09-01T08:23:13,Run,"Palermo, Italy",false
+4580080812,2013-09-03T06:13:58,Run,"Providence, Rhode Island",false
+4580080815,2013-09-05T07:15:38,Run,"Providence, Rhode Island",false
+4580080818,2013-09-07T07:48:26,Run,"Providence, Rhode Island",false
+4580080801,2013-09-10T07:08:13,Run,"Providence, Rhode Island",false
+4580080800,2013-09-12T07:05:04,Run,"Providence, Rhode Island",false
+4580080802,2013-09-15T19:35:49,Run,"Providence, Rhode Island",false
+4580080790,2013-09-17T07:09:45,Run,"Providence, Rhode Island",false
+4580080784,2013-10-01T07:06:15,Run,"Providence, Rhode Island",false
+4580080781,2013-10-03T07:19:34,Run,"Providence, Rhode Island",false
+4580080779,2013-10-05T07:47:57,Run,"Providence, Rhode Island",false
+4580080774,2013-10-08T06:58:45,Run,"Providence, Rhode Island",false
+4580080773,2013-10-10T08:06:29,Run,"Providence, Rhode Island",false
+4580080744,2013-10-19T08:03:11,Run,"Providence, Rhode Island",false
+4580080737,2013-10-22T07:15:53,Run,"Providence, Rhode Island",false
+4580080736,2013-10-26T06:46:18,Run,"Hawaiʻi County, Hawaii",false
+4580080718,2013-11-07T07:14:10,Run,"Providence, Rhode Island",false
+4580080727,2013-11-09T07:19:54,Run,"Providence, Rhode Island",false
+4580080708,2013-11-17T11:17:49,Run,"Providence, Rhode Island",false
+4580080714,2013-11-19T07:22:46,Run,"Providence, Rhode Island",false
+4580080721,2013-11-23T08:52:09,Run,"Providence, Rhode Island",false
+4580080693,2013-11-28T09:15:57,Run,"Providence, Rhode Island",false
+4580080688,2013-12-03T07:25:08,Run,"Providence, Rhode Island",false
+4580080680,2013-12-05T07:20:37,Run,"Providence, Rhode Island",false
+4580080668,2013-12-07T10:25:36,Run,"Providence, Rhode Island",false
+4580080682,2013-12-10T07:28:00,Run,"Providence, Rhode Island",false
+4580080690,2013-12-13T16:36:41,Run,"Providence, Rhode Island",false
+4580080650,2013-12-20T07:55:55,Run,"Bad Schönborn, Germany",false
+4580080640,2013-12-22T10:46:22,Run,"Bad Schönborn, Germany",false
+4580080653,2013-12-27T08:28:03,Run,"Bad Schönborn, Germany",false
+4580080647,2013-12-29T08:30:49,Run,"Bad Schönborn, Germany",false
+4580080629,2013-12-31T08:27:44,Run,"Bad Schönborn, Germany",false
+4580080631,2014-01-11T09:27:08,Run,"Providence, Rhode Island",false
+4580080624,2014-01-14T07:46:39,Run,"Providence, Rhode Island",false
+4580080613,2014-01-17T07:01:28,Run,"Providence, Rhode Island",false
+4580080609,2014-01-20T10:51:28,Run,"Providence, Rhode Island",false
+4580080588,2014-01-23T07:16:30,Run,,true
+4580080560,2014-01-25T08:36:25,Run,,true
+4580080571,2014-01-30T08:08:44,Run,,true
+4580080576,2014-02-01T08:00:10,Run,"Providence, Rhode Island",false
+4580080568,2014-02-03T07:10:51,Run,"Providence, Rhode Island",false
+4580080553,2014-02-05T09:32:21,Run,,true
+4580080545,2014-02-07T07:48:18,Run,,true
+4580080542,2014-02-09T08:49:25,Run,,true
+4580080538,2014-02-11T07:27:13,Run,,true
+4580080540,2014-02-13T08:32:41,Run,,true
+4580080524,2014-02-22T09:43:39,Run,,true
+4580080514,2014-02-24T08:05:23,Run,,true
+4580080513,2014-02-26T08:12:52,Run,,true
+4580080517,2014-02-28T07:45:05,Run,,true
+4580080503,2014-03-02T08:42:43,Run,,true
+4580080507,2014-03-04T07:50:57,Run,,true
+4580080535,2014-03-07T13:35:43,Run,"Providence, Rhode Island",false
+4580080531,2014-03-09T15:15:05,Run,"Providence, Rhode Island",false
+4580080476,2014-03-11T08:10:54,Run,,true
+4580080475,2014-03-13T07:59:06,Run,,true
+4580080508,2014-03-15T10:33:06,Run,"Providence, Rhode Island",false
+4580080455,2014-03-17T07:40:13,Run,,true
+4580080488,2014-03-20T07:31:18,Run,"Amsterdam, Netherlands",false
+4580080453,2014-03-24T09:13:46,Run,,true
+4580080450,2014-03-31T07:12:51,Run,,true
+4580080459,2014-04-02T07:00:58,Run,"Providence, Rhode Island",false
+4580080438,2014-04-04T07:22:01,Run,"Providence, Rhode Island",false
+4580080419,2014-04-06T10:14:14,Run,,true
+4580080442,2014-04-09T07:47:27,Run,"Tampa, Florida",false
+4580080417,2014-04-12T10:11:44,Run,"Tampa, Florida",false
+4580080422,2014-04-14T07:15:35,Run,"Providence, Rhode Island",false
+4580080426,2014-04-16T17:16:52,Run,"Providence, Rhode Island",false
+4580080415,2014-04-18T10:29:19,Run,"Providence, Rhode Island",false
+4580080421,2014-04-20T11:52:06,Run,"Providence, Rhode Island",false
+4580080398,2014-04-22T07:14:11,Run,"Providence, Rhode Island",false
+4580080402,2014-04-27T12:36:41,Run,"Providence, Rhode Island",false
+4580080373,2014-04-29T07:26:32,Run,"Providence, Rhode Island",false
+4580080382,2014-05-02T08:46:42,Run,"Providence, Rhode Island",false
+4580080407,2014-05-04T12:27:25,Run,"Providence, Rhode Island",false
+4580080354,2014-05-06T07:27:40,Run,"Providence, Rhode Island",false
+4580080339,2014-05-09T06:55:09,Run,"Arlington County, Virginia",false
+4580080347,2014-05-11T08:52:12,Run,"Providence, Rhode Island",false
+4580080351,2014-05-12T07:18:34,Run,"Providence, Rhode Island",false
+4580080317,2014-05-16T07:27:46,Run,"Providence, Rhode Island",false
+4580080316,2014-05-19T07:45:06,Run,"Providence, Rhode Island",false
+4580080328,2014-05-21T07:22:02,Run,"Providence, Rhode Island",false
+4580080296,2014-05-23T08:34:12,Run,"Providence, Rhode Island",false
+4580080295,2014-05-27T07:49:02,Run,"Providence, Rhode Island",false
+4580080294,2014-06-17T07:22:21,Run,"Providence, Rhode Island",false
+4580080276,2014-06-21T07:57:54,Run,"Providence, Rhode Island",false
+4580080271,2014-08-05T07:09:27,Run,"Providence, Rhode Island",false
+4580080258,2014-08-07T07:30:23,Run,"Providence, Rhode Island",false
+4580080269,2014-08-14T07:43:45,Run,"Providence, Rhode Island",false
+4580080253,2014-08-19T07:42:50,Run,"Providence, Rhode Island",false
+4580080245,2014-08-21T07:52:00,Run,"Providence, Rhode Island",false
+4580080257,2014-08-23T10:25:38,Run,"Providence, Rhode Island",false
+4580080229,2014-09-01T07:57:49,Run,"Providence, Rhode Island",false
+4580080239,2014-09-03T07:02:53,Run,"Providence, Rhode Island",false
+4580080227,2014-09-05T07:19:45,Run,"Providence, Rhode Island",false
+4580080211,2014-09-07T08:49:08,Run,"Providence, Rhode Island",false
+4580080201,2014-09-09T07:27:30,Run,"Providence, Rhode Island",false
+4580080208,2014-09-11T06:35:10,Run,"Providence, Rhode Island",false
+4580080236,2014-09-13T08:09:43,Run,"Providence, Rhode Island",false
+4580080182,2014-09-15T07:27:25,Run,"Providence, Rhode Island",false
+4580080166,2014-09-17T07:25:39,Run,"Providence, Rhode Island",false
+4580080159,2014-09-19T07:33:51,Run,"Providence, Rhode Island",false
+4580080155,2014-09-19T08:05:26,Run,"Providence, Rhode Island",false
+4580080162,2014-09-21T10:24:51,Run,"Providence, Rhode Island",false
+4580080136,2014-09-22T07:48:48,Run,"Providence, Rhode Island",false
+4580080145,2014-09-23T07:25:17,Run,"Providence, Rhode Island",false
+4580080141,2014-09-25T06:30:48,Run,"Providence, Rhode Island",false
+4580080123,2014-09-29T07:18:37,Run,"Providence, Rhode Island",false
+4580080116,2014-10-01T07:15:02,Run,"Providence, Rhode Island",false
+4580080108,2014-10-03T07:27:57,Run,"Providence, Rhode Island",false
+4580080112,2014-10-05T12:09:14,Run,"Providence, Rhode Island",false
+4580080111,2014-10-07T07:32:26,Run,"Providence, Rhode Island",false
+4580080095,2014-10-09T15:02:25,Run,"Providence, Rhode Island",false
+4580080071,2014-10-11T11:09:23,Run,,true
+4580080093,2014-10-15T08:29:53,Run,"Providence, Rhode Island",false
+4580080068,2014-10-17T07:42:52,Run,"Providence, Rhode Island",false
+4580080077,2014-10-19T10:58:24,Run,"Providence, Rhode Island",false
+4580080064,2014-10-21T07:27:44,Run,"Providence, Rhode Island",false
+4580080027,2014-10-23T15:43:53,Run,,true
+4580080045,2014-10-26T08:30:43,Run,"Santa Fe, New Mexico",false
+4580080047,2014-10-29T07:38:18,Run,"Providence, Rhode Island",false
+4580080023,2014-10-31T07:41:46,Run,"Providence, Rhode Island",false
+4580080003,2014-11-01T11:06:22,Run,,true
+4580080030,2014-11-03T07:14:48,Run,"Providence, Rhode Island",false
+4580079993,2014-11-05T06:21:56,Run,"Providence, Rhode Island",false
+4580080013,2014-11-07T07:24:07,Run,"Providence, Rhode Island",false
+4580080005,2014-11-09T10:37:36,Run,"Providence, Rhode Island",false
+4580079994,2014-11-11T08:48:59,Run,"Providence, Rhode Island",false
+4580079951,2014-11-17T07:47:46,Run,,true
+4580079980,2014-11-19T07:27:26,Run,"Providence, Rhode Island",false
+4580079979,2014-11-21T07:30:36,Run,"Providence, Rhode Island",false
+4580079972,2014-11-23T11:04:47,Run,"Providence, Rhode Island",false
+4580079977,2014-11-25T07:10:11,Run,"Providence, Rhode Island",false
+4580079947,2014-12-01T07:30:44,Run,"Providence, Rhode Island",false
+4580079943,2014-12-03T07:04:26,Run,"Providence, Rhode Island",false
+4580079941,2014-12-05T16:13:36,Run,"Providence, Rhode Island",false
+4580079933,2014-12-06T10:28:40,Run,,true
+4580079910,2014-12-08T05:47:59,Run,,true
+4580079882,2014-12-12T08:05:47,Run,,true
+4580079926,2014-12-14T11:19:23,Run,"Providence, Rhode Island",false
+4580079903,2014-12-16T07:38:05,Run,"Providence, Rhode Island",false
+4580079874,2014-12-18T07:52:07,Run,,true
+4580079899,2014-12-20T11:10:32,Run,"Providence, Rhode Island",false
+4580079893,2014-12-23T11:44:56,Run,"Providence, Rhode Island",false
+4580079871,2014-12-25T13:46:30,Run,"Providence, Rhode Island",false
+4580079869,2014-12-27T09:27:59,Run,"Providence, Rhode Island",false
+4580079851,2014-12-29T12:05:47,Run,,true
+4580079826,2015-01-05T18:59:23,Run,,true
+4580079822,2015-01-10T09:48:10,Run,,true
+4580079821,2015-01-11T10:37:14,Run,,true
+4580079816,2015-01-13T07:40:26,Run,,true
+4580079808,2015-01-15T07:51:33,Run,,true
+4580079810,2015-01-22T07:40:32,Run,,true
+4580079814,2015-01-24T09:31:18,Run,,true
+4580079785,2015-01-25T11:57:23,Run,,true
+4580079786,2015-01-29T07:50:36,Run,,true
+4580079784,2015-01-31T08:43:30,Run,,true
+4580079772,2015-01-31T09:53:13,Run,,true
+4580079775,2015-02-01T09:26:42,Run,,true
+4580079771,2015-02-03T07:36:47,Run,,true
+4580079769,2015-02-05T08:02:14,Run,,true
+4580079756,2015-02-08T10:40:46,Run,,true
+4580079753,2015-02-08T11:43:59,Run,,true
+4580079752,2015-02-10T07:52:08,Run,,true
+4580079730,2015-02-11T17:23:32,Run,,true
+4580079732,2015-02-21T09:20:29,Run,,true
+4580079725,2015-03-03T07:50:21,Run,,true
+4580079733,2015-03-05T08:06:51,Run,,true
+4580079727,2015-03-06T07:51:08,Run,,true
+4580079696,2015-03-08T19:40:32,Run,,true
+4580079697,2015-03-12T08:07:00,Run,,true
+4580079694,2015-03-15T09:40:14,Run,,true
+4580079740,2015-03-15T09:42:54,Run,"Providence, Rhode Island",false
+4580079693,2015-03-17T08:56:24,Run,,true
+4580079704,2015-03-20T12:05:10,Run,"Bad Schönborn, Germany",false
+4580079679,2015-03-24T11:07:57,Run,"Bad Schönborn, Germany",false
+4580079680,2015-03-31T06:38:10,Run,"Providence, Rhode Island",false
+4580079671,2015-04-02T06:55:14,Run,"Providence, Rhode Island",false
+4580079666,2015-04-04T09:03:15,Run,"Providence, Rhode Island",false
+4580079674,2015-04-06T06:46:13,Run,"Providence, Rhode Island",false
+4580079652,2015-04-08T17:31:41,Run,"Providence, Rhode Island",false
+4580079667,2015-04-10T16:51:20,Run,"Providence, Rhode Island",false
+4580079644,2015-05-19T06:41:52,Run,"Providence, Rhode Island",false
+4580079640,2015-05-21T06:55:08,Run,"Providence, Rhode Island",false
+4580079638,2015-05-26T06:47:29,Run,"Providence, Rhode Island",false
+4580079661,2015-06-16T07:14:18,Run,"Providence, Rhode Island",false
+4580079582,2015-06-23T08:09:56,Run,"Providence, Rhode Island",false
+4580079588,2015-06-27T08:59:53,Run,"Providence, Rhode Island",false
+4580079587,2015-07-02T07:32:26,Run,"Greater Brisbane, Australia",false
+4580079557,2015-07-07T09:24:38,Run,,true
+4580079555,2015-07-13T09:34:07,Run,,true
+4580079568,2015-07-16T08:39:07,Run,"Providence, Rhode Island",false
+4580079517,2015-07-20T08:48:14,Run,,true
+4580079545,2015-07-23T09:05:23,Run,"Providence, Rhode Island",false
+4580079518,2015-07-27T09:22:01,Run,,true
+4580079548,2015-07-31T09:54:37,Run,"Bremen-West, Germany",false
+4580079513,2015-08-02T10:07:43,Run,"Bremen-West, Germany",false
+4580079511,2015-08-04T09:40:32,Run,"Copenhagen Municipality, Denmark",false
+4580079509,2015-08-06T06:53:57,Run,Denmark,false
+4580079497,2015-08-09T07:19:12,Run,"Bad Schönborn, Germany",false
+4580079495,2015-08-11T07:22:35,Run,"Bad Schönborn, Germany",false
+4580079487,2015-08-13T08:12:50,Run,"Bad Schönborn, Germany",false
+4580079498,2015-08-15T10:00:47,Run,"Dublin, Ireland",false
+4580079468,2015-08-20T10:32:00,Run,"Bad Schönborn, Germany",false
+4580079464,2015-08-22T10:23:29,Run,"Bad Schönborn, Germany",false
+4580079449,2015-08-24T10:38:42,Run,"Bad Schönborn, Germany",false
+4580079455,2015-09-02T06:35:10,Run,"Providence, Rhode Island",false
+4580079452,2015-09-05T08:20:56,Run,"Providence, Rhode Island",false
+4580079437,2015-09-08T06:49:38,Run,"Providence, Rhode Island",false
+4580079434,2015-09-11T06:57:42,Run,"Providence, Rhode Island",false
+4580079435,2015-09-13T13:18:16,Run,"Providence, Rhode Island",false
+4580079415,2015-09-15T07:14:28,Run,"Providence, Rhode Island",false
+4580079419,2015-09-17T07:21:43,Run,"Providence, Rhode Island",false
+4580079428,2015-09-19T08:48:13,Run,"Providence, Rhode Island",false
+4580079407,2015-09-21T16:35:50,Run,"Providence, Rhode Island",false
+4580079402,2015-09-23T06:46:47,Run,"Providence, Rhode Island",false
+4580079410,2015-09-27T10:00:00,Run,"Providence, Rhode Island",false
+4580079403,2015-09-29T07:04:50,Run,"Providence, Rhode Island",false
+4580079379,2015-10-01T07:25:35,Run,"Providence, Rhode Island",false
+4580079394,2015-10-07T07:01:47,Run,"Providence, Rhode Island",false
+4580079373,2015-10-09T06:45:20,Run,"Providence, Rhode Island",false
+4580079360,2015-10-13T17:45:59,Run,"Providence, Rhode Island",false
+4580079357,2015-10-15T07:53:42,Run,"Providence, Rhode Island",false
+4580079333,2015-10-17T10:56:26,Run,,true
+4580079330,2015-10-19T16:11:21,Run,,true
+4580079335,2015-10-21T17:13:19,Run,"Providence, Rhode Island",false
+4580079341,2015-10-23T07:41:24,Run,"Providence, Rhode Island",false
+4580079337,2015-10-26T17:04:15,Run,"Providence, Rhode Island",false
+4580079309,2015-10-29T07:20:55,Run,,true
+4580079290,2015-10-31T16:11:02,Run,,true
+4580079317,2015-11-03T07:38:26,Run,"Providence, Rhode Island",false
+4580079308,2015-11-17T07:40:46,Run,"Providence, Rhode Island",false
+4580079277,2016-01-05T10:53:03,Run,,true
+4580079303,2016-01-08T08:19:07,Run,,true
+4580079274,2016-01-13T18:15:14,Run,,true
+4580079251,2016-01-16T09:19:50,Run,,true
+4580079250,2016-01-18T09:00:37,Run,,true
+4580079256,2016-01-20T07:48:14,Run,,true
+4580079253,2016-01-23T09:25:21,Run,,true
+4580079226,2016-01-26T08:09:11,Run,,true
+4580079224,2016-01-28T07:47:33,Run,,true
+4580079223,2016-01-30T11:12:37,Run,,true
+4580079229,2016-02-01T07:38:22,Run,"Providence, Rhode Island",false
+4580079202,2016-02-04T07:49:35,Run,,true
+4580079200,2016-02-07T16:41:42,Run,,true
+4580079204,2016-02-09T07:40:09,Run,,true
+4580079188,2016-02-11T07:53:11,Run,,true
+4580079191,2016-02-23T07:49:56,Run,,true
+4580079213,2016-02-25T07:44:01,Run,"Providence, Rhode Island",false
+4580079165,2016-02-28T17:56:51,Run,,true
+4580079160,2016-03-01T07:52:53,Run,,true
+4580079166,2016-03-03T08:01:14,Run,,true
+4580079159,2016-03-09T16:27:40,Run,"Providence, Rhode Island",false
+4580079154,2016-03-12T11:50:02,Run,"Providence, Rhode Island",false
+4580079161,2016-03-16T07:00:57,Run,"Providence, Rhode Island",false
+4580079152,2016-03-18T17:04:07,Run,"Bad Schönborn, Germany",false
+4580079121,2016-03-18T17:33:19,Run,"Bad Schönborn, Germany",false
+4580079128,2016-03-20T11:01:31,Run,"Bad Schönborn, Germany",false
+4580079126,2016-03-22T10:37:00,Run,"Bad Schönborn, Germany",false
+4580079113,2016-03-25T07:40:20,Run,"Providence, Rhode Island",false
+4580079095,2016-03-27T09:53:12,Run,,true
+4580079123,2016-03-31T07:01:32,Run,"San Francisco, California",false
+4580079108,2016-03-31T07:33:58,Run,"San Francisco, California",false
+4580079084,2016-04-07T07:41:03,Run,,true
+4580079097,2016-04-09T12:39:34,Run,"Providence, Rhode Island",false
+4580079099,2016-04-19T07:34:28,Run,"Providence, Rhode Island",false
+4580079096,2016-04-21T07:33:22,Run,"Providence, Rhode Island",false
+4580079063,2016-04-28T07:31:40,Run,,true
+4580079047,2016-05-02T07:44:31,Run,,true
+4580079032,2016-05-05T07:50:49,Run,,true
+4580079026,2016-05-07T10:26:16,Run,,true
+4580079051,2016-05-09T07:22:02,Run,"Providence, Rhode Island",false
+4580079042,2016-05-12T07:33:01,Run,"Providence, Rhode Island",false
+4580079041,2016-05-14T09:19:12,Run,"Providence, Rhode Island",false
+4580079018,2016-05-16T07:56:44,Run,,true
+4580079035,2016-05-18T07:36:58,Run,"Providence, Rhode Island",false
+4580079009,2016-05-20T07:56:50,Run,"Providence, Rhode Island",false
+4580079006,2016-05-25T07:28:08,Run,"Providence, Rhode Island",false
+4580079012,2016-05-27T07:20:57,Run,"Providence, Rhode Island",false
+4580078985,2016-06-13T09:05:03,Run,"Providence, Rhode Island",false
+4580078972,2016-06-15T07:48:22,Run,"Providence, Rhode Island",false
+4580078961,2016-06-18T14:48:48,Run,,true
+4580078979,2016-06-20T07:59:55,Run,"Providence, Rhode Island",false
+4580078949,2016-06-22T08:34:15,Run,"Providence, Rhode Island",false
+4580078947,2016-06-27T07:15:26,Run,"Providence, Rhode Island",false
+4580078953,2016-06-29T07:37:52,Run,"Providence, Rhode Island",false
+4580078936,2016-07-01T08:12:02,Run,"Providence, Rhode Island",false
+4580078910,2016-07-05T20:00:59,Run,,true
+4580078957,2016-07-09T12:07:39,Run,"Providence, Rhode Island",false
+4580078946,2016-07-11T08:37:34,Run,"Providence, Rhode Island",false
+4580078866,2016-07-13T11:43:53,Run,,true
+4580078869,2016-07-17T12:23:25,Run,,true
+4580078907,2016-07-19T08:43:41,Run,,true
+4580078905,2016-07-21T09:07:29,Run,,true
+4580078877,2016-07-23T09:58:07,Run,,true
+4580078855,2016-07-25T08:57:27,Run,,true
+4580078829,2016-07-31T10:43:42,Run,,true
+4580078897,2016-08-04T08:51:23,Run,"Providence, Rhode Island",false
+4580078870,2016-08-04T09:13:36,Run,"Providence, Rhode Island",false
+4580078828,2016-08-08T07:50:09,Run,"Bad Schönborn, Germany",false
+4580078806,2016-08-10T08:01:34,Run,"Bad Schönborn, Germany",false
+4580078820,2016-08-14T08:29:44,Run,"Bad Schönborn, Germany",false
+4580078826,2016-08-16T08:21:14,Run,"Mitte, Germany",false
+4580078813,2016-08-20T07:47:52,Run,"Bad Schönborn, Germany",false
+4580078825,2016-08-22T08:04:36,Run,"Bad Schönborn, Germany",false
+4580078803,2016-08-30T16:42:22,Run,,true
+4580078802,2016-09-01T08:55:31,Run,,true
+4580078780,2016-09-05T10:16:09,Run,"Providence, Rhode Island",false
+4580078759,2016-09-07T08:16:20,Run,,true
+4580078789,2016-09-09T08:05:53,Run,,true
+4580078726,2016-09-11T10:32:10,Run,,true
+4580078760,2016-09-12T08:00:27,Run,,true
+4580078736,2016-09-14T07:42:32,Run,"Providence, Rhode Island",false
+4580078738,2016-09-16T07:54:13,Run,"Providence, Rhode Island",false
+4580078715,2016-09-19T08:00:38,Run,,true
+4580078721,2016-09-21T07:49:04,Run,"Providence, Rhode Island",false
+4580078786,2016-09-23T07:46:30,Run,"Providence, Rhode Island",false
+4580078698,2016-09-26T07:33:11,Run,"Providence, Rhode Island",false
+4580078720,2016-10-05T07:57:46,Run,"Providence, Rhode Island",false
+4580078669,2016-10-07T08:29:24,Run,"Providence, Rhode Island",false
+4580078612,2016-10-12T08:28:25,Run,"Providence, Rhode Island",false
+4580078617,2016-10-14T08:19:36,Run,"Providence, Rhode Island",false
+4580078616,2016-10-17T07:55:24,Run,"Providence, Rhode Island",false
+4580078585,2016-10-22T16:50:41,Run,,true
+4580078596,2016-10-24T08:12:27,Run,,true
+4580078583,2016-10-26T08:20:04,Run,,true
+4580078581,2016-10-28T08:02:17,Run,,true
+4580078562,2016-10-31T07:54:50,Run,,true
+4580078565,2016-11-08T08:06:04,Run,,true
+4580078564,2016-11-14T08:07:41,Run,,true
+4580078531,2016-11-16T08:10:39,Run,,true
+4580078535,2016-11-18T08:02:30,Run,,true
+4580078527,2016-11-22T15:58:30,Run,,true
+4580078526,2016-11-30T08:05:35,Run,,true
+4580078542,2016-12-04T06:47:44,Run,"Melbourne, Australia",false
+4580078546,2016-12-07T08:04:40,Run,"Melbourne, Australia",false
+4580078520,2016-12-09T08:20:38,Run,,true
+4580078518,2016-12-13T08:07:56,Run,,true
+4580078505,2016-12-15T08:04:40,Run,,true
+4580078499,2016-12-18T02:46:58,Run,,true
+4580078501,2016-12-22T11:04:56,Run,"Bad Schönborn, Germany",false
+4580078503,2016-12-24T11:17:36,Run,"Bad Schönborn, Germany",false
+4580078498,2016-12-26T11:22:49,Run,"Bad Schönborn, Germany",false
+4580078469,2017-01-05T07:54:49,Run,,true
+4580078468,2017-01-07T11:36:57,Run,,true
+4580078477,2017-01-09T17:58:07,Run,,true
+4580078445,2017-01-11T18:02:58,Run,,true
+4580078449,2017-01-13T15:33:54,Run,,true
+4580078401,2017-01-16T08:48:40,Run,,true
+4580078350,2017-01-19T08:02:13,Run,,true
+4580078314,2017-01-26T08:03:36,Run,,true
+4580078303,2017-01-28T10:50:47,Run,,true
+4580078212,2017-02-02T08:18:18,Run,,true
+4580078210,2017-02-04T13:05:42,Run,,true
+4580078194,2017-02-06T08:08:10,Run,,true
+4580078196,2017-02-08T08:36:27,Run,,true
+4580078188,2017-02-11T10:29:02,Run,,true
+4580078181,2017-02-13T09:19:44,Run,,true
+4580078186,2017-02-15T10:16:35,Run,,true
+4580078182,2017-02-23T08:37:47,Run,,true
+4580078178,2017-02-25T11:44:27,Run,"Providence, Rhode Island",false
+4580078169,2017-02-27T07:55:11,Run,,true
+4580078168,2017-03-02T07:48:35,Run,,true
+4580078151,2017-03-04T10:33:26,Run,,true
+4580078142,2017-03-06T07:52:22,Run,,true
+4580078144,2017-03-08T08:04:05,Run,,true
+4580078135,2017-03-09T08:00:51,Run,,true
+4580078124,2017-03-14T11:01:01,Run,,true
+4580078125,2017-03-23T10:02:39,Run,,true
+4580078127,2017-03-25T10:56:16,Run,,true
+4580078123,2017-03-27T17:21:07,Run,,true
+4580078098,2017-03-29T08:05:53,Run,,true
+4580078102,2017-03-31T08:01:26,Run,,true
+4580078115,2017-04-02T12:49:11,Run,"Providence, Rhode Island",false
+4580078085,2017-04-04T08:32:59,Run,,true
+4580078103,2017-04-11T07:46:44,Run,"Providence, Rhode Island",false
+4580078071,2017-04-13T07:45:56,Run,"Providence, Rhode Island",false
+4580078057,2017-04-18T09:16:41,Run,"Providence, Rhode Island",false
+4580078059,2017-04-20T07:42:54,Run,"Providence, Rhode Island",false
+4580078117,2017-04-23T10:36:31,Run,"Providence, Rhode Island",false
+4580078041,2017-04-25T08:04:20,Run,,true
+4580078045,2017-04-27T07:51:13,Run,"Providence, Rhode Island",false
+4580078046,2017-04-29T08:58:50,Run,"Providence, Rhode Island",false
+4580078047,2017-05-01T07:45:11,Run,"Providence, Rhode Island",false
+4580078028,2017-05-03T08:03:12,Run,"Providence, Rhode Island",false
+4580078001,2017-05-05T13:09:01,Run,,true
+4580078018,2017-05-07T09:24:26,Run,"Greater London, United Kingdom",false
+4580078013,2017-05-11T08:02:17,Run,"Providence, Rhode Island",false
+4580078002,2017-05-13T10:50:10,Run,"Providence, Rhode Island",false
+4580078004,2017-05-21T10:35:05,Run,"Providence, Rhode Island",false
+4580077996,2017-06-03T10:07:46,Run,"Providence, Rhode Island",false
+4580077966,2017-06-04T09:54:03,Run,,true
+4580077967,2017-06-06T17:08:31,Run,,true
+4580077981,2017-06-08T09:10:42,Run,"Providence, Rhode Island",false
+4580077972,2017-06-09T19:50:01,Run,,true
+4580077975,2017-06-15T07:55:16,Run,"Providence, Rhode Island",false
+4580077965,2017-06-17T09:44:53,Run,"Providence, Rhode Island",false
+4580077953,2017-06-20T07:49:44,Run,"Providence, Rhode Island",false
+4580077928,2017-06-21T08:49:51,Run,,true
+4580077938,2017-06-24T08:32:37,Run,,true
+4580077936,2017-06-26T11:50:52,Run,"Providence, Rhode Island",false
+4580077944,2017-07-04T07:25:16,Run,"L'Aquila, Italy",false
+4580077945,2017-07-07T07:31:59,Run,"L'Aquila, Italy",false
+4580077910,2017-07-09T06:45:57,Run,"Rome, Italy",false
+4580077906,2017-07-17T08:40:48,Run,"Bad Schönborn, Germany",false
+4580077917,2017-07-19T09:29:34,Run,"Bremen-West, Germany",false
+4580077909,2017-07-23T11:08:04,Run,"Bad Schönborn, Germany",false
+4580077877,2017-07-26T07:52:35,Run,"Providence, Rhode Island",false
+4580077874,2017-07-26T08:20:18,Run,"Providence, Rhode Island",false
+4580077891,2017-07-28T08:24:05,Run,"Providence, Rhode Island",false
+4580077894,2017-07-31T09:25:54,Run,"Providence, Rhode Island",false
+4580077865,2017-08-02T09:39:46,Run,,true
+4580077872,2017-08-08T08:23:11,Run,"Providence, Rhode Island",false
+4580077860,2017-08-10T10:47:08,Run,,true
+4580077840,2017-08-15T12:28:57,Run,,true
+4580077834,2017-08-17T10:13:03,Run,,true
+4580077837,2017-08-21T09:54:54,Run,,true
+4580077855,2017-08-23T10:04:16,Run,,true
+4580077829,2017-08-25T08:20:35,Run,"Providence, Rhode Island",false
+4580077828,2017-08-27T10:16:12,Run,"Providence, Rhode Island",false
+4580077827,2017-09-04T08:46:29,Run,"Providence, Rhode Island",false
+4580077804,2017-09-06T08:05:46,Run,,true
+4580077819,2017-09-08T07:55:34,Run,"Providence, Rhode Island",false
+4580077813,2017-09-11T07:42:19,Run,"Providence, Rhode Island",false
+4580077783,2017-09-13T07:40:30,Run,"Providence, Rhode Island",false
+4580077767,2017-09-16T10:29:16,Run,,true
+4580077784,2017-09-18T07:38:39,Run,"Providence, Rhode Island",false
+4580077751,2017-09-20T08:11:07,Run,,true
+4580077743,2017-09-22T18:48:18,Run,,true
+4580077776,2017-10-02T07:51:21,Run,"Providence, Rhode Island",false
+4580077779,2017-10-04T08:07:15,Run,"Providence, Rhode Island",false
+4580077768,2017-10-06T07:14:54,Run,"Providence, Rhode Island",false
+4580077759,2017-10-08T11:40:19,Run,"Providence, Rhode Island",false
+4580077753,2017-10-12T07:39:50,Run,"Providence, Rhode Island",false
+4580077746,2017-10-14T15:01:26,Run,"Providence, Rhode Island",false
+4580077740,2017-10-16T07:48:23,Run,"Providence, Rhode Island",false
+4580077731,2017-10-18T07:52:06,Run,"Providence, Rhode Island",false
+4580077710,2017-11-01T08:16:59,Run,,true
+4580077722,2017-11-04T11:12:22,Run,"Providence, Rhode Island",false
+4580077717,2017-11-06T08:15:49,Run,"Providence, Rhode Island",false
+4580077704,2017-11-08T08:00:14,Run,"Vancouver, Canada",false
+4580077649,2017-11-14T07:37:11,Run,"Melbourne, Australia",false
+4580077630,2017-11-17T08:02:15,Run,,true
+4580077629,2017-11-19T12:17:35,Run,,true
+4580077623,2017-11-27T09:29:23,Run,,true
+4580077614,2017-12-01T08:08:52,Run,,true
+4580077622,2017-12-03T11:32:08,Run,,true
+4580077593,2017-12-05T08:01:36,Run,,true
+4580077592,2017-12-07T08:10:02,Run,,true
+4580077564,2017-12-10T09:35:46,Run,,true
+4580077565,2017-12-12T07:28:46,Run,,true
+4580077563,2017-12-14T08:12:55,Run,,true
+4580077562,2017-12-16T10:23:03,Run,,true
+4580077559,2017-12-18T09:28:22,Run,,true
+4580077533,2018-01-02T08:09:34,Run,,true
+4580077535,2018-01-13T11:40:53,Run,,true
+4580077530,2018-01-15T10:43:28,Run,,true
+4580077534,2018-01-17T08:11:02,Run,,true
+4580077514,2018-01-20T12:05:17,Run,,true
+4580077497,2018-01-25T08:22:31,Run,,true
+4580077479,2018-01-29T08:10:57,Run,,true
+4580077483,2018-01-31T08:09:00,Run,,true
+4580077463,2018-02-03T09:55:51,Run,,true
+4580077459,2018-02-05T09:19:15,Run,,true
+4580077464,2018-02-07T08:05:57,Run,,true
+4580077454,2018-03-31T10:06:23,Run,,true
+4580077433,2018-04-02T08:07:06,Run,,true
+4580077439,2018-04-04T08:05:53,Run,,true
+4580077436,2018-04-07T11:17:34,Run,,true
+4580077441,2018-04-09T08:04:03,Run,,true
+4580077424,2018-04-17T08:04:01,Run,,true
+4580077419,2018-04-19T09:04:35,Run,,true
+4580077429,2018-04-23T08:07:57,Run,,true
+4580077432,2018-05-02T08:09:25,Run,"Providence, Rhode Island",false
+4580077412,2018-05-04T07:35:56,Run,"Providence, Rhode Island",false
+4580077426,2018-05-07T08:20:01,Run,"Oxford, United Kingdom",false
+4580077427,2018-07-08T07:37:44,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077370,2018-07-10T05:54:27,Run,,true
+4580077388,2018-07-12T15:00:14,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077394,2018-07-15T09:37:40,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077384,2018-07-17T09:41:03,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077383,2018-08-02T09:28:21,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077386,2018-08-04T11:32:42,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077371,2018-08-07T09:12:39,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077367,2018-08-12T08:35:31,Run,"Brussels, Belgium",false
+4580077352,2018-09-08T11:22:29,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077334,2018-09-23T13:04:38,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077331,2018-09-25T07:49:30,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077330,2018-09-27T07:40:15,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077336,2018-09-29T14:59:23,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077297,2018-10-04T07:53:29,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077299,2018-10-06T15:29:06,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077307,2018-10-10T08:10:01,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077281,2018-10-14T16:39:07,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077278,2018-10-16T08:07:28,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077274,2018-10-18T10:11:11,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077264,2018-10-20T14:53:02,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077247,2018-10-22T09:13:55,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077250,2018-10-24T09:11:48,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077248,2018-10-26T08:56:38,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077200,2018-12-01T14:35:29,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077218,2018-12-03T08:20:57,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077227,2018-12-05T09:01:58,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077198,2018-12-07T09:45:18,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077195,2019-01-28T08:22:02,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077212,2019-02-04T08:40:46,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077194,2019-02-06T08:11:12,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077208,2019-02-11T09:03:20,Run,"L'Aquila, Italy",false
+4580077191,2019-02-15T08:51:09,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077162,2019-02-17T16:26:16,Run,"Woodinville, Washington",false
+4580077171,2019-02-20T16:27:48,Run,"Bad Schönborn, Germany",false
+4580077167,2019-02-21T11:25:21,Run,"Bad Schönborn, Germany",false
+4580077151,2019-02-23T12:19:40,Run,"Bad Schönborn, Germany",false
+4580077144,2019-02-25T08:28:06,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077152,2019-02-27T08:15:23,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077140,2019-03-01T08:28:06,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077125,2019-03-03T13:58:18,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077146,2019-03-05T09:02:27,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077114,2019-03-08T09:01:27,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077096,2019-03-09T14:01:06,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077089,2019-03-11T08:23:19,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077091,2019-03-13T08:22:17,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077102,2019-03-15T08:54:46,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077055,2019-03-17T12:09:43,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077057,2019-03-18T08:32:57,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077048,2019-03-20T08:46:54,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077028,2019-03-22T07:33:35,Run,"Cambridge, United Kingdom",false
+4580077023,2019-03-24T10:06:45,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076999,2019-03-26T08:35:18,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077000,2019-03-28T07:52:17,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077017,2019-03-31T11:32:27,Run,"Newcastle upon Tyne, United Kingdom",false
+4580077025,2019-04-01T08:33:26,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076976,2019-04-09T08:58:47,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076988,2019-04-10T17:15:04,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076961,2019-04-29T08:44:30,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076946,2019-05-02T08:07:42,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076936,2019-05-06T11:25:08,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076931,2019-05-12T13:25:53,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076937,2019-05-13T08:28:30,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076923,2019-05-15T09:03:50,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076975,2019-05-17T08:32:01,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076909,2019-05-19T14:17:01,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076956,2019-05-20T08:53:41,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076876,2019-05-22T08:38:01,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076872,2019-05-27T11:01:01,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076890,2019-06-09T11:21:04,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076832,2019-06-11T08:50:15,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076827,2019-06-13T09:14:55,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076817,2019-06-15T11:24:35,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076784,2019-06-18T07:54:23,Run,"L'Aquila, Italy",false
+4580076742,2019-06-23T14:03:20,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076767,2019-06-24T08:25:47,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076771,2019-06-28T10:13:55,Run,"North Tyneside, United Kingdom",false
+4580076757,2019-06-30T10:53:14,Run,"North Tyneside, United Kingdom",false
+4580076740,2019-07-02T08:04:26,Run,"Charnwood, United Kingdom",false
+4580076737,2019-07-05T08:49:23,Run,"North Tyneside, United Kingdom",false
+4580076748,2019-07-07T09:51:03,Run,"North Tyneside, United Kingdom",false
+4580076745,2019-07-09T08:22:24,Run,"North Tyneside, United Kingdom",false
+4580076701,2019-07-11T07:35:13,Run,"North Tyneside, United Kingdom",false
+4580076685,2019-07-11T07:43:42,Run,"North Tyneside, United Kingdom",false
+4580076679,2019-07-11T07:58:59,Run,"North Tyneside, United Kingdom",false
+4580076728,2019-07-13T10:32:56,Run,"North Tyneside, United Kingdom",false
+4580076677,2019-07-16T09:38:05,Run,"Cambridge, United Kingdom",false
+4580076660,2019-07-18T11:01:28,Run,"Cambridge, United Kingdom",false
+4580076663,2019-07-18T11:13:49,Run,"Cambridge, United Kingdom",false
+4580076687,2019-08-04T10:24:31,Run,"North Tyneside, United Kingdom",false
+4580076662,2019-08-06T08:31:38,Run,"Brookfield, Vermont",false
+4580076649,2019-08-09T08:48:51,Run,"Brookfield, Vermont",false
+4580076673,2019-08-09T09:07:04,Run,"Brookfield, Vermont",false
+4580076658,2019-08-13T08:53:29,Run,"Brookfield, Vermont",false
+4580076653,2019-08-15T09:16:40,Run,"Brookfield, Vermont",false
+4580076659,2019-08-17T09:14:39,Run,"Brookfield, Vermont",false
+4580076628,2019-08-21T08:43:15,Run,"Providence, Rhode Island",false
+4580076680,2019-08-25T12:36:55,Run,"North Tyneside, United Kingdom",false
+4580076622,2019-08-27T09:22:10,Run,"Lyon, France",false
+4580076651,2019-09-01T14:32:26,Run,"North Tyneside, United Kingdom",false
+4580076571,2019-09-03T09:02:40,Run,"North Tyneside, United Kingdom",false
+4580076664,2019-09-08T11:17:31,Run,"Newcastle upon Tyne, United Kingdom",false
+4580076589,2019-09-13T08:45:34,Run,"North Tyneside, United Kingdom",false
+4580076579,2019-09-17T10:30:09,Run,"Waitematā, New Zealand",false
+4580076577,2019-09-21T11:24:19,Run,"Queenstown-Lakes District, New Zealand",false
+4580076567,2019-09-29T13:22:51,Run,"North Tyneside, United Kingdom",false
+4580076545,2019-10-02T08:29:28,Run,"North Tyneside, United Kingdom",false
+4580076544,2019-10-04T08:21:29,Run,"North Tyneside, United Kingdom",false
+4580076546,2019-10-06T09:38:25,Run,"North Tyneside, United Kingdom",false
+4580076517,2019-10-08T08:36:45,Run,"North Tyneside, United Kingdom",false
+4580076518,2019-10-12T11:59:54,Run,"North Tyneside, United Kingdom",false
+4580076511,2019-10-14T08:48:10,Run,"North Tyneside, United Kingdom",false
+4580076502,2019-10-20T10:16:33,Run,"North Tyneside, United Kingdom",false
+4580076500,2019-10-21T08:36:42,Run,"North Tyneside, United Kingdom",false
+4580076482,2019-10-24T10:09:48,Run,"North Tyneside, United Kingdom",false
+4580076480,2019-10-25T08:54:15,Run,"North Tyneside, United Kingdom",false
+4580076479,2019-10-31T10:55:49,Run,"North Tyneside, United Kingdom",false
+4580076472,2019-11-02T12:29:51,Run,"North Tyneside, United Kingdom",false
+4580076469,2019-11-04T09:14:55,Run,"North Tyneside, United Kingdom",false
+4580076463,2019-11-06T09:15:30,Run,"North Tyneside, United Kingdom",false
+4580076440,2019-11-07T12:15:44,Run,"North Tyneside, United Kingdom",false
+4580076450,2019-11-11T09:24:35,Run,"North Tyneside, United Kingdom",false
+4580076448,2019-11-13T08:41:17,Run,"North Tyneside, United Kingdom",false
+4580076454,2019-11-16T12:13:15,Run,"North Tyneside, United Kingdom",false
+4580076414,2019-11-17T11:47:46,Run,"North Tyneside, United Kingdom",false
+4580076432,2019-11-19T09:32:26,Run,"North Tyneside, United Kingdom",false
+4580076415,2019-11-21T09:31:52,Run,"North Tyneside, United Kingdom",false
+4580076407,2019-12-02T12:46:59,Run,"North Tyneside, United Kingdom",false
+4580076405,2019-12-04T09:10:24,Run,"North Tyneside, United Kingdom",false
+4580076392,2019-12-14T13:14:15,Run,"North Tyneside, United Kingdom",false
+4580076385,2020-01-12T11:10:40,Run,"North Tyneside, United Kingdom",false
+4580076389,2020-01-14T09:31:52,Run,"North Tyneside, United Kingdom",false
+4580076381,2020-01-16T10:54:49,Run,"L'Aquila, Italy",false
+4580076380,2020-01-19T12:13:55,Run,"North Tyneside, United Kingdom",false
+4580076375,2020-01-23T09:30:09,Run,"North Tyneside, United Kingdom",false
+4580076364,2020-01-25T10:42:52,Run,"North Tyneside, United Kingdom",false
+4580076355,2020-01-27T09:42:40,Run,"North Tyneside, United Kingdom",false
+4580076358,2020-01-29T09:07:33,Run,"North Tyneside, United Kingdom",false
+4580076347,2020-01-31T08:43:06,Run,"North Tyneside, United Kingdom",false
+4580076346,2020-02-02T13:24:15,Run,"Suresnes, France",false
+4580076311,2020-02-04T10:48:38,Run,"North Tyneside, United Kingdom",false
+4580076336,2020-02-06T10:54:43,Run,"North Tyneside, United Kingdom",false
+4580076315,2020-03-03T11:05:48,Run,"North Tyneside, United Kingdom",false
+4580076318,2020-03-05T08:52:00,Run,"North Tyneside, United Kingdom",false
+4580076305,2020-03-07T12:21:36,Run,"North Tyneside, United Kingdom",false
+4580076306,2020-03-10T10:08:57,Run,"North Tyneside, United Kingdom",false
+4580076309,2020-03-13T10:14:31,Run,"North Tyneside, United Kingdom",false
+4580076267,2020-03-16T10:40:46,Run,"North Tyneside, United Kingdom",false
+4580076274,2020-03-18T09:02:11,Run,"North Tyneside, United Kingdom",false
+4580076245,2020-03-20T09:08:40,Run,"North Tyneside, United Kingdom",false
+4580076242,2020-03-22T14:19:01,Run,"North Tyneside, United Kingdom",false
+4580076249,2020-03-24T10:25:31,Run,"North Tyneside, United Kingdom",false
+4580076227,2020-03-26T10:17:09,Run,"North Tyneside, United Kingdom",false
+4580076224,2020-03-28T11:02:32,Run,"North Tyneside, United Kingdom",false
+4580076216,2020-03-30T10:44:07,Run,"North Tyneside, United Kingdom",false
+4580076196,2020-04-01T10:40:51,Run,"North Tyneside, United Kingdom",false
+4580076211,2020-04-03T08:18:56,Run,"North Tyneside, United Kingdom",false
+4580076201,2020-04-05T11:01:37,Run,"North Tyneside, United Kingdom",false
+4580076168,2020-04-07T09:51:01,Run,"North Tyneside, United Kingdom",false
+4580076161,2020-04-09T09:54:28,Run,"North Tyneside, United Kingdom",false
+4580076167,2020-04-11T12:12:39,Run,"North Tyneside, United Kingdom",false
+4580076140,2020-04-13T13:37:13,Run,"North Tyneside, United Kingdom",false
+4580076127,2020-04-15T10:00:46,Run,"North Tyneside, United Kingdom",false
+4580076130,2020-04-17T09:43:03,Run,"North Tyneside, United Kingdom",false
+4580076102,2020-04-19T13:14:41,Run,"North Tyneside, United Kingdom",false
+4580076088,2020-04-24T14:43:52,Run,"North Tyneside, United Kingdom",false
+4580076053,2020-04-25T10:51:27,Run,"North Tyneside, United Kingdom",false
+4580076098,2020-04-26T11:56:03,Run,"North Tyneside, United Kingdom",false
+4580076060,2020-04-28T08:50:48,Run,"North Tyneside, United Kingdom",false
+4580076061,2020-04-30T09:37:28,Run,"North Tyneside, United Kingdom",false
+4580076032,2020-05-02T11:24:35,Run,"North Tyneside, United Kingdom",false
+4580076009,2020-05-04T07:30:21,Run,"North Tyneside, United Kingdom",false
+4580076011,2020-05-06T07:32:16,Run,"North Tyneside, United Kingdom",false
+4580075989,2020-05-08T10:39:03,Run,"North Tyneside, United Kingdom",false
+4580076005,2020-05-10T12:27:54,Run,"North Tyneside, United Kingdom",false
+4580075995,2020-05-12T07:28:56,Run,"North Tyneside, United Kingdom",false
+4580075947,2020-05-14T07:32:00,Run,"North Tyneside, United Kingdom",false
+4580075917,2020-05-25T10:44:34,Run,"North Tyneside, United Kingdom",false
+4580075938,2020-05-27T07:32:25,Run,"North Tyneside, United Kingdom",false
+4580075911,2020-05-29T07:33:09,Run,"North Tyneside, United Kingdom",false
+4580075918,2020-05-31T09:23:02,Run,"North Tyneside, United Kingdom",false
+4580075921,2020-06-02T07:31:36,Run,"North Tyneside, United Kingdom",false
+4580075915,2020-06-04T07:22:53,Run,"North Tyneside, United Kingdom",false
+4580075904,2020-06-06T10:09:55,Run,"North Tyneside, United Kingdom",false
+4580075910,2020-06-07T11:39:31,Run,"North Tyneside, United Kingdom",false
+4580075899,2020-06-09T07:32:03,Run,"North Tyneside, United Kingdom",false
+4580075877,2020-06-11T07:33:10,Run,"North Tyneside, United Kingdom",false
+4580075876,2020-06-13T10:42:08,Run,"North Tyneside, United Kingdom",false
+4580075842,2020-06-18T09:40:21,Run,"North Tyneside, United Kingdom",false
+4580075844,2020-06-20T12:58:47,Run,"North Tyneside, United Kingdom",false
+4580075848,2020-06-22T08:42:30,Run,"North Tyneside, United Kingdom",false
+4580075854,2020-06-24T07:33:05,Run,"North Tyneside, United Kingdom",false
+4580075839,2020-06-26T07:34:49,Run,"North Tyneside, United Kingdom",false
+4580075833,2020-06-28T11:47:41,Run,"North Tyneside, United Kingdom",false
+4580075814,2020-06-29T07:36:12,Run,"North Tyneside, United Kingdom",false
+4580075835,2020-07-01T07:37:54,Run,"North Tyneside, United Kingdom",false
+4580075811,2020-07-03T07:37:26,Run,"North Tyneside, United Kingdom",false
+4580075790,2020-07-05T13:05:27,Run,"North Tyneside, United Kingdom",false
+4580075816,2020-07-07T07:37:49,Run,"North Tyneside, United Kingdom",false
+4580075796,2020-07-09T07:22:54,Run,"North Tyneside, United Kingdom",false
+4580075803,2020-07-11T09:38:26,Run,"North Tyneside, United Kingdom",false
+4580075778,2020-07-14T07:40:03,Run,"North Tyneside, United Kingdom",false
+4580075775,2020-07-16T07:35:52,Run,"North Tyneside, United Kingdom",false
+4580075780,2020-07-18T10:03:01,Run,"North Tyneside, United Kingdom",false
+4580075772,2020-07-20T08:45:58,Run,"North Tyneside, United Kingdom",false
+4580075746,2020-07-22T07:48:44,Run,"North Tyneside, United Kingdom",false
+4580075748,2020-07-24T07:52:43,Run,"North Tyneside, United Kingdom",false
+4580075739,2020-07-26T09:51:04,Run,"North Tyneside, United Kingdom",false
+4580075736,2020-07-29T07:44:37,Run,"North Tyneside, United Kingdom",false
+4580075735,2020-08-20T07:38:53,Run,"North Tyneside, United Kingdom",false
+4580075719,2020-08-22T09:44:52,Run,"North Tyneside, United Kingdom",false
+4580075718,2020-08-24T07:38:54,Run,"North Tyneside, United Kingdom",false
+4580075715,2020-08-26T07:47:51,Run,"North Tyneside, United Kingdom",false
+4580075710,2020-08-29T10:19:19,Run,"North Tyneside, United Kingdom",false
+4580075706,2020-09-02T07:40:05,Run,"North Tyneside, United Kingdom",false
+4580075704,2020-09-05T10:23:09,Run,"North Tyneside, United Kingdom",false
+4580075691,2020-09-08T07:38:35,Run,"North Tyneside, United Kingdom",false
+4580075697,2020-09-12T11:08:40,Run,"North Tyneside, United Kingdom",false
+4580075700,2020-09-14T07:44:25,Run,"North Tyneside, United Kingdom",false
+4580075671,2020-09-16T07:42:51,Run,"North Tyneside, United Kingdom",false
+4580075673,2020-09-20T10:39:20,Run,"North Tyneside, United Kingdom",false
+4580075649,2020-09-22T07:42:00,Run,"North Tyneside, United Kingdom",false
+4580075646,2020-09-24T07:45:41,Run,"North Tyneside, United Kingdom",false
+4580075656,2020-09-26T10:52:28,Run,"North Tyneside, United Kingdom",false
+4580075643,2020-09-28T07:42:59,Run,"North Tyneside, United Kingdom",false
+4580075644,2020-10-01T08:31:09,Run,"North Tyneside, United Kingdom",false
+4580075627,2020-10-03T09:58:39,Run,"North Tyneside, United Kingdom",false
+4580075623,2020-10-05T08:04:56,Run,"North Tyneside, United Kingdom",false
+4580075611,2020-10-06T07:49:25,Run,"North Tyneside, United Kingdom",false
+4580075619,2020-10-08T07:47:58,Run,"North Tyneside, United Kingdom",false
+4580075582,2020-10-10T10:20:02,Run,"North Tyneside, United Kingdom",false
+4580075114,2020-10-13T07:44:54,Run,"North Tyneside, United Kingdom",false
+4580074022,2020-10-17T07:48:42,Run,"North Tyneside, United Kingdom",false
+4579979138,2020-12-09T15:52:41,Walk,"Brookfield, Vermont",false
+4579979118,2020-12-10T15:42:59,Walk,"Brookfield, Vermont",false
+4579979080,2020-12-13T10:02:17,Walk,"Brookfield, Vermont",false
+4579979056,2020-12-14T14:08:55,Walk,"Brookfield, Vermont",false
+4579979006,2020-12-16T15:11:01,Walk,"Brookfield, Vermont",false
+4579979061,2020-12-17T15:13:09,Walk,"Brookfield, Vermont",false
+4579978966,2020-12-31T16:07:07,Walk,"Brookfield, Vermont",false
+4579978938,2021-01-01T11:26:07,Walk,"Brookfield, Vermont",false
+4579978927,2021-01-01T14:50:24,Walk,"Brookfield, Vermont",false
+4579978865,2021-01-01T20:25:54,Walk,"Brookfield, Vermont",false
+4579978838,2021-01-02T11:12:37,Walk,"Brookfield, Vermont",false
+4579978780,2021-01-02T12:44:13,Walk,"Brookfield, Vermont",false
+4579978652,2021-01-02T20:07:55,Walk,"Brookfield, Vermont",false
+4579978667,2021-01-03T10:50:02,Walk,"Brookfield, Vermont",false
+4579978632,2021-01-03T15:42:52,Walk,"Brookfield, Vermont",false
+4579978638,2021-01-04T10:15:08,Walk,"Brookfield, Vermont",false
+4579978551,2021-01-04T14:54:53,Walk,"Brookfield, Vermont",false
+4579978554,2021-01-05T08:47:20,Walk,"Brookfield, Vermont",false
+4579978560,2021-01-05T12:59:55,Walk,"Brookfield, Vermont",false
+4579978509,2021-01-05T15:30:19,Walk,"Brookfield, Vermont",false
+4579978493,2021-01-06T08:45:19,Walk,"Brookfield, Vermont",false
+4579978515,2021-01-06T13:35:04,Walk,"Providence, Rhode Island",false
+4584524893,2021-01-07T14:22:32,Walk,"New Haven, Connecticut",false
+4584524794,2021-01-07T15:18:16,Walk,"New Haven, Connecticut",false
+4584524799,2021-01-07T16:39:34,Walk,"New Haven, Connecticut",false
+4589038269,2021-01-08T10:57:52,Walk,"New Haven, Connecticut",false
+4589038302,2021-01-08T14:34:55,Walk,"New Haven, Connecticut",false
+4589038235,2021-01-08T15:47:24,Walk,"New Haven, Connecticut",false
+4594954576,2021-01-09T12:39:29,Walk,"New Haven, Connecticut",false
+4600076986,2021-01-10T15:03:40,Walk,"North Tyneside, United Kingdom",false
+4602818865,2021-01-11T10:23:37,Run,"North Tyneside, United Kingdom",false
+4605127354,2021-01-11T15:17:29,Walk,"North Tyneside, United Kingdom",false
+4610423229,2021-01-12T12:36:54,Walk,"North Tyneside, United Kingdom",false
+4610423174,2021-01-12T15:54:23,Walk,"North Tyneside, United Kingdom",false
+4612830954,2021-01-13T08:55:58,Run,"North Tyneside, United Kingdom",false
+4615865617,2021-01-13T15:47:39,Walk,"North Tyneside, United Kingdom",false
+4619037155,2021-01-14T09:54:08,Walk,"North Tyneside, United Kingdom",false
+4623061821,2021-01-14T13:55:32,Walk,"North Tyneside, United Kingdom",false
+4623061584,2021-01-15T09:05:02,Run,"North Tyneside, United Kingdom",false
+4626588331,2021-01-15T13:05:40,Walk,"North Tyneside, United Kingdom",false
+4629865728,2021-01-16T13:10:06,Walk,"North Tyneside, United Kingdom",false
+4635224898,2021-01-17T11:55:49,Run,"North Tyneside, United Kingdom",false
+4636541604,2021-01-17T13:37:13,Walk,"North Tyneside, United Kingdom",false
+4640559950,2021-01-18T08:52:09,Run,"North Tyneside, United Kingdom",false
+4641791086,2021-01-18T15:18:35,Walk,"North Tyneside, United Kingdom",false
+4646455501,2021-01-19T11:39:28,Walk,"North Tyneside, United Kingdom",false
+4647588470,2021-01-19T15:36:39,Walk,"North Tyneside, United Kingdom",false
+4651928736,2021-01-20T08:53:28,Run,"North Tyneside, United Kingdom",false
+4651928519,2021-01-20T13:12:07,Walk,"North Tyneside, United Kingdom",false
+4657860506,2021-01-21T11:43:16,Walk,"North Tyneside, United Kingdom",false
+4657860503,2021-01-21T16:02:04,Walk,"North Tyneside, United Kingdom",false
+4662490842,2021-01-22T09:31:20,Run,"North Tyneside, United Kingdom",false
+4663900883,2021-01-22T15:23:15,Walk,"North Tyneside, United Kingdom",false
+4667555483,2021-01-23T12:05:43,Walk,"North Tyneside, United Kingdom",false
+4675263429,2021-01-24T12:10:30,Run,"North Tyneside, United Kingdom",false
+4675263562,2021-01-24T15:53:25,Walk,"North Tyneside, United Kingdom",false
+4678463864,2021-01-25T09:10:42,Run,"North Tyneside, United Kingdom",false
+4681101397,2021-01-25T16:00:21,Walk,"North Tyneside, United Kingdom",false
+4683674384,2021-01-26T09:46:47,Ride,"North Tyneside, United Kingdom",false
+4683674162,2021-01-26T11:23:53,Ride,"Newcastle upon Tyne, United Kingdom",false
+4686642028,2021-01-26T15:22:17,Walk,"North Tyneside, United Kingdom",false
+4688396661,2021-01-27T09:17:45,Run,"North Tyneside, United Kingdom",false
+4690239546,2021-01-27T15:24:09,Walk,"North Tyneside, United Kingdom",false
+4695247142,2021-01-28T08:26:30,Walk,"North Tyneside, United Kingdom",false
+4695811716,2021-01-28T16:39:39,Walk,"North Tyneside, United Kingdom",false
+4699706594,2021-01-29T12:44:39,Run,"North Tyneside, United Kingdom",false
+4700688640,2021-01-29T16:09:25,Walk,"North Tyneside, United Kingdom",false
+4705561741,2021-01-30T12:12:55,Walk,"North Tyneside, United Kingdom",false
+4706386630,2021-01-30T16:06:35,Walk,"North Tyneside, United Kingdom",false
+4710466769,2021-01-31T11:20:19,Run,"North Tyneside, United Kingdom",false
+4713115294,2021-01-31T15:22:52,Walk,"North Tyneside, United Kingdom",false
+4715777939,2021-02-01T08:54:58,Run,"North Tyneside, United Kingdom",false
+4717362862,2021-02-01T15:38:07,Walk,"North Tyneside, United Kingdom",false
+4721378308,2021-02-02T09:18:12,Walk,"North Tyneside, United Kingdom",false
+4723742426,2021-02-02T15:12:26,Walk,"North Tyneside, United Kingdom",false
+4726359405,2021-02-03T09:03:31,Run,"North Tyneside, United Kingdom",false
+4727894277,2021-02-03T14:30:10,Walk,"North Tyneside, United Kingdom",false
+4732784409,2021-02-04T09:24:54,Walk,"North Tyneside, United Kingdom",false
+4733872673,2021-02-04T15:07:11,Walk,"North Tyneside, United Kingdom",false
+4737516531,2021-02-05T08:46:36,Run,"North Tyneside, United Kingdom",false
+4739070975,2021-02-05T15:06:50,Walk,"North Tyneside, United Kingdom",false
+4744129258,2021-02-06T11:38:46,Walk,"North Tyneside, United Kingdom",false
+4749115577,2021-02-07T10:27:53,Run,"North Tyneside, United Kingdom",false
+4752423504,2021-02-07T16:40:42,Walk,"North Tyneside, United Kingdom",false
+4754148430,2021-02-08T09:15:39,Run,"North Tyneside, United Kingdom",false
+4756529538,2021-02-08T15:45:13,Walk,"North Tyneside, United Kingdom",false
+4759923019,2021-02-09T12:01:41,Walk,"North Tyneside, United Kingdom",false
+4764541464,2021-02-10T09:39:39,Walk,"North Tyneside, United Kingdom",false
+4770833886,2021-02-11T14:47:18,Run,"North Tyneside, United Kingdom",false
+4771509744,2021-02-11T17:02:10,Walk,"North Tyneside, United Kingdom",false
+4774332131,2021-02-12T09:39:02,Run,"North Tyneside, United Kingdom",false
+4775850476,2021-02-12T15:25:10,Walk,"North Tyneside, United Kingdom",false
+4780064971,2021-02-13T10:49:57,Walk,"North Tyneside, United Kingdom",false
+4781687258,2021-02-13T16:25:52,Walk,"North Tyneside, United Kingdom",false
+4785469075,2021-02-14T11:14:49,Run,"North Tyneside, United Kingdom",false
+4789957451,2021-02-15T08:59:40,Run,"North Tyneside, United Kingdom",false
+4791884067,2021-02-15T16:15:21,Walk,"North Tyneside, United Kingdom",false
+4795556743,2021-02-16T09:43:53,Walk,"North Tyneside, United Kingdom",false
+4797548872,2021-02-16T17:09:58,Walk,"North Tyneside, United Kingdom",false
+4801038498,2021-02-17T08:48:51,Run,"North Tyneside, United Kingdom",false
+4803204961,2021-02-17T17:15:52,Walk,"North Tyneside, United Kingdom",false
+4807220008,2021-02-18T12:04:54,Walk,"North Tyneside, United Kingdom",false
+4808819289,2021-02-18T17:15:59,Walk,"North Tyneside, United Kingdom",false
+4810921083,2021-02-19T09:00:18,Run,"North Tyneside, United Kingdom",false
+4813549628,2021-02-19T14:14:36,Walk,"North Tyneside, United Kingdom",false
+4821687697,2021-02-20T10:30:58,Walk,"North Tyneside, United Kingdom",false
+4823246776,2021-02-21T10:55:24,Run,"North Tyneside, United Kingdom",false
+4826866984,2021-02-21T16:52:18,Walk,"North Tyneside, United Kingdom",false
+4830013992,2021-02-22T12:04:37,Walk,"North Tyneside, United Kingdom",false
+4831222148,2021-02-22T16:37:28,Walk,"North Tyneside, United Kingdom",false
+4834309844,2021-02-23T09:12:22,Run,"North Tyneside, United Kingdom",false
+4840583082,2021-02-24T08:55:07,Run,"North Tyneside, United Kingdom",false
+4842815019,2021-02-24T16:35:43,Walk,"North Tyneside, United Kingdom",false
+4849011896,2021-02-25T11:29:39,Walk,"North Tyneside, United Kingdom",false
+4849012105,2021-02-25T15:19:46,Walk,"North Tyneside, United Kingdom",false
+4852409614,2021-02-26T08:55:50,Run,"North Tyneside, United Kingdom",false
+4854519530,2021-02-26T15:45:29,Walk,"North Tyneside, United Kingdom",false
+4858942970,2021-02-27T11:04:09,Walk,"North Tyneside, United Kingdom",false
+4864481481,2021-02-28T10:20:24,Run,"North Tyneside, United Kingdom",false
+4870818198,2021-03-01T08:51:16,Run,"North Tyneside, United Kingdom",false
+4879230492,2021-03-02T12:53:25,Walk,"North Tyneside, United Kingdom",false
+4881993939,2021-03-03T08:04:58,Run,"North Tyneside, United Kingdom",false
+4893149127,2021-03-04T08:53:40,Walk,"North Tyneside, United Kingdom",false
+4893141675,2021-03-05T09:00:13,Run,"North Tyneside, United Kingdom",false
+4902397428,2021-03-06T10:54:13,Walk,"North Tyneside, United Kingdom",false
+4906034504,2021-03-07T10:18:53,Run,"North Tyneside, United Kingdom",false
+4912061141,2021-03-08T09:44:38,Run,"North Tyneside, United Kingdom",false
+4923246486,2021-03-10T09:18:36,Run,"North Tyneside, United Kingdom",false
+4933249196,2021-03-12T09:10:18,Run,"North Tyneside, United Kingdom",false
+4945617328,2021-03-14T12:16:19,Run,"North Tyneside, United Kingdom",false
+4950216868,2021-03-15T10:10:00,Run,"North Tyneside, United Kingdom",false
+4960870180,2021-03-17T08:47:38,Run,"North Tyneside, United Kingdom",false
+4971489826,2021-03-19T08:58:28,Run,"North Tyneside, United Kingdom",false
+4978838067,2021-03-20T10:42:47,Ride,"North Tyneside, United Kingdom",false
+4978838202,2021-03-20T14:01:51,Ride,"Newcastle upon Tyne, United Kingdom",false
+4983671903,2021-03-21T10:30:45,Run,"North Tyneside, United Kingdom",false
+4989311941,2021-03-22T08:48:36,Run,"North Tyneside, United Kingdom",false
+4995748399,2021-03-23T10:21:24,Ride,"North Tyneside, United Kingdom",false
+4995748549,2021-03-23T11:50:52,Ride,"Newcastle upon Tyne, United Kingdom",false
+5001184835,2021-03-24T09:01:36,Run,"North Tyneside, United Kingdom",false
+5013382135,2021-03-26T12:14:18,Run,"North Tyneside, United Kingdom",false
+5024903556,2021-03-28T11:28:16,Run,"North Tyneside, United Kingdom",false
+5030055981,2021-03-29T09:14:17,Run,"North Tyneside, United Kingdom",false
+5042312014,2021-03-31T08:56:12,Run,"North Tyneside, United Kingdom",false
+5049754625,2021-04-01T14:00:23,Ride,"North Tyneside, United Kingdom",false
+5049754609,2021-04-01T14:58:32,Ride,"Newcastle upon Tyne, United Kingdom",false
+5054663280,2021-04-02T11:30:07,Run,"North Tyneside, United Kingdom",false
+5057180213,2021-04-02T18:32:50,Walk,"North Tyneside, United Kingdom",false
+5061886481,2021-04-03T11:46:30,Ride,"North Tyneside, United Kingdom",false
+5061887311,2021-04-03T12:25:12,Walk,"Newcastle upon Tyne, United Kingdom",false
+5061886118,2021-04-03T14:50:57,Ride,"Newcastle upon Tyne, United Kingdom",false
+5066949204,2021-04-04T11:12:40,Run,"North Tyneside, United Kingdom",false
+5073337066,2021-04-05T12:22:30,Run,"North Tyneside, United Kingdom",false
+5075077916,2021-04-05T17:09:06,Walk,"North Tyneside, United Kingdom",false
+5078005492,2021-04-06T09:02:00,Walk,"North Tyneside, United Kingdom",false
+5084783305,2021-04-07T13:40:37,Run,"North Tyneside, United Kingdom",false
+5092035901,2021-04-08T10:00:21,Walk,"North Tyneside, United Kingdom",false
+5095073348,2021-04-09T09:44:38,Run,"North Tyneside, United Kingdom",false
+5103591285,2021-04-10T10:27:13,Walk,"North Tyneside, United Kingdom",false
+5108315477,2021-04-11T12:55:43,Run,"North Tyneside, United Kingdom",false
+5112755158,2021-04-12T09:05:11,Run,"North Tyneside, United Kingdom",false
+5118802613,2021-04-13T09:56:29,Walk,"North Tyneside, United Kingdom",false
+5124168131,2021-04-14T09:21:36,Run,"North Tyneside, United Kingdom",false
+5129919560,2021-04-15T08:51:19,Walk,"North Tyneside, United Kingdom",false
+5135396873,2021-04-16T09:10:59,Run,"North Tyneside, United Kingdom",false
+5141231423,2021-04-17T09:14:15,Walk,"Northumberland National Park, United Kingdom",false
+5148420775,2021-04-18T12:03:38,Run,"North Tyneside, United Kingdom",false
+5153313872,2021-04-19T08:42:43,Run,"North Tyneside, United Kingdom",false
+5160259122,2021-04-20T09:17:54,Walk,"North Tyneside, United Kingdom",false
+5165016121,2021-04-21T08:37:09,Run,"North Tyneside, United Kingdom",false
+5172313182,2021-04-22T10:44:11,Walk,"North Tyneside, United Kingdom",false
+5176501925,2021-04-23T09:01:26,Run,"North Tyneside, United Kingdom",false
+5183946405,2021-04-24T10:54:19,Walk,"North Tyneside, United Kingdom",false
+5185769098,2021-04-24T18:57:39,Walk,"Newcastle upon Tyne, United Kingdom",false
+5189982272,2021-04-25T12:18:10,Run,"North Tyneside, United Kingdom",false
+5194728210,2021-04-26T09:20:57,Run,"North Tyneside, United Kingdom",false
+5200672771,2021-04-27T09:12:12,Walk,"North Tyneside, United Kingdom",false
+5206137387,2021-04-28T08:56:19,Run,"North Tyneside, United Kingdom",false
+5212492162,2021-04-29T10:28:39,Walk,"North Tyneside, United Kingdom",false
+5216917926,2021-04-30T08:55:25,Run,"North Tyneside, United Kingdom",false
+5223150270,2021-05-01T12:16:10,Run,"North Tyneside, United Kingdom",false
+5230535231,2021-05-02T11:44:15,Walk,"North Yorkshire, United Kingdom",false
+5234747918,2021-05-03T10:55:42,Run,"North Tyneside, United Kingdom",false
+5241727131,2021-05-04T09:14:33,Walk,"North Tyneside, United Kingdom",false
+5244793940,2021-05-05T08:54:15,Run,"North Tyneside, United Kingdom",false
+5250337725,2021-05-06T09:59:24,Walk,"North Tyneside, United Kingdom",false
+5255427249,2021-05-07T08:48:48,Run,"North Tyneside, United Kingdom",false
+5261299760,2021-05-08T11:43:01,Run,"North Tyneside, United Kingdom",false
+5264118890,2021-05-08T15:35:00,Walk,"North Tyneside, United Kingdom",false
+5269165566,2021-05-09T12:35:00,Ride,"North Tyneside, United Kingdom",false
+5269165506,2021-05-09T14:12:56,Ride,"Newcastle upon Tyne, United Kingdom",false
+5271945827,2021-05-10T08:08:38,Run,"North Tyneside, United Kingdom",false
+5277863976,2021-05-11T08:39:48,Ride,"North Tyneside, United Kingdom",false
+5279998977,2021-05-11T18:20:55,Ride,"Newcastle upon Tyne, United Kingdom",false
+5283008981,2021-05-12T09:08:46,Run,"North Tyneside, United Kingdom",false
+5289399258,2021-05-13T10:27:48,Walk,"North Tyneside, United Kingdom",false
+5294184895,2021-05-14T08:48:51,Run,"North Tyneside, United Kingdom",false
+5299508971,2021-05-15T09:26:50,Run,"North Tyneside, United Kingdom",false
+5305695288,2021-05-16T08:21:40,Walk,"North Tyneside, United Kingdom",false
+5311063128,2021-05-17T08:52:56,Run,"North Tyneside, United Kingdom",false
+5316525452,2021-05-18T09:06:49,Ride,"North Tyneside, United Kingdom",false
+5319891109,2021-05-18T18:21:01,Ride,"Newcastle upon Tyne, United Kingdom",false
+5322069198,2021-05-19T08:40:57,Run,"North Tyneside, United Kingdom",false
+5327662649,2021-05-20T09:01:40,Walk,"North Tyneside, United Kingdom",false
+5332801225,2021-05-21T08:45:25,Run,"North Tyneside, United Kingdom",false
+5340504685,2021-05-22T11:58:13,Walk,"North Tyneside, United Kingdom",false
+5344956114,2021-05-23T13:05:52,Run,"North Tyneside, United Kingdom",false
+5350777620,2021-05-24T14:18:09,Walk,"North Tyneside, United Kingdom",false
+5350777912,2021-05-24T15:41:23,Walk,"Newcastle upon Tyne, United Kingdom",false
+5354352480,2021-05-25T09:12:47,Run,"North Tyneside, United Kingdom",false
+5359796867,2021-05-26T08:29:44,Run,"North Tyneside, United Kingdom",false
+5367083409,2021-05-27T15:07:23,Ride,"North Tyneside, United Kingdom",false
+5367083383,2021-05-27T16:16:38,Ride,"Newcastle upon Tyne, United Kingdom",false
+5370675093,2021-05-28T08:39:16,Run,"North Tyneside, United Kingdom",false
+5378248271,2021-05-29T16:33:34,Walk,"Oxford, United Kingdom",false
+5381352438,2021-05-30T08:46:54,Run,"Oxford, United Kingdom",false
+5387565565,2021-05-31T09:03:57,Run,"Oxford, United Kingdom",false
+5393481538,2021-06-01T09:49:27,Ride,"North Tyneside, United Kingdom",false
+5399261392,2021-06-01T17:17:56,Ride,"Newcastle upon Tyne, United Kingdom",false
+5399778093,2021-06-02T10:31:01,Run,"North Tyneside, United Kingdom",false
+5410533373,2021-06-04T07:32:58,Run,"Greater London, United Kingdom",false
+5423895353,2021-06-06T08:39:41,Run,"Hamden, Connecticut",false
+5426730635,2021-06-06T17:49:43,Walk,"Hamden, Connecticut",false
+5428880681,2021-06-07T07:29:15,Run,"Hamden, Connecticut",false
+5437195971,2021-06-08T14:47:05,Walk,"New Haven, Connecticut",false
+5440350361,2021-06-09T07:47:54,Run,"Hamden, Connecticut",false
+5448833011,2021-06-10T12:51:21,Walk,"Hamden, Connecticut",false
+5452050139,2021-06-11T09:54:04,Run,"Hamden, Connecticut",false
+5459917585,2021-06-12T11:22:34,Walk,"New Haven, Connecticut",false
+5463150494,2021-06-13T08:17:23,Run,"Brookfield, Vermont",false
+5469124493,2021-06-14T10:54:09,Walk,"Brookfield, Vermont",false
+5473677229,2021-06-15T07:55:47,Run,"Brookfield, Vermont",false
+5481680247,2021-06-16T12:18:03,Walk,"Brookfield, Vermont",false
+5485895636,2021-06-17T11:20:23,Run,"Brookfield, Vermont",false
+5490243022,2021-06-18T08:22:18,Run,"Brookfield, Vermont",false
+5492403712,2021-06-18T18:31:16,Run,"Brighton, Vermont",false
+5496292659,2021-06-19T10:44:03,Walk,"Brookfield, Vermont",false
+5501552812,2021-06-20T09:47:27,Run,"Brookfield, Vermont",false
+5501553177,2021-06-20T09:55:34,Run,"Brookfield, Vermont",false
+5505888708,2021-06-21T09:01:46,Run,"Brookfield, Vermont",false
+5511289563,2021-06-22T09:17:22,Walk,"Brookfield, Vermont",false
+5516632523,2021-06-23T08:16:49,Run,"Brookfield, Vermont",false
+5522225758,2021-06-24T08:51:42,Run,"Brookfield, Vermont",false
+5534670222,2021-06-26T11:06:25,Walk,"New Haven, Connecticut",false
+5537978733,2021-06-27T08:42:07,Run,"Hamden, Connecticut",false
+5542530085,2021-06-28T07:49:09,Run,"Hamden, Connecticut",false
+5552802996,2021-06-29T17:31:26,Walk,"New Haven, Connecticut",false
+5552724175,2021-06-30T07:40:35,Run,"Hamden, Connecticut",false
+5562875642,2021-07-02T07:24:51,Run,"Hamden, Connecticut",false
+5574437781,2021-07-04T10:07:10,Run,"Hamden, Connecticut",false
+5579299816,2021-07-05T10:21:12,Run,"Hamden, Connecticut",false
+5589274179,2021-07-07T07:51:44,Run,"Hamden, Connecticut",false
+5604921435,2021-07-10T08:46:23,Run,"Hamden, Connecticut",false
+5611091759,2021-07-11T08:57:31,Run,"Hamden, Connecticut",false
+5621394808,2021-07-13T10:53:12,Run,"Hamden, Connecticut",false
+5631404568,2021-07-15T08:22:12,Run,"Hamden, Connecticut",false
+5641786419,2021-07-17T09:06:16,Run,"Hamden, Connecticut",false
+5643404233,2021-07-17T14:48:17,Ride,"Hamden, Connecticut",false
+5643756686,2021-07-17T15:46:23,Ride,"New Haven, Connecticut",false
+5647735263,2021-07-18T09:18:32,Run,"Hamden, Connecticut",false
+5657612754,2021-07-20T08:35:15,Run,"Brookfield, Vermont",false
+5674820165,2021-07-23T09:34:29,Run,"Hamden, Connecticut",false
+5678909384,2021-07-24T07:20:54,Run,"Hamden, Connecticut",false
+5689886726,2021-07-26T09:05:01,Run,"Brookfield, Vermont",false
+5700840284,2021-07-28T09:23:05,Run,"Brookfield, Vermont",false
+5712457743,2021-07-30T08:48:40,Run,"Brookfield, Vermont",false
+5716068595,2021-07-31T09:02:12,Run,"Hamden, Connecticut",false
+5721915175,2021-08-01T10:05:33,Run,"Hamden, Connecticut",false
+5750263461,2021-08-06T08:27:42,Hike,"Pinkham's Grant, New Hampshire",false
+5812541848,2021-08-18T08:01:10,Run,"Hamden, Connecticut",false
+5822243855,2021-08-20T08:28:40,Run,"North Tyneside, United Kingdom",false
+5832618635,2021-08-22T07:35:22,Run,"Bad Schönborn, Germany",false
+5843644392,2021-08-24T08:37:30,Run,"Bad Schönborn, Germany",false
+5854924169,2021-08-26T08:38:27,Run,"Bad Schönborn, Germany",false
+5861012193,2021-08-27T10:28:09,Hike,"Baiersbronn, Germany",false
+5866165366,2021-08-28T10:59:27,Hike,"Baiersbronn, Germany",false
+5871094085,2021-08-29T11:31:19,Run,"Bad Schönborn, Germany",false
+5880875733,2021-08-31T08:33:15,Run,"Bad Schönborn, Germany",false
+5891934092,2021-09-02T07:37:36,Run,"Bad Schönborn, Germany",false
+5902241499,2021-09-03T15:11:32,Ride,"North Tyneside, United Kingdom",false
+5902241506,2021-09-03T19:51:59,Ride,"Newcastle upon Tyne, United Kingdom",false
+5902714157,2021-09-04T09:55:21,Run,"North Tyneside, United Kingdom",false
+5913963418,2021-09-06T07:19:01,Run,"North Tyneside, United Kingdom",false
+5923243428,2021-09-07T08:07:57,Ride,"North Tyneside, United Kingdom",false
+5923243412,2021-09-07T18:01:14,Ride,"Newcastle upon Tyne, United Kingdom",false
+5925179496,2021-09-08T07:17:41,Run,"North Tyneside, United Kingdom",false
+5930573143,2021-09-09T07:19:20,Run,"North Tyneside, United Kingdom",false
+5941004536,2021-09-11T09:28:46,Run,"North Tyneside, United Kingdom",false
+5952315104,2021-09-13T07:22:41,Run,"North Tyneside, United Kingdom",false
+5962823592,2021-09-15T07:17:37,Run,"North Tyneside, United Kingdom",false
+5973209151,2021-09-17T06:39:33,Run,"North Tyneside, United Kingdom",false
+5985441947,2021-09-19T12:21:01,Run,"North Tyneside, United Kingdom",false
+5989438149,2021-09-20T08:03:33,Run,"North Tyneside, United Kingdom",false
+6000058200,2021-09-22T08:53:34,Run,"North Tyneside, United Kingdom",false
+6010294563,2021-09-24T08:14:30,Run,"North Tyneside, United Kingdom",false
+6020262645,2021-09-26T08:20:10,Run,"Bad Schönborn, Germany",false
+6026079260,2021-09-27T08:04:42,Run,"Bad Schönborn, Germany",false
+6036478930,2021-09-29T07:47:52,Run,"North Tyneside, United Kingdom",false
+6046268649,2021-10-01T07:47:05,Run,"North Tyneside, United Kingdom",false
+6057499895,2021-10-03T12:48:33,Run,"North Tyneside, United Kingdom",false
+6061153312,2021-10-04T07:47:56,Run,"North Tyneside, United Kingdom",false
+6071008150,2021-10-06T08:15:25,Run,"North Tyneside, United Kingdom",false
+6080977313,2021-10-08T08:51:57,Run,"North Tyneside, United Kingdom",false
+6091184426,2021-10-10T09:49:39,Run,"North Tyneside, United Kingdom",false
+6100787961,2021-10-12T08:08:47,Run,"North Tyneside, United Kingdom",false
+6110776172,2021-10-14T08:27:50,Run,"North Tyneside, United Kingdom",false
+6115333991,2021-10-15T08:09:19,Run,"North Tyneside, United Kingdom",false
+6126937782,2021-10-17T13:53:23,Run,"North Tyneside, United Kingdom",false
+6134796502,2021-10-19T08:03:59,Run,"North Tyneside, United Kingdom",false
+6144450254,2021-10-21T08:06:20,Run,"North Tyneside, United Kingdom",false
+6148879471,2021-10-22T07:59:13,Run,"North Tyneside, United Kingdom",false
+6155692946,2021-10-23T13:24:14,Hike,"Perth and Kinross, United Kingdom",false
+6160303840,2021-10-24T11:33:06,Hike,"Perth and Kinross, United Kingdom",false
+6175311465,2021-10-27T13:34:46,Run,"Hamden, Connecticut",false
+6228442325,2021-11-08T08:29:33,Run,"North Tyneside, United Kingdom",false
+6237512349,2021-11-10T08:37:46,Run,"North Tyneside, United Kingdom",false
+6246522867,2021-11-12T08:44:50,Run,"North Tyneside, United Kingdom",false
+6256133297,2021-11-14T10:53:37,Run,"North Tyneside, United Kingdom",false
+6260201433,2021-11-15T08:29:12,Run,"North Tyneside, United Kingdom",false
+6269129022,2021-11-17T07:54:48,Run,"North Tyneside, United Kingdom",false
+6278049781,2021-11-19T08:49:53,Run,"North Tyneside, United Kingdom",false
+6284057506,2021-11-20T11:36:33,Hike,"Northumberland National Park, United Kingdom",false
+6288350152,2021-11-21T13:16:39,Run,"North Tyneside, United Kingdom",false
+6295749428,2021-11-23T08:47:04,Run,"North Tyneside, United Kingdom",false
+6304373406,2021-11-25T08:11:49,Run,"Greater London, United Kingdom",false
+6308544233,2021-11-26T08:22:51,Run,"North Tyneside, United Kingdom",false
+6316944860,2021-11-28T10:34:39,Run,"North Tyneside, United Kingdom",false
+6324625701,2021-11-30T08:04:45,Run,"Leeds, United Kingdom",false
+6333184104,2021-12-02T08:55:46,Run,"North Tyneside, United Kingdom",false
+6341467930,2021-12-04T10:25:54,Run,"North Tyneside, United Kingdom",false
+6346004739,2021-12-05T10:49:39,Run,"North Tyneside, United Kingdom",false
+6357700809,2021-12-08T08:24:03,Run,"North Tyneside, United Kingdom",false
+6361734942,2021-12-09T08:13:40,Run,"North Tyneside, United Kingdom",false
+6370575104,2021-12-11T08:20:45,Ride,,true
+6375617523,2021-12-12T15:10:22,Run,"North Tyneside, United Kingdom",false
+6377962710,2021-12-13T02:45:25,Ride,,true
+6381808993,2021-12-14T03:21:28,Ride,,true
+6388181111,2021-12-15T13:52:17,Ride,,true
+6389416031,2021-12-15T22:35:09,Ride,,true
+6400075280,2021-12-18T14:04:54,Run,"Hamden, Connecticut",false
+6403126898,2021-12-19T08:34:11,Run,"Hamden, Connecticut",false
+6527984400,2022-01-15T10:13:22,Run,"Hamden, Connecticut",false
+6535282195,2022-01-16T14:58:14,Ride,,true
+6538267533,2022-01-17T15:02:39,Run,"North Tyneside, United Kingdom",false
+6541917930,2022-01-18T04:04:05,Ride,,true
+6547267418,2022-01-19T08:36:44,Run,"North Tyneside, United Kingdom",false
+6552260085,2022-01-20T02:57:27,Ride,,true
+6557264003,2022-01-21T08:23:52,Run,"North Tyneside, United Kingdom",false
+6564762096,2022-01-22T11:56:06,Ride,,true
+6569056548,2022-01-23T12:41:51,Run,"North Tyneside, United Kingdom",false
+6573085308,2022-01-24T08:38:56,Run,"North Tyneside, United Kingdom",false
+6578891531,2022-01-25T07:15:02,Ride,,true
+6588419493,2022-01-27T03:07:14,Ride,,true
+6593294928,2022-01-28T08:05:18,Run,"North Tyneside, United Kingdom",false
+6600174908,2022-01-29T13:39:59,Hike,"Perth and Kinross, United Kingdom",false
+6605427038,2022-01-30T08:58:26,Hike,"Loch Lomond and The Trossachs National Park, United Kingdom",false
+6623954234,2022-02-01T02:49:44,Ride,,true
+6618873779,2022-02-02T08:02:16,Run,"North Tyneside, United Kingdom",false
+6623948525,2022-02-03T03:10:29,Ride,,true
+6628788634,2022-02-04T07:38:07,Run,"North Tyneside, United Kingdom",false
+6639172561,2022-02-06T10:01:02,Run,"North Tyneside, United Kingdom",false
+6643921186,2022-02-07T02:45:42,Ride,,true
+6648963688,2022-02-08T07:52:18,Run,"North Tyneside, United Kingdom",false
+6654375878,2022-02-09T02:54:58,Ride,,true
+6659916346,2022-02-10T08:11:09,Run,"North Tyneside, United Kingdom",false
+6664923528,2022-02-11T03:26:59,Ride,,true
+6676895735,2022-02-13T12:12:16,Run,"North Tyneside, United Kingdom",false
+6680740109,2022-02-14T03:15:36,Ride,,true
+6686997580,2022-02-15T09:59:08,Ride,,true
+6692713365,2022-02-16T11:54:57,Ride,,true
+6697587519,2022-02-17T11:46:52,Ride,,true
+6706079091,2022-02-19T07:40:44,Ride,,true
+6711020847,2022-02-20T06:45:25,Ride,,true
+6720069654,2022-02-22T04:14:20,Ride,,true
+6725169842,2022-02-23T03:46:05,Ride,,true
+6730176113,2022-02-24T02:32:41,Ride,,true
+6736506181,2022-02-25T12:50:24,Hike,"Perth and Kinross, United Kingdom",false
+6741260683,2022-02-26T12:16:27,Hike,"Cairngorms National Park, United Kingdom",false
+6747709544,2022-02-27T09:23:10,Hike,"Cairngorms National Park, United Kingdom",false
+6750128492,2022-02-28T03:17:26,Ride,,true
+6768514779,2022-03-03T14:48:22,Run,"Hamden, Connecticut",false
+6772032209,2022-03-04T09:35:07,Walk,"Hamden, Connecticut",false
+6803647962,2022-03-10T12:45:34,Ride,,true
+6806125913,2022-03-11T02:39:06,Ride,,true
+6810570961,2022-03-12T03:01:54,Ride,,true
+6816966397,2022-03-13T07:17:16,Ride,,true
+6826361795,2022-03-15T03:19:44,Ride,,true
+6831622801,2022-03-16T03:03:13,Ride,,true
+6836857230,2022-03-17T03:31:43,Ride,,true
+6841918816,2022-03-18T04:53:24,Ride,,true
+6848020670,2022-03-19T08:41:56,Ride,,true
+6857709988,2022-03-21T03:26:53,Ride,,true
+6874211425,2022-03-24T06:12:06,Ride,,true
+6879076831,2022-03-25T04:55:28,Ride,,true
+6891042443,2022-03-27T08:18:08,Ride,,true
+6895047677,2022-03-28T03:23:22,Ride,,true
+6901877399,2022-03-29T11:02:16,Ride,,true
+6919784943,2022-04-02T07:35:51,Ride,,true
+6923992696,2022-04-03T04:55:29,Ride,,true
+6933975761,2022-04-05T05:26:54,Ride,,true
+6953735498,2022-04-09T07:08:05,Ride,,true
+6968349821,2022-04-12T08:08:48,Run,"Bad Schönborn, Germany",false
+6978861855,2022-04-14T07:32:54,Run,"Bad Schönborn, Germany",false
+6990628654,2022-04-16T07:50:35,Ride,,true
+6996050086,2022-04-17T07:05:12,Ride,,true
+6999981481,2022-04-18T03:47:00,Ride,,true
+7008253383,2022-04-19T10:12:55,Hike,"Highland, United Kingdom",false
+7013200577,2022-04-20T13:43:06,Hike,"Cairngorms National Park, United Kingdom",false
+7017718557,2022-04-21T09:42:45,Hike,"Cairngorms National Park, United Kingdom",false
+7022572638,2022-04-22T08:43:34,Hike,"Cairngorms National Park, United Kingdom",false
+7053290442,2022-04-28T04:18:17,Ride,,true
+7058430027,2022-04-29T04:12:24,Ride,,true
+7064662470,2022-04-30T08:28:17,Ride,,true
+7069553518,2022-05-01T06:32:44,Ride,,true
+7079489758,2022-05-03T02:19:31,Ride,,true
+7085416081,2022-05-04T03:37:35,Ride,,true
+7090723894,2022-05-05T03:01:59,Ride,,true
+7117329000,2022-05-10T02:39:42,Ride,,true
+7123313732,2022-05-11T03:06:50,Ride,,true
+7131253166,2022-05-12T12:31:30,Ride,,true
+7134095434,2022-05-13T02:35:45,Ride,,true
+7138654974,2022-05-14T02:06:54,Ride,,true
+7179719620,2022-05-21T11:19:43,Ride,,true
+7185500737,2022-05-22T10:24:18,Ride,,true
+7188680573,2022-05-23T08:33:44,Ride,"North Tyneside, United Kingdom",false
+7190859774,2022-05-23T17:06:52,Ride,"Newcastle upon Tyne, United Kingdom",false
+7200995529,2022-05-25T11:38:20,Ride,,true
+7204052589,2022-05-26T02:31:31,Ride,,true
+7209348139,2022-05-27T01:57:01,Ride,,true
+7238752276,2022-06-01T18:24:10,Walk,"Castelló de la Plana, Spain",false
+7283035328,2022-06-09T07:55:49,Run,"Hamden, Connecticut",false
+7343407870,2022-06-21T03:53:06,Ride,,true
+7350935108,2022-06-22T08:39:17,Run,"North Tyneside, United Kingdom",false
+7354581747,2022-06-23T03:50:13,Ride,,true
+7373968682,2022-06-26T14:34:26,Walk,"Northumberland National Park, United Kingdom",false
+7380525879,2022-06-28T03:46:15,Ride,,true
+7387125966,2022-06-29T02:51:21,Ride,,true
+7405308428,2022-07-02T16:17:23,Ride,,true
+7455305917,2022-07-12T04:21:22,Ride,,true
+7460714053,2022-07-13T02:57:41,Ride,,true
+7482748267,2022-07-17T05:51:29,Ride,,true
+7487468691,2022-07-18T02:37:41,Ride,,true
+7492700383,2022-07-19T03:40:27,Ride,,true
+7508715648,2022-07-22T03:45:27,Ride,,true
+7513205541,2022-07-23T02:30:47,Ride,,true
+7524758159,2022-07-25T08:09:13,Run,"Bad Schönborn, Germany",false
+7535473019,2022-07-27T07:50:15,Run,"Bad Schönborn, Germany",false
+7633276632,2022-08-13T11:04:22,Hike,"Stowe, Vermont",false
+7745890686,2022-09-03T09:17:18,Run,"North Tyneside, United Kingdom",false
+7752475993,2022-09-04T11:47:00,Run,"North Tyneside, United Kingdom",false
+7762436429,2022-09-06T08:11:51,Run,"North Tyneside, United Kingdom",false
+7767768023,2022-09-07T07:11:29,Run,"North Tyneside, United Kingdom",false
+7778512473,2022-09-09T07:50:49,Run,"North Tyneside, United Kingdom",false
+7783001161,2022-09-10T07:31:33,Run,"North Tyneside, United Kingdom",false
+7791830957,2022-09-11T12:08:52,Hike,"Cairngorms National Park, United Kingdom",false
+7794812548,2022-09-12T08:05:15,Run,"North Tyneside, United Kingdom",false
+7805500358,2022-09-14T07:29:31,Run,"Greater London, United Kingdom",false
+7816110209,2022-09-16T08:10:29,Run,"North Tyneside, United Kingdom",false
+7826430864,2022-09-18T09:26:16,Run,"North Tyneside, United Kingdom",false
+7832225777,2022-09-19T10:33:48,Run,"North Tyneside, United Kingdom",false
+7842407171,2022-09-21T07:41:13,Run,"North Tyneside, United Kingdom",false
+7852955212,2022-09-23T07:39:50,Run,"North Tyneside, United Kingdom",false
+7857633021,2022-09-24T07:48:48,Run,"North Tyneside, United Kingdom",false
+7865395738,2022-09-25T10:50:02,Hike,"Loch Lomond and The Trossachs National Park, United Kingdom",false
+7868637378,2022-09-26T07:46:01,Run,"North Tyneside, United Kingdom",false
+7878503568,2022-09-28T07:19:18,Run,"North Tyneside, United Kingdom",false
+7883502294,2022-09-29T07:22:26,Run,"North Tyneside, United Kingdom",false
+7893140341,2022-10-01T09:18:23,Run,"North Tyneside, United Kingdom",false
+7903491479,2022-10-03T07:21:34,Run,"North Tyneside, United Kingdom",false
+7913957575,2022-10-05T07:46:48,Run,"North Tyneside, United Kingdom",false
+7929167903,2022-10-08T09:23:37,Run,"North Tyneside, United Kingdom",false
+7934716772,2022-10-09T09:39:43,Run,"North Tyneside, United Kingdom",false
+7945024266,2022-10-11T08:01:06,Run,"North Tyneside, United Kingdom",false
+7950320709,2022-10-12T07:39:23,Run,"North Tyneside, United Kingdom",false
+7960230225,2022-10-14T06:54:07,Run,"North Tyneside, United Kingdom",false
+7964882183,2022-10-15T08:32:32,Run,"North Tyneside, United Kingdom",false
+7975902921,2022-10-17T07:52:09,Run,"North Tyneside, United Kingdom",false
+7986184297,2022-10-19T08:00:33,Run,"North Tyneside, United Kingdom",false
+7995816269,2022-10-21T07:50:15,Run,"North Tyneside, United Kingdom",false
+8002959662,2022-10-22T15:45:44,Walk,"Northumberland Coast AONB, United Kingdom",false
+8006097572,2022-10-23T10:03:40,Run,"North Tyneside, United Kingdom",false
+8016630200,2022-10-25T12:28:41,Run,"North Tyneside, United Kingdom",false
+8020828940,2022-10-26T08:04:08,Run,"North Tyneside, United Kingdom",false
+8032680563,2022-10-28T11:17:42,Run,"Hamden, Connecticut",false
+8044534347,2022-10-30T13:09:16,Run,"Hamden, Connecticut",false
+8054195725,2022-11-01T14:00:39,Run,"Hamden, Connecticut",false
+8063661735,2022-11-03T13:17:25,Run,"Hamden, Connecticut",false
+8068076375,2022-11-04T12:57:58,Run,"Hamden, Connecticut",false
+8084092368,2022-11-07T15:31:57,Run,"Hamden, Connecticut",false
+8087447500,2022-11-08T08:43:31,Run,"Hamden, Connecticut",false
+8095814796,2022-11-10T08:00:31,Run,"North Tyneside, United Kingdom",false
+8105428022,2022-11-12T09:03:39,Run,"Oxford, United Kingdom",false
+8115982347,2022-11-14T09:04:26,Run,"North Tyneside, United Kingdom",false
+8129585469,2022-11-17T03:01:18,Ride,,true
+8134138066,2022-11-18T08:29:55,Run,"North Tyneside, United Kingdom",false
+8143598653,2022-11-20T10:01:31,Run,"North Tyneside, United Kingdom",false
+8152098434,2022-11-22T08:36:48,Run,"North Tyneside, United Kingdom",false
+8156527588,2022-11-23T03:30:17,Ride,,true
+8161738286,2022-11-24T11:44:26,Run,"North Tyneside, United Kingdom",false
+8165521912,2022-11-25T03:59:54,Ride,,true
+8170916988,2022-11-26T12:46:49,Run,"North Tyneside, United Kingdom",false
+8179245539,2022-11-28T08:29:49,Run,"North Tyneside, United Kingdom",false
+8188185576,2022-11-30T08:19:58,Run,"North Tyneside, United Kingdom",false
+8196801435,2022-12-02T08:49:18,Run,"North Tyneside, United Kingdom",false
+8209580969,2022-12-05T08:18:51,Run,"North Tyneside, United Kingdom",false
+8218167662,2022-12-07T08:03:40,Run,"Greater London, United Kingdom",false
+8226720168,2022-12-09T08:42:25,Run,"North Tyneside, United Kingdom",false
+8236156944,2022-12-11T13:40:53,Run,"North Tyneside, United Kingdom",false
+8242707055,2022-12-13T03:46:16,Ride,,true
+8246629989,2022-12-14T03:23:35,Ride,,true
+8250404543,2022-12-15T02:36:17,Ride,,true
+8258576140,2022-12-17T07:19:37,Ride,,true
+8262688485,2022-12-18T06:43:46,Ride,,true
+8265862198,2022-12-19T08:38:04,Run,"North Tyneside, United Kingdom",false
+8274585669,2022-12-21T12:20:25,Run,"North Tyneside, United Kingdom",false
+8281738181,2022-12-23T10:54:14,Run,"North Tyneside, United Kingdom",false
+8289332441,2022-12-25T11:08:37,Run,"North Tyneside, United Kingdom",false
+8292550632,2022-12-26T10:30:51,Run,"North Tyneside, United Kingdom",false
+8299139039,2022-12-27T13:38:55,Ride,,true
+8302941258,2022-12-28T10:32:05,Ride,,true
+8326059848,2023-01-01T11:06:36,Walk,"Brookfield, Vermont",false
+8326060535,2023-01-02T08:22:03,Walk,"Brookfield, Vermont",false
+8341949561,2023-01-03T10:34:57,Walk,"Brookfield, Vermont",false
+8341949153,2023-01-04T09:57:03,Walk,"Brookfield, Vermont",false
+8341948951,2023-01-05T07:47:23,Run,"Cambridge, Massachusetts",false
+8353600203,2023-01-07T09:22:12,Run,"New Orleans, Louisiana",false
+8359945406,2023-01-08T12:20:37,Ride,,true
+8364695666,2023-01-09T09:29:35,Run,"New Orleans, Louisiana",false
+8369764391,2023-01-10T11:23:21,Run,"Cambridge, Massachusetts",false
+8378865528,2023-01-12T08:52:35,Run,"Greater London, United Kingdom",false
+8396394170,2023-01-15T13:25:51,Run,"North Tyneside, United Kingdom",false
+8405037271,2023-01-17T02:23:23,Ride,,true
+8410597310,2023-01-18T02:43:03,Ride,,true
+8416102122,2023-01-19T03:02:11,Ride,,true
+8424367195,2023-01-20T16:20:22,Ride,,true
+8427442679,2023-01-21T07:19:59,Ride,,true
+8427119828,2023-01-21T11:34:31,Run,"North Tyneside, United Kingdom",false
+8433637675,2023-01-22T11:12:00,Walk,"North Tyneside, United Kingdom",false
+8437610911,2023-01-23T03:37:12,Ride,,true
+8448274956,2023-01-25T02:43:21,Ride,,true
+8458961496,2023-01-27T03:20:24,Ride,,true
+8464619731,2023-01-28T05:58:55,Ride,,true
+8473450988,2023-01-29T17:27:04,Ride,"Utrechtse Heuvelrug, Netherlands",false
+8473454866,2023-01-29T19:48:04,Ride,"Utrechtse Heuvelrug, Netherlands",false
+8503417654,2023-02-04T12:23:57,Run,"North Tyneside, United Kingdom",false
+8508765743,2023-02-05T10:55:13,Run,"North Tyneside, United Kingdom",false
+8513536779,2023-02-06T02:13:33,Ride,,true
+8519297658,2023-02-07T08:03:58,Run,"North Tyneside, United Kingdom",false
+8524879236,2023-02-08T02:32:08,Ride,,true
+8530752853,2023-02-09T08:06:29,Run,"North Tyneside, United Kingdom",false
+8535935670,2023-02-10T02:48:41,Ride,,true
+8542298872,2023-02-11T11:31:54,Run,"North Tyneside, United Kingdom",false
+8549584081,2023-02-12T10:04:53,Ride,,true
+8552817024,2023-02-13T07:25:20,Run,"Greater London, United Kingdom",false
+8564248732,2023-02-15T08:32:35,Walk,"North Tyneside, United Kingdom",false
+8570607124,2023-02-16T07:59:04,Walk,"North Tyneside, United Kingdom",false
+8574855970,2023-02-17T02:40:21,Ride,,true
+8580914359,2023-02-18T06:48:22,Ride,,true
+8586654224,2023-02-19T06:44:26,Ride,,true
+8591503465,2023-02-20T03:35:17,Ride,,true
+8596859637,2023-02-21T03:21:11,Ride,,true
+8602815253,2023-02-22T08:34:44,Run,"North Tyneside, United Kingdom",false
+8607931967,2023-02-23T02:50:43,Ride,,true
+8613770520,2023-02-24T10:12:18,Run,"Greater London, United Kingdom",false
+8623503127,2023-02-25T09:55:14,Walk,"Greater London, United Kingdom",false
+8624194068,2023-02-26T09:31:37,Run,"Greater London, United Kingdom",false
+8635630444,2023-02-28T10:57:47,Run,"North Tyneside, United Kingdom",false
+8640428545,2023-03-01T02:52:51,Ride,,true
+8646267498,2023-03-02T08:22:27,Run,"North Tyneside, United Kingdom",false
+8651454400,2023-03-03T03:14:11,Ride,,true
+8658337059,2023-03-04T12:47:14,Run,"North Tyneside, United Kingdom",false
+8664284040,2023-03-05T11:17:26,Walk,"North Tyneside, United Kingdom",false
+8668971803,2023-03-06T09:49:54,Run,"North Tyneside, United Kingdom",false
+8673769324,2023-03-07T02:55:27,Ride,,true
+8679716939,2023-03-08T08:34:08,Run,"North Tyneside, United Kingdom",false
+8684648216,2023-03-09T02:48:53,Ride,,true
+8689749069,2023-03-10T07:11:34,Run,"North Tyneside, United Kingdom",false
+8696672370,2023-03-11T09:10:09,Ride,,true
+8702395103,2023-03-12T12:13:38,Run,"North Tyneside, United Kingdom",false
+8706273175,2023-03-13T04:16:26,Ride,,true
+8711439382,2023-03-14T07:21:42,Run,"North Tyneside, United Kingdom",false
+8717260789,2023-03-15T05:15:11,Ride,,true
+8722919560,2023-03-16T08:46:47,Run,"North Tyneside, United Kingdom",false
+8734290973,2023-03-18T10:45:04,Run,"North Tyneside, United Kingdom",false
+8734309648,2023-03-18T11:24:50,Walk,"North Tyneside, United Kingdom",false
+8742822259,2023-03-19T12:34:15,Ride,,true
+8745335690,2023-03-20T07:50:54,Run,"North Tyneside, United Kingdom",false
+8750553801,2023-03-21T03:24:33,Ride,,true
+8756745722,2023-03-22T07:37:09,Run,"Greater London, United Kingdom",false
+8764148228,2023-03-23T10:28:22,Ride,,true
+8769397092,2023-03-24T06:59:28,Run,"Denver, Colorado",false
+8780913546,2023-03-26T07:28:09,Run,"Denver, Colorado",false
+8792242709,2023-03-28T09:03:15,Run,"Denver, Colorado",false
+8799403729,2023-03-29T15:09:25,Ride,,true
+8799084776,2023-03-29T18:48:52,Walk,"North Tyneside, United Kingdom",false
+8801762065,2023-03-30T09:17:18,Run,"North Tyneside, United Kingdom",false
+8819753035,2023-04-02T15:06:11,Walk,"North Tyneside, United Kingdom",false
+8840989819,2023-04-06T04:07:28,Ride,,true
+8851643218,2023-04-08T08:06:02,Run,"Bad Schönborn, Germany",false
+8860888626,2023-04-09T14:53:40,Walk,"Bad Schönborn, Germany",false
+8863820770,2023-04-10T08:04:08,Run,"Bad Schönborn, Germany",false
+8876209654,2023-04-12T08:18:30,Run,"Bad Schönborn, Germany",false
+8882114807,2023-04-13T08:28:35,Run,"Bad Schönborn, Germany",false
+8887804063,2023-04-14T07:32:44,Walk,"Paris, France",false
+8892841890,2023-04-15T08:48:08,Run,"Paris, France",false
+8901726693,2023-04-16T10:09:39,Ride,,true
+8905414692,2023-04-17T08:07:02,Run,"North Tyneside, United Kingdom",false
+8910995969,2023-04-18T03:12:58,Ride,,true
+8917367094,2023-04-19T08:10:38,Run,"North Tyneside, United Kingdom",false
+8923362444,2023-04-20T03:24:54,Ride,,true
+8928828743,2023-04-21T06:54:26,Run,"North Tyneside, United Kingdom",false
+8938433139,2023-04-22T16:41:25,Walk,"North Tyneside, United Kingdom",false
+8942225881,2023-04-23T11:59:24,Run,"North Tyneside, United Kingdom",false
+8947101260,2023-04-24T03:30:40,Ride,,true
+8952596939,2023-04-25T07:08:29,Run,"North Tyneside, United Kingdom",false
+8958626039,2023-04-26T02:07:13,Ride,,true
+8966144922,2023-04-27T07:42:32,Run,"Toronto, Canada",false
+8978843948,2023-04-29T10:39:40,Run,"Toronto, Canada",false
+8991034072,2023-05-01T09:44:52,Run,"Hamden, Connecticut",false
+9004912107,2023-05-03T13:52:12,Run,"Hamden, Connecticut",false
+9016416076,2023-05-05T12:33:06,Run,"Hamden, Connecticut",false
+9027802388,2023-05-07T08:49:38,Run,"Montpelier, Vermont",false
+9033515456,2023-05-08T08:22:39,Run,"Montpelier, Vermont",false
+9044084223,2023-05-10T07:24:47,Run,"Strasbourg, France",false
+9056728233,2023-05-12T10:03:01,Run,"Strasbourg, France",false
+9062381894,2023-05-13T11:31:44,Walk,"Paris, France",false
+9068038746,2023-05-14T09:06:13,Run,"Paris, France",false
+9080088416,2023-05-16T08:04:45,Run,"North Tyneside, United Kingdom",false
+9092391029,2023-05-18T08:06:34,Run,"North Tyneside, United Kingdom",false
+9098648300,2023-05-19T07:32:53,Run,"North Tyneside, United Kingdom",false
+9113336954,2023-05-21T09:04:48,Run,"Hamden, Connecticut",false
+9119227553,2023-05-22T07:40:30,Walk,"Hamden, Connecticut",false
+9124959585,2023-05-23T07:59:23,Run,"Hamden, Connecticut",false
+9131718067,2023-05-24T08:31:16,Run,"Hamden, Connecticut",false
+9138653405,2023-05-25T10:47:00,Run,"Hamden, Connecticut",false
+9145676903,2023-05-26T14:24:09,Ride,,true
+9150723902,2023-05-27T09:45:47,Run,"Edgartown, Massachusetts",false
+9157290616,2023-05-28T09:59:23,Run,"Oak Bluffs, Massachusetts",false
+9165180570,2023-05-29T09:09:40,Walk,"Oak Bluffs, Massachusetts",false
+9209959041,2023-06-05T07:48:38,Walk,"Hamden, Connecticut",false
+9209958987,2023-06-05T16:39:25,Walk,"Hamden, Connecticut",false
+9239541545,2023-06-10T09:38:16,Hike,"Hamden, Connecticut",false
+9240490982,2023-06-10T12:36:47,Run,"Hamden, Connecticut",false
+9246220709,2023-06-11T08:20:19,Run,"Hamden, Connecticut",false
+9260630354,2023-06-13T17:12:45,Run,"Montpelier, Vermont",false
+9270222144,2023-06-15T07:37:21,Run,"Montpelier, Vermont",false
+9276513326,2023-06-16T09:24:26,Ride,,true
+9292778926,2023-06-19T06:51:07,Run,"L'Aquila, Italy",false
+9305384229,2023-06-21T06:50:10,Run,"L'Aquila, Italy",false
+9317780238,2023-06-23T07:25:47,Run,"L'Aquila, Italy",false
+9326738054,2023-06-24T09:41:22,Walk,"Vienna, Austria",false
+9336407690,2023-06-26T08:10:36,Run,"North Tyneside, United Kingdom",false
+9342513764,2023-06-27T08:39:50,Run,"North Tyneside, United Kingdom",false
+9354995187,2023-06-29T08:02:02,Run,"Oxford, United Kingdom",false
+9360722943,2023-06-30T02:14:57,Ride,,true
+9366909997,2023-07-01T09:56:37,Run,"North Tyneside, United Kingdom",false
+9378926279,2023-07-03T07:59:58,Run,"North Tyneside, United Kingdom",false
+9394495916,2023-07-05T17:43:26,Run,"North Tyneside, United Kingdom",false
+9404238641,2023-07-07T08:31:08,Run,"North Tyneside, United Kingdom",false
+9417350215,2023-07-09T10:37:38,Run,"North Tyneside, United Kingdom",false
+9432437779,2023-07-11T15:04:25,Hike,"Highland, United Kingdom",false
+9437789677,2023-07-12T13:43:54,Hike,"Highland, United Kingdom",false
+9445970997,2023-07-13T15:03:15,Hike,"Highland, United Kingdom",false
+9454413595,2023-07-15T10:01:23,Run,"North Tyneside, United Kingdom",false
+9463006107,2023-07-16T12:03:00,Hike,"Northumberland National Park, United Kingdom",false
+9466683151,2023-07-17T09:06:59,Run,"North Tyneside, United Kingdom",false
+9479727468,2023-07-19T08:37:24,Run,"North Tyneside, United Kingdom",false
+9492423230,2023-07-21T08:36:24,Run,"North Tyneside, United Kingdom",false
+9505338274,2023-07-23T10:54:31,Run,"North Tyneside, United Kingdom",false
+9517102212,2023-07-25T09:26:26,Run,"North Tyneside, United Kingdom",false
+9529825994,2023-07-27T08:21:20,Run,"North Tyneside, United Kingdom",false
+9549876196,2023-07-30T08:13:47,Run,"Hamden, Connecticut",false
+9555824956,2023-07-31T08:26:05,Run,"Hamden, Connecticut",false
+9570038044,2023-08-02T10:45:22,Run,"Montpelier, Vermont",false
+9570038556,2023-08-02T10:57:10,Run,"Montpelier, Vermont",false
+9570038928,2023-08-02T11:12:26,Run,"Montpelier, Vermont",false
+9584097149,2023-08-04T16:22:25,Walk,"Brookfield, Vermont",false
+9589805427,2023-08-05T10:43:53,Hike,"Mendon, Vermont",false
+9606204652,2023-08-08T08:38:32,Run,"Bloomington, Indiana",false
+9613164593,2023-08-09T08:55:02,Run,"Bloomington, Indiana",false
+9619891035,2023-08-10T08:59:13,Run,"Bloomington, Indiana",false
+9625962056,2023-08-11T07:26:18,Run,"Bloomington, Indiana",false
+9646307601,2023-08-14T11:03:01,Run,"Montpelier, Vermont",false
+9660195827,2023-08-16T11:11:08,Run,"Montpelier, Vermont",false
+9666675877,2023-08-17T10:20:19,Walk,"Brookfield, Vermont",false
+9673479589,2023-08-18T11:16:26,Run,"Montpelier, Vermont",false
+9736437920,2023-08-28T08:18:30,Run,"Hamden, Connecticut",false
+9749513452,2023-08-30T09:02:00,Run,"Hamden, Connecticut",false
+9762146074,2023-09-01T09:19:49,Run,"Cambridge, Massachusetts",false
+9776361429,2023-09-03T11:04:19,Ride,,true
+9779947296,2023-09-04T08:16:44,Run,"North Tyneside, United Kingdom",false
+9793721056,2023-09-06T08:52:07,Run,"North Tyneside, United Kingdom",false
+9806952421,2023-09-08T09:18:58,Run,"North Tyneside, United Kingdom",false
+9819541267,2023-09-10T08:45:43,Run,"North Tyneside, United Kingdom",false
+9866040144,2023-09-17T10:17:49,Run,"North Tyneside, United Kingdom",false
+9902667092,2023-09-23T10:10:12,Run,"Mytilene Municipal Unit, Greece",false
+9915899980,2023-09-25T07:45:47,Run,"North Tyneside, United Kingdom",false
+9922211490,2023-09-26T03:44:48,Ride,,true
+9928903842,2023-09-27T07:45:04,Run,"North Tyneside, United Kingdom",false
+9937257557,2023-09-28T09:48:32,Ride,,true
+9948759978,2023-09-30T12:05:01,Run,"North Tyneside, United Kingdom",false
+9954668532,2023-10-01T05:59:38,Ride,,true
+9960208393,2023-10-02T07:22:33,Run,"North Tyneside, United Kingdom",false
+9973334891,2023-10-04T08:30:03,Run,"Lund, Sweden",false
+9979720346,2023-10-05T08:38:39,Run,"Lund, Sweden",false
+9986794746,2023-10-06T06:52:54,Ride,,true
+9995047306,2023-10-07T11:53:34,Ride,,true
+9998977406,2023-10-08T10:07:08,Run,"North Tyneside, United Kingdom",false
+10004652371,2023-10-09T07:31:14,Run,"North Tyneside, United Kingdom",false
+10017327348,2023-10-11T07:40:17,Run,"North Tyneside, United Kingdom",false
+10023510799,2023-10-12T03:26:23,Ride,,true
+10029467409,2023-10-13T07:45:59,Run,"Oxford, United Kingdom",false
+10037922434,2023-10-14T11:22:31,Ride,,true
+10041848564,2023-10-15T09:51:25,Run,"North Tyneside, United Kingdom",false
+10053378112,2023-10-17T08:11:10,Run,"Fife, United Kingdom",false
+10059763641,2023-10-18T08:28:04,Run,"Fife, United Kingdom",false
+10065581687,2023-10-19T03:26:30,Ride,,true
+10071109180,2023-10-20T03:16:06,Ride,,true
+10076500327,2023-10-21T09:23:47,Run,"North Tyneside, United Kingdom",false
+10082511413,2023-10-22T05:09:22,Ride,,true
+10088686766,2023-10-23T08:19:46,Run,"North Tyneside, United Kingdom",false
+10096538401,2023-10-24T10:52:56,Ride,,true
+10100653463,2023-10-25T08:26:47,Run,"North Tyneside, United Kingdom",false
+10108062307,2023-10-26T09:59:14,Ride,,true
+10112168212,2023-10-27T09:35:04,Run,"North Tyneside, United Kingdom",false
+10117433914,2023-10-28T09:12:27,Run,"North Tyneside, United Kingdom",false
+10129862892,2023-10-30T11:23:14,Run,"Bad Schönborn, Germany",false
+10135803521,2023-10-31T12:23:35,Walk,"Bad Schönborn, Germany",false
+10141698886,2023-11-01T11:54:14,Run,"Bad Schönborn, Germany",false
+10151619372,2023-11-03T07:43:44,Run,"Bad Schönborn, Germany",false
+10164216903,2023-11-05T11:54:26,Run,"Bad Schönborn, Germany",false
+10180931772,2023-11-08T07:25:17,Run,"Zurich, Switzerland",false
+10186766359,2023-11-09T07:23:29,Run,"Zurich, Switzerland",false
+10193494043,2023-11-10T11:59:35,Walk,"Paris, France",false
+10198513102,2023-11-11T10:05:43,Run,"North Tyneside, United Kingdom",false
+10204827920,2023-11-12T10:01:01,Run,"North Tyneside, United Kingdom",false
+10215467246,2023-11-14T08:02:50,Run,"Greater London, United Kingdom",false
+10229423438,2023-11-16T07:30:18,Run,"San Diego, California",false
+10241137214,2023-11-18T08:27:19,Run,"San Diego, California",false
+10255881724,2023-11-21T08:58:55,Run,"North Tyneside, United Kingdom",false
+10261464359,2023-11-22T08:47:45,Run,"North Tyneside, United Kingdom",false
+10272665372,2023-11-24T08:47:11,Run,"North Tyneside, United Kingdom",false
+10277629567,2023-11-25T04:38:33,Ride,,true
+10284276460,2023-11-26T10:41:41,Run,"North Tyneside, United Kingdom",false
+10294034666,2023-11-28T08:33:53,Run,"North Tyneside, United Kingdom",false
+10299696863,2023-11-29T04:02:23,Ride,,true
+10299754849,2023-11-29T04:34:41,Ride,,true
+10304827667,2023-11-30T02:11:23,Ride,,true
+10310272679,2023-12-01T08:37:11,Run,"North Tyneside, United Kingdom",false
+10399253634,2023-12-18T07:05:08,Ride,,true
+10410068893,2023-12-20T09:21:10,Ride,,true
+10414362429,2023-12-21T06:51:21,Ride,,true
+10420127833,2023-12-22T09:46:18,Ride,,true
+10429991046,2023-12-24T07:21:47,Ride,,true
+10434918070,2023-12-25T09:49:40,Ride,,true
+10439920573,2023-12-26T09:44:03,Ride,,true
+10445994066,2023-12-27T11:28:18,Ride,,true
+10449431449,2023-12-28T05:03:28,Ride,,true
+10464219940,2023-12-30T10:50:51,Walk,"Brookfield, Vermont",false
+10472764505,2023-12-31T09:54:12,Walk,"Brookfield, Vermont",false
+10475616450,2024-01-01T13:13:51,Run,"Montpelier, Vermont",false
+10480873442,2024-01-02T11:38:11,Walk,"Brookfield, Vermont",false
+10513227362,2024-01-07T09:34:33,Run,"Chicago, Illinois",false
+10519284435,2024-01-08T12:13:22,Ride,,true
+10522950698,2024-01-09T03:56:36,Ride,,true
+10535882651,2024-01-11T03:25:34,Ride,,true
+10548578806,2024-01-13T09:26:41,Run,"Greater London, United Kingdom",false
+10555639655,2024-01-14T10:21:55,Run,"Greater London, United Kingdom",false
+10568170920,2024-01-16T08:14:17,Run,"North Tyneside, United Kingdom",false
+10574768354,2024-01-17T08:33:55,Run,"North Tyneside, United Kingdom",false
+10586950932,2024-01-19T08:19:14,Run,"North Tyneside, United Kingdom",false
+10601045466,2024-01-21T10:48:31,Run,"North Tyneside, United Kingdom",false
+10612369689,2024-01-23T09:04:56,Run,"North Tyneside, United Kingdom",false
+10618876792,2024-01-24T04:23:20,Ride,,true
+10625210445,2024-01-25T07:43:48,Run,"Greater London, United Kingdom",false
+10631879455,2024-01-26T08:30:57,Run,"Greater London, United Kingdom",false
+10646252998,2024-01-28T10:56:20,Run,"North Tyneside, United Kingdom",false
+10658670068,2024-01-30T07:40:45,Run,"Greater London, United Kingdom",false
+10666065737,2024-01-31T03:56:49,Ride,,true
+10672865109,2024-02-01T08:38:37,Run,"North Tyneside, United Kingdom",false
+10679270716,2024-02-02T03:13:32,Ride,,true
+10686229223,2024-02-03T09:54:25,Run,"North Tyneside, United Kingdom",false
+10696635403,2024-02-04T16:39:01,Run,"North Tyneside, United Kingdom",false
+10708130445,2024-02-06T14:01:12,Walk,"Paris, France",false
+10712784420,2024-02-07T07:52:53,Run,"Zurich, Switzerland",false
+10717356958,2024-02-07T15:39:48,Walk,"Zurich, Switzerland",false
+10745148911,2024-02-12T02:16:49,Ride,,true
+10751792357,2024-02-13T07:05:34,Run,"Liverpool, United Kingdom",false
+10758700906,2024-02-14T02:34:52,Ride,,true
+10765097623,2024-02-15T02:54:07,Ride,,true
+10771906457,2024-02-16T08:54:40,Run,"North Tyneside, United Kingdom",false
+10793531908,2024-02-19T07:36:47,Run,"Hamden, Connecticut",false
+10807439432,2024-02-21T08:03:28,Run,"Hamden, Connecticut",false
+10814293707,2024-02-22T08:30:44,Run,"Hamden, Connecticut",false
+10820520705,2024-02-23T08:15:35,Run,"Hamden, Connecticut",false
+10834615093,2024-02-25T08:14:48,Run,"Hamden, Connecticut",false
+10840620039,2024-02-26T07:58:00,Run,"Hamden, Connecticut",false
+10854858603,2024-02-28T08:17:21,Run,"Hamden, Connecticut",false
+10861428189,2024-02-29T08:16:15,Run,"Hamden, Connecticut",false
+10867847225,2024-03-01T08:04:31,Run,"Hamden, Connecticut",false
+10882038891,2024-03-03T08:51:09,Run,"Hamden, Connecticut",false
+10888375858,2024-03-04T07:59:37,Run,"Hamden, Connecticut",false
+10902819266,2024-03-05T12:51:30,Walk,"New Haven, Connecticut",false
+10902819410,2024-03-06T07:55:15,Run,"Hamden, Connecticut",false
+10912982878,2024-03-07T14:05:25,Walk,"New Haven, Connecticut",false
+10936603352,2024-03-11T09:30:27,Run,"Hamden, Connecticut",false
+10951523453,2024-03-13T11:21:53,Run,"Hamden, Connecticut",false
+10965026527,2024-03-15T09:46:48,Run,"Hamden, Connecticut",false
+10979979429,2024-03-17T09:24:54,Run,"Hamden, Connecticut",false
+10992948189,2024-03-19T08:40:26,Run,"Hamden, Connecticut",false
+11004603770,2024-03-20T17:24:14,Walk,"Washington, District of Columbia",false
+11014579976,2024-03-22T08:00:27,Run,"Hamden, Connecticut",false
+11029727863,2024-03-24T10:53:17,Run,"Hamden, Connecticut",false
+11044299918,2024-03-26T14:51:06,Run,"Hamden, Connecticut",false
+11051218616,2024-03-27T15:32:15,Run,"Hamden, Connecticut",false
+11056108629,2024-03-28T10:39:30,Run,"Hamden, Connecticut",false
+11084771568,2024-04-01T12:01:00,Hike,"Lake District National Park, United Kingdom",false
+11088610439,2024-04-02T08:03:40,Run,"North Tyneside, United Kingdom",false
+11096047986,2024-04-03T03:47:20,Ride,,true
+11103137414,2024-04-04T08:16:18,Run,"North Tyneside, United Kingdom",false
+11110066229,2024-04-05T03:59:53,Ride,,true
+11117039660,2024-04-06T09:17:15,Run,"North Tyneside, United Kingdom",false
+11121212578,2024-04-06T16:53:28,Hike,"Yorkshire Dales National Park, United Kingdom",false
+11129620424,2024-04-07T07:06:02,Hike,"Yorkshire Dales National Park, United Kingdom",false
+11139961056,2024-04-09T03:46:58,Ride,,true
+11147405423,2024-04-10T02:46:13,Ride,,true
+11155137482,2024-04-11T07:39:31,Run,"North Tyneside, United Kingdom",false
+11162559953,2024-04-12T03:40:29,Ride,,true
+11171459197,2024-04-13T12:03:23,Run,"North Tyneside, United Kingdom",false
+11206760239,2024-04-17T11:43:08,Hike,"Honolulu, Hawaii",false
+11244036981,2024-04-23T07:42:01,Run,"North Tyneside, United Kingdom",false
+11255686300,2024-04-24T18:01:13,Soccer,,true
+11259303548,2024-04-25T03:36:14,Ride,,true
+11266661112,2024-04-26T07:53:14,Run,"North Tyneside, United Kingdom",false
+11277157199,2024-04-27T12:12:57,Ride,,true
+11297929007,2024-04-30T07:12:55,Ride,,true
+11375471812,2024-05-03T07:53:25,Walk,"Cambridge, Massachusetts",false
+11375095500,2024-05-10T03:33:00,Ride,,true
+11383385795,2024-05-11T10:04:43,Run,"North Tyneside, United Kingdom",false
+11398610795,2024-05-13T08:03:58,Run,"North Tyneside, United Kingdom",false
+11414441335,2024-05-15T02:51:39,Ride,,true
+11429790096,2024-05-17T08:04:48,Run,"North Tyneside, United Kingdom",false
+11438609580,2024-05-18T07:54:34,Ride,,true
+11452883175,2024-05-20T07:40:21,Run,"L'Aquila, Italy",false
+11460962091,2024-05-21T08:08:40,Run,"L'Aquila, Italy",false
+11468846863,2024-05-22T07:57:31,Run,"L'Aquila, Italy",false
+11476664790,2024-05-23T08:09:51,Run,"L'Aquila, Italy",false
+11484181135,2024-05-24T08:09:11,Run,"L'Aquila, Italy",false
+11500077438,2024-05-26T09:37:48,Run,"North Tyneside, United Kingdom",false
+11507536813,2024-05-27T04:54:31,Ride,,true
+11514834869,2024-05-28T08:12:27,Run,"North Tyneside, United Kingdom",false
+11523259457,2024-05-29T09:03:04,Ride,,true
+11530534960,2024-05-30T07:04:04,Run,"Greater London, United Kingdom",false
+11545808201,2024-06-01T09:27:11,Run,"North Tyneside, United Kingdom",false
+11553831109,2024-06-02T05:20:59,Ride,,true
+11561400525,2024-06-03T07:34:48,Run,"North Tyneside, United Kingdom",false
+11569162887,2024-06-04T03:42:16,Ride,,true
+11577672993,2024-06-05T08:13:57,Run,"North Tyneside, United Kingdom",false
+11593758789,2024-06-07T07:41:25,Run,"Greater London, United Kingdom",false
+11601735693,2024-06-08T05:28:43,Ride,,true
+11614799980,2024-06-09T16:42:41,Walk,"Paris, France",false
+11616916315,2024-06-10T07:06:16,Run,"Paris, France",false
+11624207692,2024-06-11T07:17:10,Run,"Paris, France",false
+11632957608,2024-06-12T08:57:32,Run,"Saint-Cloud, France",false
+11648717837,2024-06-14T08:06:49,Run,"North Tyneside, United Kingdom",false
+11658694719,2024-06-15T10:29:35,Ride,,true
+11663660858,2024-06-16T08:50:39,Run,"North Tyneside, United Kingdom",false
+11678936334,2024-06-18T07:38:49,Run,"Greater London, United Kingdom",false
+11687114033,2024-06-19T07:33:21,Run,"Greater London, United Kingdom",false
+11695267215,2024-06-20T07:32:37,Run,"Greater London, United Kingdom",false
+11702758934,2024-06-21T07:31:16,Run,"Greater London, United Kingdom",false
+11710593142,2024-06-22T09:40:34,Walk,"Bath and North East Somerset, United Kingdom",false
+11720067286,2024-06-23T11:00:50,Walk,"Bath and North East Somerset, United Kingdom",false
+11733541695,2024-06-25T07:36:39,Run,"Greater London, United Kingdom",false
+11742213042,2024-06-26T08:06:37,Run,"North Tyneside, United Kingdom",false
+11758083089,2024-06-28T09:11:45,Run,"North Tyneside, United Kingdom",false
+11766592155,2024-06-29T07:35:48,Ride,,true
+11773071566,2024-06-30T09:13:35,Run,"North Tyneside, United Kingdom",false
+11775841366,2024-06-30T13:55:32,Walk,"Northumberland Coast AONB, United Kingdom",false
+11780240167,2024-07-01T03:47:13,Ride,,true
+11780284959,2024-07-01T04:09:19,Ride,,true
+11788230062,2024-07-02T08:52:42,Run,"North Tyneside, United Kingdom",false
+11796374897,2024-07-03T03:31:25,Ride,,true
+11804530902,2024-07-04T08:26:59,Run,"North Tyneside, United Kingdom",false
+11812456231,2024-07-05T03:33:24,Ride,,true
+11821303355,2024-07-06T07:30:10,Ride,,true
+11828058224,2024-07-07T09:18:20,Run,"North Tyneside, United Kingdom",false
+11834963149,2024-07-08T01:30:23,Ride,,true
+11843845979,2024-07-09T08:03:50,Run,"City of Bristol, United Kingdom",false
+11861057300,2024-07-11T10:46:41,Run,"City of Bristol, United Kingdom",false
+11877253056,2024-07-13T08:04:18,Run,"Hamden, Connecticut",false
+11893676186,2024-07-15T08:06:07,Run,"Hamden, Connecticut",false
+11902502381,2024-07-16T09:41:18,Run,"Hamden, Connecticut",false
+11912180937,2024-07-17T11:53:29,Walk,"Brookfield, Vermont",false
+11923313593,2024-07-18T17:08:20,Walk,"Brookfield, Vermont",false
+11951832609,2024-07-22T08:45:32,Run,"Hamden, Connecticut",false
+11960182571,2024-07-23T08:09:02,Run,"Oak Bluffs, Massachusetts",false
+11972011164,2024-07-24T14:43:19,Ride,,true
+11976616034,2024-07-24T15:47:38,Walk,"Oak Bluffs, Massachusetts",false
+11979034788,2024-07-25T08:53:49,Run,"Oak Bluffs, Massachusetts",false
+12002958396,2024-07-28T08:47:21,Run,"Oak Bluffs, Massachusetts",false
+12011376851,2024-07-29T09:37:22,Run,"Hamden, Connecticut",false
+12027999530,2024-07-31T09:29:22,Run,"Montpelier, Vermont",false
+12038648347,2024-08-01T12:19:13,Hike,"Lincoln, Vermont",false
+12043716698,2024-08-02T08:33:05,Run,"Brookfield, Vermont",false
+12064222857,2024-08-04T13:56:19,Hike,"Westfield, Vermont",false
+12081241749,2024-08-06T13:05:32,Hike,"Starksboro, Vermont",false
+12086706047,2024-08-07T09:20:52,Run,"Brookfield, Vermont",false
+12102908479,2024-08-09T08:03:34,Run,"Hamden, Connecticut",false
+12111904940,2024-08-10T09:40:07,Run,"Hamden, Connecticut",false
+12122288321,2024-08-11T13:19:50,Ride,,true
+12125941687,2024-08-12T08:13:05,Run,"North Tyneside, United Kingdom",false
+12134543409,2024-08-13T04:17:42,Ride,,true
+12143441421,2024-08-14T08:06:41,Run,"North Tyneside, United Kingdom",false
+12151799957,2024-08-15T04:19:39,Ride,,true
+12160345278,2024-08-16T03:28:40,Run,,false
+12173215330,2024-08-17T12:33:31,Hike,"North Pennines AONB, United Kingdom",false
+12177917141,2024-08-18T10:24:54,Run,"North Tyneside, United Kingdom",false
+12184930818,2024-08-19T03:21:14,Ride,,true
+12193481506,2024-08-20T07:59:01,Run,"North Tyneside, United Kingdom",false
+12202649424,2024-08-21T03:47:47,Ride,,true
+12211548386,2024-08-22T08:36:11,Run,"North Tyneside, United Kingdom",false
+12220111705,2024-08-23T04:39:10,Ride,,true
+12227891700,2024-08-24T08:08:47,Run,"North Tyneside, United Kingdom",false
+12239165700,2024-08-25T09:14:38,Hike,"Gwynedd, United Kingdom",false
+12253078896,2024-08-27T08:27:09,Run,"North Tyneside, United Kingdom",false
+12262159615,2024-08-28T03:57:09,Ride,,true
+12270705163,2024-08-29T08:02:57,Run,"North Tyneside, United Kingdom",false
+12278987300,2024-08-30T07:57:00,Run,"North Tyneside, United Kingdom",false
+12288495149,2024-08-31T10:51:17,Run,"North Tyneside, United Kingdom",false
+12295925895,2024-09-01T05:12:13,Ride,,true
+12304217355,2024-09-02T08:23:15,Run,"North Tyneside, United Kingdom",false
+12304230402,2024-09-02T09:23:43,Run,"North Tyneside, United Kingdom",false
+12312837992,2024-09-03T03:55:00,Ride,,true
+12321995470,2024-09-04T08:23:01,Run,"North Tyneside, United Kingdom",false
+12330611255,2024-09-05T03:16:15,Ride,,true
+12339694304,2024-09-06T09:41:34,Run,"North Tyneside, United Kingdom",false
+12355592736,2024-09-08T08:37:08,Run,"City of Edinburgh, United Kingdom",false
+12364304141,2024-09-09T08:05:30,Run,"North Tyneside, United Kingdom",false
+12364315220,2024-09-09T09:05:14,Run,"North Tyneside, United Kingdom",false
+12372510630,2024-09-10T08:00:00,Run,"North Tyneside, United Kingdom",false
+12381405666,2024-09-11T08:13:40,Run,"North Tyneside, United Kingdom",false
+12389762053,2024-09-12T03:43:19,Ride,,true
+12398567457,2024-09-13T09:41:43,Run,"North Tyneside, United Kingdom",false
+12413401439,2024-09-15T08:16:17,Run,"Aberdeen City, United Kingdom",false
+12422416738,2024-09-16T08:11:44,Run,"North Tyneside, United Kingdom",false
+12422423731,2024-09-16T09:12:08,Run,"North Tyneside, United Kingdom",false
+12430672858,2024-09-17T04:04:30,Ride,,true
+12430725921,2024-09-17T04:36:30,Ride,,true
+12439655438,2024-09-18T08:27:46,Run,"North Tyneside, United Kingdom",false
+12448359863,2024-09-19T07:47:15,Run,"North Tyneside, United Kingdom",false
+12456980943,2024-09-20T08:57:34,Run,"North Tyneside, United Kingdom",false
+12463890191,2024-09-21T03:06:25,Ride,,true
+12477348783,2024-09-22T07:48:52,Run,"Los Angeles, California",false
+12485191544,2024-09-23T08:59:17,Run,"Los Angeles, California",false
+12492388568,2024-09-24T06:42:50,Run,"Los Angeles, California",false
+12501422618,2024-09-25T07:18:29,Run,"Los Angeles, California",false
+12509179612,2024-09-26T07:24:50,Run,"Pasadena, California",false
+12523080639,2024-09-28T11:21:04,Run,"North Tyneside, United Kingdom",false
+12530707882,2024-09-29T06:00:38,Ride,,true
+12538124878,2024-09-30T08:04:33,Run,"North Tyneside, United Kingdom",false
+12538132802,2024-09-30T09:07:29,Run,"North Tyneside, United Kingdom",false
+12545055516,2024-10-01T00:09:31,Ride,,true
+12554518974,2024-10-02T08:04:38,Run,"North Tyneside, United Kingdom",false
+12562677008,2024-10-03T08:24:39,Run,"North Tyneside, United Kingdom",false
+12570609723,2024-10-04T04:17:26,Ride,,true
+12581608672,2024-10-05T13:00:49,Run,"Northumberland, United Kingdom",false
+12588224547,2024-10-06T10:27:38,Run,"North Tyneside, United Kingdom",false
+12595462160,2024-10-07T03:11:27,Ride,,true
+12603506759,2024-10-08T07:52:18,Run,"North Tyneside, United Kingdom",false
+12603520109,2024-10-08T09:03:38,Run,"North Tyneside, United Kingdom",false
+12611865695,2024-10-09T07:58:42,Run,"North Tyneside, United Kingdom",false
+12619838379,2024-10-10T07:57:57,Run,"North Tyneside, United Kingdom",false
+12627326712,2024-10-11T07:39:05,Run,"Oxford, United Kingdom",false
+12627337873,2024-10-11T08:52:48,Run,"Oxford, United Kingdom",false
+12634991258,2024-10-12T08:33:50,Run,"Oxford, United Kingdom",false
+12651296476,2024-10-14T08:02:28,Run,"North Tyneside, United Kingdom",false
+12651312622,2024-10-14T09:06:28,Run,"North Tyneside, United Kingdom",false
+12659145334,2024-10-15T08:15:15,Run,"North Tyneside, United Kingdom",false
+12668575324,2024-10-16T07:17:33,Ride,,true
+12675510514,2024-10-17T08:17:25,Run,"North Tyneside, United Kingdom",false
+12683283795,2024-10-18T08:31:29,Run,"North Tyneside, United Kingdom",false
+12690978965,2024-10-19T09:56:36,Run,"North Tyneside, United Kingdom",false
+12698737879,2024-10-20T09:34:00,Run,"North Tyneside, United Kingdom",false
+12706837580,2024-10-21T08:14:00,Run,"North Tyneside, United Kingdom",false
+12714121470,2024-10-22T01:31:07,Ride,,true
+12723497799,2024-10-23T08:23:12,Run,"North Tyneside, United Kingdom",false
+12731917454,2024-10-24T08:29:24,Run,"North Tyneside, United Kingdom",false
+12745846521,2024-10-25T16:00:39,Walk,"Döbling, Austria",false
+12745850087,2024-10-26T07:23:40,Run,"Meidling, Austria",false
+12754071911,2024-10-27T07:17:16,Run,"Meidling, Austria",false
+12763277038,2024-10-28T08:26:20,Run,"Meidling, Austria",false
+12771492490,2024-10-29T08:15:09,Run,"North Tyneside, United Kingdom",false
+12789276628,2024-10-31T07:56:35,Run,"Hamden, Connecticut",false
+12797356642,2024-11-01T09:13:58,Run,"Hamden, Connecticut",false
+12813229211,2024-11-03T07:33:48,Run,"Hamden, Connecticut",false
+12823551765,2024-11-04T14:21:34,Run,"Hamden, Connecticut",false
+12831795475,2024-11-05T14:46:01,Run,"Hamden, Connecticut",false
+12836998916,2024-11-06T08:17:58,Run,"Hamden, Connecticut",false
+12852291538,2024-11-08T08:35:24,Run,"Hamden, Connecticut",false
+12862365511,2024-11-09T14:03:54,Run,"Cambridge, Massachusetts",false
+12869136432,2024-11-10T08:12:43,Run,"Boston, Massachusetts",false
+12891671361,2024-11-13T08:37:57,Run,"Hamden, Connecticut",false
+12908565574,2024-11-15T14:00:04,Walk,"Brookfield, Vermont",false
+12915577938,2024-11-16T11:15:29,Run,"Montpelier, Vermont",false
+12929743222,2024-11-18T09:30:55,Run,"Hamden, Connecticut",false
+12939302466,2024-11-19T13:29:41,Walk,,true
+12944802384,2024-11-20T09:40:35,Run,"Boston, Massachusetts",false
+12966796326,2024-11-23T08:17:49,Walk,"Del Mar, California",false
+12982923470,2024-11-25T16:11:16,Ride,,true
+12988156042,2024-11-26T09:35:01,Run,"Oak Bluffs, Massachusetts",false
+12988155328,2024-11-26T10:52:27,Walk,"Oak Bluffs, Massachusetts",false
+12998297124,2024-11-27T17:04:20,Ride,,true
+13002027830,2024-11-28T07:55:23,Run,"Oak Bluffs, Massachusetts",false
+13002028022,2024-11-28T08:31:01,Run,"Oak Bluffs, Massachusetts",false
+13009703726,2024-11-29T09:55:31,Run,"Oak Bluffs, Massachusetts",false
+13016691614,2024-11-30T09:54:30,Run,"Oak Bluffs, Massachusetts",false
+13028873049,2024-12-02T08:55:36,Run,"North Tyneside, United Kingdom",false
+13035428344,2024-12-03T01:54:36,Ride,,true
+13045485614,2024-12-04T13:22:36,Run,"North Tyneside, United Kingdom",false
+13050251120,2024-12-05T01:52:01,Ride,,true
+13078523803,2024-12-05T02:22:42,Ride,,true
+13057705122,2024-12-06T09:32:03,Run,"North Tyneside, United Kingdom",false
+13072710984,2024-12-08T07:58:03,Run,"Somerville, Massachusetts",false
+13078523462,2024-12-09T07:08:03,Run,"Somerville, Massachusetts",false
+13087476518,2024-12-10T12:39:49,Ride,,true
+13091535640,2024-12-11T08:09:25,Run,"North Tyneside, United Kingdom",false
+13098468603,2024-12-12T03:45:09,Ride,,true
+13105470089,2024-12-13T08:20:47,Run,"North Tyneside, United Kingdom",false
+13115621058,2024-12-14T12:44:13,Ride,,true
+13120365144,2024-12-15T11:18:17,Run,"North Tyneside, United Kingdom",false
+13132933868,2024-12-17T07:47:21,Run,"Greater London, United Kingdom",false
+13143520166,2024-12-18T12:32:45,Ride,,true
+13148293040,2024-12-19T11:15:11,Run,"North Tyneside, United Kingdom",false
+13156512622,2024-12-20T12:38:24,Ride,,true
+13159738271,2024-12-21T08:53:32,Run,"North Tyneside, United Kingdom",false
+13167802739,2024-12-22T10:45:16,Run,"North Tyneside, United Kingdom",false
+13174317864,2024-12-23T07:53:06,Ride,,true
+13180045298,2024-12-24T09:25:08,Run,"North Tyneside, United Kingdom",false
+13186737115,2024-12-25T10:28:07,Run,"North Tyneside, United Kingdom",false
+13192374168,2024-12-26T10:12:23,Run,"North Tyneside, United Kingdom",false
+13199977510,2024-12-27T10:27:38,Run,"North Tyneside, United Kingdom",false
+13219144024,2024-12-28T06:22:41,Walk,"Newcastle upon Tyne, United Kingdom",false
+13219144542,2024-12-29T14:06:35,Walk,"Brookfield, Vermont",false
+13224478519,2024-12-30T09:04:53,Run,"Montpelier, Vermont",false
+13232522882,2024-12-31T09:54:33,Run,"Montpelier, Vermont",false
+13239467656,2025-01-01T10:19:54,Run,"Montpelier, Vermont",false
+13281130357,2025-01-06T08:08:33,Run,"Hamden, Connecticut",false
+13290316026,2025-01-07T08:11:09,Run,"Hamden, Connecticut",false
+13317553728,2025-01-10T10:18:55,Run,"Hamden, Connecticut",false
+13320133343,2025-01-10T16:09:05,Walk,"Hamden, Connecticut",false
+13325480595,2025-01-11T08:08:03,Run,"Hamden, Connecticut",false
+13341474338,2025-01-13T08:45:32,Run,"North Tyneside, United Kingdom",false
+13341474565,2025-01-13T09:48:10,Run,"North Tyneside, United Kingdom",false
+13350048696,2025-01-14T03:06:28,Ride,,true
+13359565227,2025-01-15T08:00:08,Run,"North Tyneside, United Kingdom",false
+13368308694,2025-01-16T03:21:08,Ride,,true
+13377227342,2025-01-17T08:31:09,Run,"North Tyneside, United Kingdom",false
+13387207484,2025-01-18T07:36:52,Ride,,true
+13396319818,2025-01-19T10:50:34,Run,"North Tyneside, United Kingdom",false
+13403302164,2025-01-20T08:13:25,Run,"North Tyneside, United Kingdom",false
+13403302255,2025-01-20T08:48:05,Run,"North Tyneside, United Kingdom",false
+13412331752,2025-01-21T08:11:21,Run,"Greater London, United Kingdom",false
+13421002893,2025-01-22T03:15:11,Ride,,true
+13429870112,2025-01-23T08:17:16,Run,"North Tyneside, United Kingdom",false
+13439244922,2025-01-24T09:10:06,Walk,"North Tyneside, United Kingdom",false
+13447031693,2025-01-25T09:41:25,Run,"North Tyneside, United Kingdom",false
+13455468616,2025-01-26T09:47:12,Run,"North Tyneside, United Kingdom",false
+13464096044,2025-01-27T08:32:59,Run,"North Tyneside, United Kingdom",false
+13464096121,2025-01-27T09:36:14,Run,"North Tyneside, United Kingdom",false
+13472296576,2025-01-28T03:12:27,Ride,,true
+13482252436,2025-01-29T09:19:05,Run,"North Tyneside, United Kingdom",false
+13491169915,2025-01-30T08:23:21,Run,"North Tyneside, United Kingdom",false
+13499592459,2025-01-31T08:28:16,Run,"North Tyneside, United Kingdom",false
+13508908833,2025-02-01T10:13:48,Walk,"North Tyneside, United Kingdom",false
+13518358088,2025-02-02T10:35:20,Run,"North Tyneside, United Kingdom",false
+13526327679,2025-02-03T08:40:11,Run,"North Tyneside, United Kingdom",false
+13526327858,2025-02-03T09:43:27,Run,"North Tyneside, United Kingdom",false
+13535199928,2025-02-04T04:15:39,Ride,,true
+13544939617,2025-02-05T08:45:11,Run,"North Tyneside, United Kingdom",false
+13554152075,2025-02-06T08:53:56,Run,"North Tyneside, United Kingdom",false
+13561795846,2025-02-07T01:44:08,Ride,,true
+13571740533,2025-02-08T09:55:02,Run,"North Tyneside, United Kingdom",false
+13580385897,2025-02-09T09:59:50,Run,"North Tyneside, United Kingdom",false
+13588828177,2025-02-10T08:35:53,Run,"North Tyneside, United Kingdom",false
+13597008520,2025-02-11T03:12:00,Ride,,true
+13597101641,2025-02-11T03:44:29,Ride,,true
+13606758586,2025-02-12T08:39:03,Run,"North Tyneside, United Kingdom",false
+13615149056,2025-02-13T08:14:55,Run,"North Tyneside, United Kingdom",false
+13630696200,2025-02-15T06:56:20,Run,"North Tyneside, United Kingdom",false
+13640666263,2025-02-16T09:31:51,Run,"Utrechtse Heuvelrug, Netherlands",false
+13649240949,2025-02-17T07:40:28,Run,"Utrechtse Heuvelrug, Netherlands",false
+13658709076,2025-02-18T10:01:53,Walk,"Bad Schönborn, Germany",false
+13667309605,2025-02-19T07:51:04,Run,"Bad Schönborn, Germany",false
+13676323026,2025-02-20T07:37:50,Run,"Bad Schönborn, Germany",false
+13685041668,2025-02-21T09:05:15,Run,"Paris, France",false
+13692939263,2025-02-22T08:55:17,Run,"Paris, France",false
+13707534813,2025-02-23T11:55:11,Ride,,true
+13706973988,2025-02-23T16:02:51,Run,"North Tyneside, United Kingdom",false
+13720766560,2025-02-25T07:59:16,Run,"Cambridge, United Kingdom",false
+13734575618,2025-02-26T16:42:19,Run,"North Tyneside, United Kingdom",false
+13749857602,2025-02-27T07:31:11,WeightTraining,,true
+13742782700,2025-02-27T15:15:21,Run,"North Tyneside, United Kingdom",false
+13749857638,2025-02-28T11:20:00,Run,"North Tyneside, United Kingdom",false
+13758023413,2025-03-01T09:35:40,Run,"North Tyneside, United Kingdom",false
+13773160066,2025-03-02T15:48:21,Walk,"Somerville, Massachusetts",false
+13776761159,2025-03-03T06:43:21,Run,"Somerville, Massachusetts",false
+13785974594,2025-03-04T07:07:38,Run,"Somerville, Massachusetts",false
+13796195420,2025-03-05T07:42:37,Run,"Somerville, Massachusetts",false
+13804745053,2025-03-06T07:20:54,Ride,,true
+13814472565,2025-03-07T07:53:08,Run,"Hamden, Connecticut",false
+13823619072,2025-03-08T08:14:11,Run,"Hamden, Connecticut",false
+13834504454,2025-03-09T09:17:18,Run,"Hamden, Connecticut",false
+13852038658,2025-03-11T07:41:18,Run,"Somerville, Massachusetts",false
+13863402297,2025-03-12T07:52:33,Run,"Somerville, Massachusetts",false
+13875515953,2025-03-13T15:12:42,Run,"Hamden, Connecticut",false
+13880321431,2025-03-14T08:27:59,Run,"Hamden, Connecticut",false
+13893124257,2025-03-15T17:26:31,Run,"Hamden, Connecticut",false
+13899791920,2025-03-16T09:27:07,Run,"Hamden, Connecticut",false
+13912683068,2025-03-17T18:22:58,Walk,"Cambridge, Massachusetts",false
+13916834848,2025-03-18T07:41:41,Run,"Cambridge, Massachusetts",false
+13925784279,2025-03-19T07:57:38,Run,"Cambridge, Massachusetts",false
+13935861035,2025-03-20T07:56:09,Run,"Cambridge, Massachusetts",false
+13955083586,2025-03-21T09:54:43,Walk,"Cambridge, Massachusetts",false
+13955005311,2025-03-22T08:30:02,Run,"Cambridge, Massachusetts",false
+13972415615,2025-03-24T07:33:03,Run,"Detroit, Michigan",false
+13982320033,2025-03-25T07:57:13,Run,"Detroit, Michigan",false
+13992187057,2025-03-26T07:03:55,Run,"Detroit, Michigan",false
+14001440691,2025-03-27T07:04:41,Run,"Detroit, Michigan",false
+14010175019,2025-03-28T07:05:34,Run,"Detroit, Michigan",false
+14021949152,2025-03-29T10:39:43,Run,"Detroit, Michigan",false
+14031928454,2025-03-30T16:28:14,Walk,"Haarlemmermeer, Netherlands",false
+14037193145,2025-03-31T17:25:47,Walk,"Central, Singapore",false
+14043607865,2025-04-01T06:59:07,Run,"Central, Singapore",false
+14053823989,2025-04-02T07:03:47,Run,"Central, Singapore",false
+14063940230,2025-04-03T07:10:39,Run,"Central, Singapore",false
+14073614333,2025-04-04T07:33:10,Run,"Central, Singapore",false
+14098968731,2025-04-06T09:21:25,Run,"Cambridge, Massachusetts",false
+14106281453,2025-04-07T07:38:09,Run,"Cambridge, Massachusetts",false
+14116545461,2025-04-08T07:50:20,Run,"Cambridge, Massachusetts",false
+14126347986,2025-04-09T07:32:02,Run,"Cambridge, Massachusetts",false
+14145379713,2025-04-11T07:02:22,Run,"Washington, District of Columbia",false
+14154374595,2025-04-12T06:33:42,Run,"Washington, District of Columbia",false
+14174034159,2025-04-14T07:37:14,Run,"Cambridge, Massachusetts",false
+14184162194,2025-04-15T07:46:51,Run,"Cambridge, Massachusetts",false
+14193744583,2025-04-16T07:43:02,Run,"Cambridge, Massachusetts",false
+14203507878,2025-04-17T07:31:27,Run,"Cambridge, Massachusetts",false
+14213364846,2025-04-18T08:22:51,Run,"Cambridge, Massachusetts",false
+14232782885,2025-04-20T07:38:24,Run,"Hamden, Connecticut",false
+14242241435,2025-04-21T07:56:36,Run,"Hamden, Connecticut",false
+14253060980,2025-04-22T07:36:33,Run,"Cambridge, Massachusetts",false
+14261878587,2025-04-23T07:29:42,Run,"Cambridge, Massachusetts",false
+14272358474,2025-04-24T08:06:16,Run,"Cambridge, Massachusetts",false
+14292472446,2025-04-26T08:44:08,Run,"Hamden, Connecticut",false
+14306254856,2025-04-27T13:39:39,Run,"Hamden, Connecticut",false
+14312368146,2025-04-28T10:16:21,Run,"Cambridge, Massachusetts",false
+14323780292,2025-04-29T07:46:44,Run,"Cambridge, Massachusetts",false
+14332532183,2025-04-30T07:37:51,Run,"Cambridge, Massachusetts",false
+14354602646,2025-05-02T07:39:07,Run,"Cambridge, Massachusetts",false
+14367130985,2025-05-03T12:14:45,Run,"Montpelier, Vermont",false
+14416875769,2025-05-08T08:08:52,Run,"Cambridge, Massachusetts",false
+14425647693,2025-05-09T13:07:05,Run,"North Tyneside, United Kingdom",false
+14433452662,2025-05-10T09:09:05,Run,"North Tyneside, United Kingdom",false
+14453841838,2025-05-11T12:16:30,Walk,"Inverleith Conservation Area, United Kingdom",false
+14453855294,2025-05-12T08:42:53,Run,"City of Edinburgh, United Kingdom",false
+14463699469,2025-05-13T02:38:28,Ride,,true
+14475304336,2025-05-14T08:09:31,Run,"Leeds, United Kingdom",false
+14486179351,2025-05-15T08:42:54,Run,"North Tyneside, United Kingdom",false
+14496972999,2025-05-16T09:29:35,Run,"North Tyneside, United Kingdom",false
+14505302681,2025-05-17T08:38:44,Run,"North Tyneside, United Kingdom",false
+14512183150,2025-05-17T13:10:25,Walk,"Northumberland National Park, United Kingdom",false
+14528407749,2025-05-19T07:27:16,Run,"Cambridge, Massachusetts",false
+14538991500,2025-05-20T07:05:49,Run,"Cambridge, Massachusetts",false
+14550070358,2025-05-21T07:32:44,Run,"Cambridge, Massachusetts",false
+14560208862,2025-05-22T07:23:19,Run,"Cambridge, Massachusetts",false
+14580327727,2025-05-24T08:03:28,Run,"Hamden, Connecticut",false
+14591966350,2025-05-25T09:52:38,Run,"Hamden, Connecticut",false
+14591965301,2025-05-25T10:37:07,Run,"Hamden, Connecticut",false
+14600069572,2025-05-26T08:33:30,Run,"Hamden, Connecticut",false
+14611363272,2025-05-27T07:18:43,Run,"Cambridge, Massachusetts",false
+14630890906,2025-05-29T07:41:39,Run,"Cambridge, Massachusetts",false
+14641715647,2025-05-30T07:51:32,Run,"Cambridge, Massachusetts",false
+14653802351,2025-05-31T09:50:46,Run,"Cambridge, Massachusetts",false
+14666141053,2025-06-01T11:04:21,Walk,"Cambridge, Massachusetts",false
+14672070861,2025-06-02T07:25:46,Run,"Cambridge, Massachusetts",false
+14693597135,2025-06-04T07:35:02,Run,"Cambridge, Massachusetts",false
+14703753635,2025-06-05T06:52:26,Run,"Cambridge, Massachusetts",false
+14714125357,2025-06-06T08:33:32,Run,"Cambridge, Massachusetts",false
+14726877090,2025-06-07T08:52:40,Run,"Cambridge, Massachusetts",false
+14736201647,2025-06-08T11:46:33,Ride,,true
+14741517249,2025-06-09T08:22:03,Run,"North Tyneside, United Kingdom",false
+14752435806,2025-06-10T08:07:33,Run,"Liverpool, United Kingdom",false
+14763452984,2025-06-11T08:30:08,Run,"North Tyneside, United Kingdom",false
+14773913667,2025-06-12T07:59:50,Run,"North Tyneside, United Kingdom",false
+14773913798,2025-06-12T08:34:00,Run,"North Tyneside, United Kingdom",false
+14784837909,2025-06-13T09:16:28,Run,"North Tyneside, United Kingdom",false
+14794315748,2025-06-14T09:12:30,Run,"North Tyneside, United Kingdom",false
+14815790566,2025-06-16T08:29:10,Run,"L'Aquila, Italy",false
+14824275564,2025-06-17T07:28:19,Run,"L'Aquila, Italy",false
+14836351540,2025-06-18T08:19:05,Run,"L'Aquila, Italy",false
+14851490025,2025-06-19T15:49:13,Walk,"Siena, Italy",false
+14857409425,2025-06-20T08:27:55,Run,"L'Aquila, Italy",false
+14861521028,2025-06-20T15:23:48,Walk,"Rome, Italy",false
+14866473680,2025-06-21T06:43:53,Run,"Rome, Italy",false
+14877729271,2025-06-21T10:36:58,Walk,"Rome, Italy",false
+14877726834,2025-06-22T08:46:54,Run,"Rome, Italy",false
+14889626511,2025-06-23T06:44:16,Run,"Cambridge, Massachusetts",false
+14899645184,2025-06-24T06:33:35,Run,"Cambridge, Massachusetts",false
+14911435743,2025-06-25T08:08:32,Run,"Cambridge, Massachusetts",false
+14922059379,2025-06-26T07:20:20,Run,"Cambridge, Massachusetts",false
+14941979638,2025-06-28T08:12:23,Run,"Brookfield, Vermont",false
+14953796039,2025-06-29T09:58:23,Run,"Montpelier, Vermont",false
+14962471786,2025-06-30T08:02:44,Run,"Cambridge, Massachusetts",false
+14972887678,2025-07-01T07:59:16,Run,"Cambridge, Massachusetts",false
+14984120800,2025-07-02T08:47:02,Run,"Oak Bluffs, Massachusetts",false
+14994899221,2025-07-03T08:44:34,Run,"Oak Bluffs, Massachusetts",false
+15016015362,2025-07-05T10:09:21,Run,"Oak Bluffs, Massachusetts",false
+15026276128,2025-07-06T10:04:35,Run,"Oak Bluffs, Massachusetts",false
+15034847829,2025-07-07T08:03:00,Run,"Cambridge, Massachusetts",false
+15045486679,2025-07-08T08:06:19,Run,"Cambridge, Massachusetts",false
+15068335952,2025-07-10T07:26:10,Run,"Cambridge, Massachusetts",false
+15079159848,2025-07-11T08:03:14,Run,"Cambridge, Massachusetts",false
+15090930357,2025-07-12T09:36:05,Run,"Hamden, Connecticut",false
+15102043269,2025-07-13T10:42:54,Run,"Hamden, Connecticut",false
+15121757328,2025-07-15T07:47:47,Run,"Cambridge, Massachusetts",false
+15133214225,2025-07-16T07:36:59,Run,"Cambridge, Massachusetts",false
+15144311511,2025-07-17T07:55:18,Run,"Cambridge, Massachusetts",false
+15161561324,2025-07-19T07:25:03,Run,"Bad Schönborn, Germany",false
+15172407489,2025-07-20T07:10:12,Run,"Bad Schönborn, Germany",false
+15183653192,2025-07-21T07:54:51,Run,"Bad Schönborn, Germany",false
+15195866450,2025-07-22T10:47:15,Run,"Bad Schönborn, Germany",false
+15217975228,2025-07-24T08:01:46,Run,"Bad Schönborn, Germany",false
+15229443261,2025-07-25T08:46:06,Run,"Rueil-Malmaison, France",false
+15240803119,2025-07-26T09:17:01,Run,"Rueil-Malmaison, France",false
+15240825904,2025-07-26T11:21:03,Run,"Saint-Cloud, France",false
+15249038064,2025-07-27T07:38:44,Run,"Rueil-Malmaison, France",false
+15262409123,2025-07-28T07:00:05,Run,"Cambridge, Massachusetts",false
+15274000588,2025-07-29T07:03:33,Run,"Cambridge, Massachusetts",false
+15296900256,2025-07-31T06:34:36,Run,"Cambridge, Massachusetts",false
+15308348434,2025-08-01T07:52:58,Run,"Hamden, Connecticut",false
+15318294061,2025-08-02T07:25:33,Run,"Hamden, Connecticut",false
+15330701914,2025-08-03T08:30:58,Run,"Hamden, Connecticut",false
+15340710679,2025-08-04T07:55:04,Run,"Cambridge, Massachusetts",false
+15364586616,2025-08-06T07:36:10,Run,"Cambridge, Massachusetts",false
+15377571070,2025-08-07T09:57:36,Run,"Oak Bluffs, Massachusetts",false
+15401294098,2025-08-09T10:06:27,Run,"Chilmark, Massachusetts",false
+15400820943,2025-08-09T10:54:08,Run,"Chilmark, Massachusetts",false
+15412227424,2025-08-10T10:32:09,Run,"Oak Bluffs, Massachusetts",false
+15420814625,2025-08-11T07:42:58,Run,"Cambridge, Massachusetts",false
+15432638243,2025-08-12T07:46:06,Run,"Cambridge, Massachusetts",false
+15444666050,2025-08-13T07:50:34,Run,"Cambridge, Massachusetts",false
+15467780602,2025-08-15T08:18:33,Run,"Cambridge, Massachusetts",false
+15477985878,2025-08-16T06:54:43,Run,"Cambridge, Massachusetts",false
+15500888962,2025-08-18T09:02:53,Run,"Brookfield, Vermont",false
+15512845882,2025-08-19T08:24:13,Run,"Brookfield, Vermont",false
+15524693683,2025-08-20T08:30:19,Run,"Brookfield, Vermont",false
+15546661413,2025-08-22T08:06:45,Run,"Brookfield, Vermont",false
+15559440785,2025-08-23T09:07:09,Run,"Cambridge, Massachusetts",false
+15577217641,2025-08-24T14:48:12,Walk,"Municipality of Athens, Greece",false
+15577217831,2025-08-25T08:44:47,Run,"Municipality of Athens, Greece",false
+15588853399,2025-08-26T08:12:58,Run,"Municipality of Athens, Greece",false
+15612762231,2025-08-27T16:47:01,Walk,"Municipality of Hydra, Greece",false
+15612762659,2025-08-28T09:09:23,Run,"Municipality of Athens, Greece",false
+15623708137,2025-08-29T09:21:13,Run,"Municipality of Athens, Greece",false
+15633154699,2025-08-30T09:13:25,Run,"Municipality of Athens, Greece",false
+15664879516,2025-09-01T18:00:19,Run,"Cambridge, Massachusetts",false
+15669771673,2025-09-02T06:35:53,Run,"Cambridge, Massachusetts",false
+15682425699,2025-09-03T07:31:49,Run,"Cambridge, Massachusetts",false
+15705149118,2025-09-05T07:29:53,Run,"Cambridge, Massachusetts",false
+15716553658,2025-09-06T07:22:41,Run,"Hamden, Connecticut",false
+15730107067,2025-09-07T09:17:22,Run,"Hamden, Connecticut",false
+15739449286,2025-09-08T07:30:28,Run,"Cambridge, Massachusetts",false
+15763470577,2025-09-10T07:30:21,Run,"Cambridge, Massachusetts",false
+15774731051,2025-09-11T07:32:18,Run,"Cambridge, Massachusetts",false
+15785862740,2025-09-12T07:58:54,Run,"Cambridge, Massachusetts",false
+15798751906,2025-09-13T09:35:19,Run,"Cambridge, Massachusetts",false
+15809977366,2025-09-14T09:51:34,Run,"Cambridge, Massachusetts",false
+15842142064,2025-09-17T07:39:44,Run,"Cambridge, Massachusetts",false
+15853735233,2025-09-18T07:20:59,Run,"Cambridge, Massachusetts",false
+15864922577,2025-09-19T07:55:38,Run,"Cambridge, Massachusetts",false
+15877462370,2025-09-20T10:12:13,Run,"Cambridge, Massachusetts",false
+15889316026,2025-09-21T09:10:10,Run,"Cambridge, Massachusetts",false
+15897853649,2025-09-22T07:33:49,Run,"Cambridge, Massachusetts",false
+15908816640,2025-09-23T07:17:01,Run,"Cambridge, Massachusetts",false
+15934548125,2025-09-25T17:20:06,Run,"North Tyneside, United Kingdom",false
+15939913200,2025-09-26T07:41:46,Run,"North Tyneside, United Kingdom",false
+15952115378,2025-09-27T10:32:51,Run,"North Tyneside, United Kingdom",false
+15960450235,2025-09-28T07:19:18,Run,"City of Edinburgh, United Kingdom",false
+15974776383,2025-09-29T07:11:40,Run,"Cambridge, Massachusetts",false
+15985569840,2025-09-30T07:04:49,Run,"Cambridge, Massachusetts",false
+16017170792,2025-10-03T07:46:03,Run,"Zurich, Switzerland",false
+16026560205,2025-10-04T07:46:49,Run,"Zurich, Switzerland",false
+16037371189,2025-10-05T07:54:32,Run,"Zurich, Switzerland",false
+16051829491,2025-10-06T07:41:56,Run,"Cambridge, Massachusetts",false
+16061949598,2025-10-07T07:08:13,Run,"Cambridge, Massachusetts",false
+16082958557,2025-10-09T08:32:41,Run,"North Tyneside, United Kingdom",false
+16103402586,2025-10-11T10:09:35,Run,"North Tyneside, United Kingdom",false
+16115800688,2025-10-12T09:06:00,Run,"Greater London, United Kingdom",false
+16124513129,2025-10-13T08:27:29,Run,"Greater London, United Kingdom",false
+16148446697,2025-10-15T07:14:51,Run,"Cambridge, Massachusetts",false
+16159040663,2025-10-16T07:07:33,Run,"Cambridge, Massachusetts",false
+16169630877,2025-10-17T07:28:51,Run,"Cambridge, Massachusetts",false
+16195750055,2025-10-19T16:09:56,Run,"Cambridge, Massachusetts",false
+16210201453,2025-10-21T07:06:10,Run,"Cambridge, Massachusetts",false
+16221526906,2025-10-22T07:47:17,Run,"Cambridge, Massachusetts",false
+16234427373,2025-10-23T13:06:35,Run,"Columbus, Ohio",false
+16241312851,2025-10-24T07:53:27,Run,"Columbus, Ohio",false
+16251912660,2025-10-25T08:57:28,Run,"Columbus, Ohio",false
+16263429138,2025-10-26T09:18:12,Run,"Cambridge, Massachusetts",false
+16271124571,2025-10-27T07:52:50,Run,"Cambridge, Massachusetts",false
+16291973819,2025-10-29T07:37:52,Run,"Cambridge, Massachusetts",false
+16302153041,2025-10-30T08:17:42,Run,"Cambridge, Massachusetts",false
+16311685490,2025-10-31T07:52:22,Run,"Hamden, Connecticut",false
+16322988443,2025-11-01T09:58:53,Run,"Hamden, Connecticut",false
+16332371786,2025-11-02T07:06:55,Run,"Hamden, Connecticut",false
+16351689963,2025-11-04T07:03:33,Run,"Cambridge, Massachusetts",false
+16363384583,2025-11-05T07:25:12,Run,"Cambridge, Massachusetts",false
+16378692055,2025-11-06T14:34:48,Run,"Tempe, Arizona",false
+16384267861,2025-11-07T06:57:24,Run,,true
+16395185175,2025-11-08T07:16:50,Run,"Tempe, Arizona",false
+16405614928,2025-11-09T08:41:32,Run,"Cambridge, Massachusetts",false
+16414088427,2025-11-10T07:39:50,Run,"Cambridge, Massachusetts",false
+16424978252,2025-11-11T07:55:26,Run,"Cambridge, Massachusetts",false
+16442982790,2025-11-13T06:51:05,Run,"Greater London, United Kingdom",false
+16453381655,2025-11-14T07:51:56,Run,"North Tyneside, United Kingdom",false
+16465447675,2025-11-15T12:52:24,Run,"North Tyneside, United Kingdom",false
+16479485994,2025-11-16T14:16:13,Run,"Cambridge, Massachusetts",false
+16484492835,2025-11-17T07:00:06,Run,"Cambridge, Massachusetts",false
+16494695930,2025-11-18T07:11:59,Run,"Cambridge, Massachusetts",false
+16505174414,2025-11-19T07:30:39,Run,"Cambridge, Massachusetts",false
+16520991484,2025-11-21T08:08:51,Run,"Sharjah, United Arab Emirates",false
+16529788392,2025-11-22T08:05:18,Run,"Dubai, United Arab Emirates",false
+16539682667,2025-11-23T08:23:54,Run,"Dubai, United Arab Emirates",false
+16549192339,2025-11-24T07:12:43,Run,"Sharjah, United Arab Emirates",false
+16558426143,2025-11-25T07:21:57,Run,"Sharjah, United Arab Emirates",false
+16569323718,2025-11-26T09:05:18,Run,"Sharjah, United Arab Emirates",false
+16582057522,2025-11-27T16:47:22,Workout,,true
+16596771540,2025-11-28T14:50:56,Walk,"Dubai, United Arab Emirates",false
+16596771694,2025-11-29T09:03:46,Run,,true
+16596771781,2025-11-29T09:39:50,Run,,true
+16614029778,2025-11-30T15:23:11,Run,"Cambridge, Massachusetts",false
+16618673996,2025-12-01T07:22:01,Run,"Cambridge, Massachusetts",false
+16628218353,2025-12-02T07:21:42,Run,"Cambridge, Massachusetts",false
+16648286430,2025-12-04T07:28:43,Run,"Cambridge, Massachusetts",false
+16657131477,2025-12-05T07:55:13,Run,"Hamden, Connecticut",false
+16666869375,2025-12-06T08:55:37,Run,"Hamden, Connecticut",false
+16676412214,2025-12-07T08:39:55,Run,"Cambridge, Massachusetts",false
+16684769900,2025-12-08T08:13:03,Run,"Cambridge, Massachusetts",false
+16693902265,2025-12-09T07:07:20,Run,"Cambridge, Massachusetts",false
+16710862561,2025-12-11T08:09:29,Run,"Liverpool, United Kingdom",false
+16720536569,2025-12-12T09:09:04,Run,"North Tyneside, United Kingdom",false
+16730740559,2025-12-13T12:07:59,Run,"North Tyneside, United Kingdom",false
+16738904724,2025-12-14T05:21:39,Ride,,true
+16739165994,2025-12-14T06:09:54,Ride,,true
+16746958285,2025-12-15T08:26:47,Run,"North Tyneside, United Kingdom",false
+16755775136,2025-12-16T08:17:37,Run,"North Tyneside, United Kingdom",false
+16774593406,2025-12-18T07:58:50,Run,"Greater London, United Kingdom",false
+16786071855,2025-12-19T15:14:05,Run,"North Tyneside, United Kingdom",false
+16791771709,2025-12-20T09:39:39,Run,"North Tyneside, United Kingdom",false
+16801004433,2025-12-21T09:04:09,Run,"North Tyneside, United Kingdom",false
+16818180292,2025-12-23T09:03:53,Run,"North Tyneside, United Kingdom",false
+16828941117,2025-12-24T10:41:01,Run,"North Tyneside, United Kingdom",false
+16836246597,2025-12-25T10:38:35,Run,"North Tyneside, United Kingdom",false
+16837031762,2025-12-25T11:36:39,Walk,"Newcastle upon Tyne, United Kingdom",false
+16843435021,2025-12-26T10:02:06,Run,"North Tyneside, United Kingdom",false
+16851780016,2025-12-27T08:48:55,Run,"North Tyneside, United Kingdom",false
+16863092827,2025-12-28T10:23:30,Run,"North Tyneside, United Kingdom",false
+16872396025,2025-12-29T09:41:38,Run,"North Tyneside, United Kingdom",false
+16886209814,2025-12-30T11:58:29,Ride,,true
+16891941818,2025-12-31T08:45:59,Run,"North Tyneside, United Kingdom",false
+16901312924,2026-01-01T10:04:48,Run,"City of Edinburgh, United Kingdom",false
+16903806305,2026-01-01T14:11:17,Walk,"City of Edinburgh, United Kingdom",false
+16910185293,2026-01-02T08:46:33,Run,"City of Edinburgh, United Kingdom",false
+16910185799,2026-01-02T08:52:18,Run,"City of Edinburgh, United Kingdom",false
+16910186132,2026-01-02T09:29:33,Run,"City of Edinburgh, United Kingdom",false
+16922159511,2026-01-03T10:30:01,Run,"North Tyneside, United Kingdom",false
+16932360006,2026-01-04T09:54:47,Run,"North Tyneside, United Kingdom",false
+16943084721,2026-01-05T08:43:09,Run,"North Tyneside, United Kingdom",false
+16973878695,2026-01-07T17:52:33,Run,,true
+16979135353,2026-01-08T07:19:12,Run,"Cambridge, Massachusetts",false
+16989648912,2026-01-09T07:27:08,Run,"Cambridge, Massachusetts",false
+17001576864,2026-01-10T08:44:41,Run,"Cambridge, Massachusetts",false
+17012407535,2026-01-11T08:00:29,Run,"Cambridge, Massachusetts",false
+17022878911,2026-01-12T07:36:25,Run,"Cambridge, Massachusetts",false
+17034463699,2026-01-13T07:24:06,Run,"Cambridge, Massachusetts",false
+17058686761,2026-01-15T07:54:37,Run,"Hamden, Connecticut",false
+17070400502,2026-01-16T08:40:18,Run,"Hamden, Connecticut",false
+17081967073,2026-01-17T08:38:13,Run,"Hamden, Connecticut",false
+17095555250,2026-01-18T09:17:29,Run,"Hamden, Connecticut",false
+17108560241,2026-01-19T14:48:48,Run,"Cambridge, Massachusetts",false
+17127642498,2026-01-21T08:01:13,Run,,true
+17139237534,2026-01-22T07:37:37,Run,"Cambridge, Massachusetts",false
+17149969910,2026-01-23T07:51:56,Run,"Cambridge, Massachusetts",false
+17161899594,2026-01-24T09:15:23,Run,"Cambridge, Massachusetts",false
+17174816649,2026-01-25T11:20:42,Ride,,true
+17180581442,2026-01-26T08:34:40,Run,"North Tyneside, United Kingdom",false
+17191176908,2026-01-27T07:49:38,Run,"Greater London, United Kingdom",false
+17203697715,2026-01-28T09:39:06,Run,"North Tyneside, United Kingdom",false
+17225375185,2026-01-30T08:50:17,Run,"North Tyneside, United Kingdom",false
+17243189092,2026-01-31T16:06:30,Run,,true
+17253078143,2026-02-01T10:59:32,Run,"Cambridge, Massachusetts",false
+17260305833,2026-02-02T07:47:03,Run,"Cambridge, Massachusetts",false
+17272053323,2026-02-03T07:51:17,Run,"Cambridge, Massachusetts",false
+17284165929,2026-02-04T07:57:26,Run,"Cambridge, Massachusetts",false
+17296041640,2026-02-05T07:47:39,Run,"Cambridge, Massachusetts",false
+17310732775,2026-02-06T15:24:36,Walk,"Brookfield, Vermont",false
+17322410572,2026-02-07T17:19:40,Run,"Cambridge, Massachusetts",false
+17334055420,2026-02-08T14:33:05,Run,"Cambridge, Massachusetts",false
+17339414847,2026-02-09T08:05:55,Run,"Cambridge, Massachusetts",false
+17351255305,2026-02-10T07:59:47,Run,"Cambridge, Massachusetts",false
+17376495303,2026-02-12T10:52:25,Run,"Santa Fe, New Mexico",false
+17385197554,2026-02-13T07:44:39,Run,"Santa Fe, New Mexico",false
+17410521810,2026-02-15T11:11:30,Run,"San Francisco, California",false
+17429575684,2026-02-17T08:09:05,Run,"Redlands, California",false
+17440257067,2026-02-18T06:52:59,Run,"Redlands, California",false
+17451564652,2026-02-19T07:28:11,Run,"Redlands, California",false
+17462629292,2026-02-20T08:38:27,Run,"Cambridge, Massachusetts",false
+17474433701,2026-02-21T10:17:22,Run,"Hamden, Connecticut",false
+17487545580,2026-02-22T10:43:47,Run,"Cambridge, Massachusetts",false
+17499287476,2026-02-23T16:47:52,Walk,"Cambridge, Massachusetts",false
+17511671618,2026-02-24T16:35:03,Run,"Cambridge, Massachusetts",false
+17523232528,2026-02-25T15:34:04,Run,,true
+17530596482,2026-02-26T07:16:01,Run,"Cambridge, Massachusetts",false
+17530596864,2026-02-26T07:34:55,Run,"Somerville, Massachusetts",false
+17530596993,2026-02-26T08:51:26,Run,"Somerville, Massachusetts",false
+17541759781,2026-02-27T07:21:35,Run,"Cambridge, Massachusetts",false
+17554256815,2026-02-28T14:40:18,Run,"North Tyneside, United Kingdom",false
+17563189538,2026-03-01T09:43:38,Run,"North Tyneside, United Kingdom",false
+17572945988,2026-03-02T02:37:22,Ride,,true
+17585458527,2026-03-03T08:20:13,Run,"Cambridge, United Kingdom",false
+17597966015,2026-03-04T08:00:52,Run,"Cambridge, United Kingdom",false
+17609934597,2026-03-05T07:19:13,Run,"Cambridge, United Kingdom",false
+17622433420,2026-03-06T08:16:34,Run,"Cambridge, United Kingdom",false
+17632459252,2026-03-07T07:24:14,Run,"Cambridge, United Kingdom",false
+17650345077,2026-03-08T10:15:29,Run,"Hamden, Connecticut",false
+17672476973,2026-03-10T07:33:48,Run,"Cambridge, Massachusetts",false
+17684275740,2026-03-11T06:59:09,Run,"Cambridge, Massachusetts",false
+17696580792,2026-03-12T07:39:15,Run,"Cambridge, Massachusetts",false
+17712437094,2026-03-13T12:11:09,Run,"Santa Cruz County, California",false
+17712524190,2026-03-13T12:50:56,Walk,"Wilder Ranch State Park, California",false
+17761313326,2026-03-17T16:38:49,Run,"San Francisco, California",false
+17781301714,2026-03-19T07:13:26,Run,"San Francisco, California",false
+17792987936,2026-03-20T08:05:31,Run,"San Francisco, California",false
+17821334470,2026-03-22T12:02:46,Walk,"Santa Cruz, California",false
+17840486165,2026-03-24T08:02:07,Run,"Cambridge, Massachusetts",false
+17853386207,2026-03-25T08:08:55,Run,"Cambridge, Massachusetts",false
+17865205300,2026-03-26T08:29:37,Run,"Cambridge, Massachusetts",false
+17877019076,2026-03-27T08:13:24,Run,"Cambridge, Massachusetts",false
+17903790317,2026-03-29T10:10:37,Run,"Cambridge, Massachusetts",false
+17912041418,2026-03-30T07:49:41,Run,"Hamden, Connecticut",false
+17925708357,2026-03-31T08:24:04,Walk,"New Haven, Connecticut",false
+17938212057,2026-04-01T07:47:19,Run,"Hamden, Connecticut",false
+17950341836,2026-04-02T08:35:03,Run,"Cambridge, Massachusetts",false
+17963238950,2026-04-03T08:21:26,Run,"Cambridge, Massachusetts",false
+17989355220,2026-04-05T10:29:31,Run,"Hamden, Connecticut",false
+17999924113,2026-04-06T08:14:38,Run,"Cambridge, Massachusetts",false
+18013514025,2026-04-07T08:01:01,Run,"Cambridge, Massachusetts",false
+18040856157,2026-04-09T07:56:11,Run,"Cambridge, Massachusetts",false
+18054057695,2026-04-10T08:35:33,Run,"Cambridge, Massachusetts",false
+18067407012,2026-04-11T08:41:36,Run,"Cambridge, Massachusetts",false
+18082212288,2026-04-12T09:03:25,Run,"Cambridge, Massachusetts",false
+18100900789,2026-04-14T07:31:56,Run,"North Tyneside, United Kingdom",false
+18128867423,2026-04-16T08:37:33,Run,"Cambridge, United Kingdom",false
+18142723520,2026-04-17T09:44:01,Run,"North Tyneside, United Kingdom",false
+18163599816,2026-04-18T16:17:49,Run,"Cambridge, Massachusetts",false
+18173679176,2026-04-19T08:24:03,Run,"Cambridge, Massachusetts",false
+18183910547,2026-04-20T07:59:31,Run,"Cambridge, Massachusetts",false
+18197571771,2026-04-21T08:00:39,Run,"Cambridge, Massachusetts",false
+18225853372,2026-04-23T08:02:55,Run,"Cambridge, Massachusetts",false
+18251623320,2026-04-25T07:20:11,Run,"Hamden, Connecticut",false
+18265831048,2026-04-26T07:50:05,Run,"Hamden, Connecticut",false
+18285177878,2026-04-27T18:28:43,Run,"Cambridge, Massachusetts",false
+18292288788,2026-04-28T08:09:02,Run,"Cambridge, Massachusetts",false
+18308708512,2026-04-29T12:14:14,Run,"Hamden, Connecticut",false
+18318826175,2026-04-30T07:26:45,Run,"Cambridge, Massachusetts",false
+18372092276,2026-05-04T07:57:11,Run,"Cambridge, Massachusetts",false
+18385559669,2026-05-05T07:37:03,Run,"Cambridge, Massachusetts",false
+18398620870,2026-05-06T07:44:58,Run,"Cambridge, Massachusetts",false
+18424967573,2026-05-08T07:46:39,Run,"Hamden, Connecticut",false
+18439008412,2026-05-09T08:30:39,Run,"Hamden, Connecticut",false
+18453674429,2026-05-10T09:02:30,Run,"Hamden, Connecticut",false
+18461909990,2026-05-11T10:02:52,Walk,"Liverpool, United Kingdom",false
+18473860476,2026-05-12T08:32:14,Run,"Northern Ireland, United Kingdom",false
+18488257014,2026-05-13T09:25:27,Run,"Northern Ireland, United Kingdom",false
+18501611272,2026-05-14T09:21:42,Run,"Northern Ireland, United Kingdom",false
+18513808339,2026-05-15T08:52:54,Run,"North Tyneside, United Kingdom",false
+18527499255,2026-05-16T06:11:20,Ride,,true
+18540937557,2026-05-17T09:14:01,Run,"North Tyneside, United Kingdom",false
+18540938525,2026-05-17T10:02:02,Run,"Newcastle upon Tyne, United Kingdom",false
+18552632461,2026-05-18T10:05:11,Run,"North Tyneside, United Kingdom",false
+18564262768,2026-05-19T02:47:01,Ride,,true
+18584745100,2026-05-20T18:20:43,Run,"L'Aquila, Italy",false
+18591509211,2026-05-21T08:08:27,Run,"L'Aquila, Italy",false
+18608334797,2026-05-22T13:11:18,Run,"North Tyneside, United Kingdom",false
+18616881186,2026-05-23T07:11:51,Run,"North Tyneside, United Kingdom",false
+18630707725,2026-05-24T08:01:56,Run,"Paris, France",false
+18646985821,2026-05-25T10:28:26,Walk,"Paris, France",false
+18657572262,2026-05-26T08:07:08,Run,"Zurich, Switzerland",false
+18671171128,2026-05-27T07:41:21,Run,"Zurich, Switzerland",false
+18685433144,2026-05-28T08:02:52,Run,"Zurich, Switzerland",false
+18699684759,2026-05-29T08:28:20,Run,"Florence, Italy",false
+18702683981,2026-05-29T14:37:14,Walk,"Florence, Italy",false
+18711313677,2026-05-30T07:55:25,Run,"Florence, Italy",false
+18723896073,2026-05-31T08:04:14,Run,"Florence, Italy",false
+18752057851,2026-06-02T08:26:36,Run,"L'Aquila, Italy",false
+18779881805,2026-06-04T08:09:49,Run,"L'Aquila, Italy",false
+18798544348,2026-06-05T16:52:26,Run,"Rome, Italy",false
+18805534985,2026-06-06T07:28:21,Run,"Rome, Italy",false
+18819231169,2026-06-07T08:19:37,Run,"Rome, Italy",false
+18835345209,2026-06-08T06:22:28,Run,"Cambridge, Massachusetts",false
+18849377512,2026-06-09T06:43:38,Run,"Cambridge, Massachusetts",false
+18863994358,2026-06-10T06:32:35,Run,"Cambridge, Massachusetts",false
+18876987922,2026-06-11T06:42:57,Run,"Cambridge, Massachusetts",false
+18889738523,2026-06-12T06:47:14,Run,"Cambridge, Massachusetts",false
+18942904851,2026-06-14T12:11:45,Run,"Chicago, Illinois",false
+18942831316,2026-06-16T07:02:16,Run,"Cambridge, Massachusetts",false
+18957244663,2026-06-17T07:54:51,Run,"Cambridge, Massachusetts",false
+18970754176,2026-06-18T07:30:47,Run,"Cambridge, Massachusetts",false
+19010777277,2026-06-21T08:09:51,Run,"Boston, Massachusetts",false
+19021606222,2026-06-22T07:21:16,Run,"Cambridge, Massachusetts",false
+19035374171,2026-06-23T07:37:46,Run,"Cambridge, Massachusetts",false
+19048614691,2026-06-24T07:45:27,Run,"Cambridge, Massachusetts",false
+19062162655,2026-06-25T08:16:24,Run,"Cambridge, Massachusetts",false
+19087226198,2026-06-27T09:11:40,Run,"Cambridge, Massachusetts",false
+19099382172,2026-06-28T09:25:05,Run,"Hamden, Connecticut",false
+19110206396,2026-06-29T08:04:58,Run,"Hamden, Connecticut",false
+19123134403,2026-06-30T07:27:07,Run,"Hamden, Connecticut",false
+19150110181,2026-07-02T08:06:59,Run,"Hamden, Connecticut",false
+19168362000,2026-07-03T16:52:24,Swim,"Edgartown, Massachusetts",false
+19189499422,2026-07-05T07:56:02,Run,"Oak Bluffs, Massachusetts",false
+19200548173,2026-07-06T07:28:06,Run,"Cambridge, Massachusetts",false
+19213271439,2026-07-07T06:53:42,Run,"Cambridge, Massachusetts",false
+19229023140,2026-07-08T07:34:26,Run,"Cambridge, Massachusetts",false
+19241825143,2026-07-09T07:21:43,Run,"Cambridge, Massachusetts",false
+19268680881,2026-07-11T07:40:35,Run,"Hamden, Connecticut",false
+19281914884,2026-07-12T07:47:34,Run,"New Haven, Connecticut",false
+19295561309,2026-07-13T08:36:10,Run,"Brookfield, Vermont",false
+19309853939,2026-07-14T08:55:22,Run,"Brookfield, Vermont",false
+19324733296,2026-07-15T10:12:47,Walk,"Brookfield, Vermont",false
+19336366091,2026-07-16T07:40:53,Run,"Cambridge, Massachusetts",false
+19350956039,2026-07-17T07:30:42,Run,"Cambridge, Massachusetts",false
+19363836221,2026-07-18T09:31:19,Ride,,true
+19373699289,2026-07-19T09:29:48,Run,"North Tyneside, United Kingdom",false
+19385982007,2026-07-20T09:24:35,Run,"North Tyneside, United Kingdom",false
+19399431781,2026-07-21T09:00:34,Run,"North Tyneside, United Kingdom",false
+19414622716,2026-07-22T08:54:21,Run,"North Tyneside, United Kingdom",false
+19428675847,2026-07-23T08:39:59,Run,"North Tyneside, United Kingdom",false
+19457276463,2026-07-25T09:49:59,Run,"North Tyneside, United Kingdom",false
+19468827916,2026-07-26T08:41:04,Run,"North Tyneside, United Kingdom",false
+19481806127,2026-07-27T07:16:11,Run,"City of Edinburgh, United Kingdom",false
+19500035014,2026-07-28T07:51:48,Run,"Cambridge, Massachusetts",false
+19529228717,2026-07-30T08:58:01,Run,"Burlington, Vermont",false
+19543523459,2026-07-31T09:31:05,Run,"Burlington, Vermont",false
+19582426370,2026-08-03T07:37:06,Run,"Cambridge, Massachusetts",false
+19597535392,2026-08-04T07:42:08,Run,"Cambridge, Massachusetts",false
+19611629048,2026-08-05T07:15:21,Run,"Oak Bluffs, Massachusetts",false
+19641354137,2026-08-07T08:19:03,Run,"Oak Bluffs, Massachusetts",false
+19641496053,2026-08-07T09:27:09,Run,"Oak Bluffs, Massachusetts",false
+19657151984,2026-08-08T10:01:53,Run,"Chilmark, Massachusetts",false
+19657072231,2026-08-08T10:41:08,Run,"Chilmark, Massachusetts",false
+19668480586,2026-08-09T07:54:37,Run,"Oak Bluffs, Massachusetts",false
+19681103848,2026-08-10T07:54:11,Run,"Cambridge, Massachusetts",false
+19695389139,2026-08-11T07:32:35,Run,"Cambridge, Massachusetts",false
+19710457019,2026-08-12T07:28:53,Run,"Cambridge, Massachusetts",false
+19724965225,2026-08-13T07:14:09,Run,"Cambridge, Massachusetts",false
+19754497164,2026-08-15T09:19:32,Run,"Cambridge, Massachusetts",false
+19767949199,2026-08-16T09:40:44,Run,"Cambridge, Massachusetts",false
+19767949522,2026-08-16T10:04:59,Run,"Cambridge, Massachusetts",false
+19767949654,2026-08-16T10:25:21,Run,"Cambridge, Massachusetts",false
+19778523161,2026-08-17T07:19:05,Run,"Cambridge, Massachusetts",false
+19793454329,2026-08-18T07:27:15,Run,"Cambridge, Massachusetts",false
+19793454450,2026-08-18T08:20:36,Run,"Cambridge, Massachusetts",false
+19809043351,2026-08-19T07:54:47,Run,"Cambridge, Massachusetts",false
+19823418209,2026-08-20T08:09:28,Run,"Cambridge, Massachusetts",false
+19877916217,2026-08-22T15:14:36,Walk,"Boulder Open Space and Mountain Parks, Colorado",false
+19877943849,2026-08-24T07:59:19,Run,"Cambridge, Massachusetts",false
+19892640310,2026-08-25T07:54:35,Run,"Cambridge, Massachusetts",false
+19908290534,2026-08-26T08:16:44,Run,"Cambridge, Massachusetts",false
+19921686386,2026-08-27T07:10:13,Run,"Cambridge, Massachusetts",false
+19951274501,2026-08-29T10:23:21,Run,"Cambridge, Massachusetts",false
+19951274988,2026-08-29T10:47:19,Run,"Cambridge, Massachusetts",false
+19964891898,2026-08-30T08:53:18,Run,"Cambridge, Massachusetts",false
+19975689892,2026-08-31T07:56:34,Run,"Cambridge, Massachusetts",false
+19990028379,2026-09-01T08:03:36,Run,"Cambridge, Massachusetts",false
+20005111860,2026-09-02T07:39:09,Run,"Cambridge, Massachusetts",false
+20019788181,2026-09-03T08:23:33,Run,"Hamden, Connecticut",false
+20033852454,2026-09-04T07:46:41,Run,"Hamden, Connecticut",false
+20038215975,2026-09-04T16:15:58,Walk,"Hamden, Connecticut",false
+20053416928,2026-09-05T19:11:41,Walk,"Hamden, Connecticut",false
+20061213778,2026-09-06T08:17:04,Run,"Hamden, Connecticut",false
+20073075903,2026-09-07T07:16:14,Run,"Hamden, Connecticut",false
+20087638124,2026-09-08T07:51:56,Run,"Hamden, Connecticut",false
+20094003038,2026-09-08T15:07:44,Walk,"New Haven, Connecticut",false
+20102861160,2026-09-09T08:17:24,Run,"Hamden, Connecticut",false
+20116430531,2026-09-10T08:02:07,Run,"Hamden, Connecticut",false
+20129666767,2026-09-11T07:55:17,Walk,"Hamden, Connecticut",false
+20144047200,2026-09-12T08:02:13,Run,"Hamden, Connecticut",false
+20157976321,2026-09-13T07:29:53,Run,"Hamden, Connecticut",false
+20170534169,2026-09-14T07:56:25,Run,"Hamden, Connecticut",false
+20184837783,2026-09-15T08:02:51,Run,"Hamden, Connecticut",false
+20200174148,2026-09-16T08:36:06,Run,"Hamden, Connecticut",false
+20213693728,2026-09-17T08:12:33,Run,"Hamden, Connecticut",false
+20227637982,2026-09-18T08:52:46,Run,"Hamden, Connecticut",false
+20256213949,2026-09-20T08:38:21,Run,"Hamden, Connecticut",false
+20266845460,2026-09-21T07:26:37,Run,"Cambridge, Massachusetts",false
+20280935454,2026-09-22T07:09:05,Run,"Cambridge, Massachusetts",false
+20296360239,2026-09-23T07:55:28,Run,"Cambridge, Massachusetts",false
+20320781700,2026-09-25T09:26:52,Run,"Leuven, Belgium",false
+20340033592,2026-09-26T18:07:04,Run,"Paris, France",false
+20349221669,2026-09-27T10:39:05,Run,"Paris, France",false
+20360959767,2026-09-28T09:08:41,Run,"Paris, France",false
+20392213539,2026-09-30T07:29:22,Run,"Cambridge, Massachusetts",false
+20406533833,2026-10-01T08:04:23,Run,"Cambridge, Massachusetts",false
+20419297678,2026-10-02T07:43:27,Run,"Cambridge, Massachusetts",false
+20452190456,2026-10-04T12:25:54,Run,"Cambridge, Massachusetts",false
+20489302932,2026-10-07T09:08:36,Run,"Providence, Rhode Island",false
+20518230753,2026-10-08T13:23:21,Run,"Charlestown, Rhode Island",false
+20543142793,2026-10-11T08:57:19,Run,"New Haven, Connecticut",false
+20553841139,2026-10-12T07:49:48,Run,"New Haven, Connecticut",false
+20581908513,2026-10-14T08:02:44,Run,"Hamden, Connecticut",false
+20610401239,2026-10-16T10:58:49,Run,"Montpelier, Vermont",false
+20622677204,2026-10-17T09:51:58,Run,"Brookfield, Vermont",false
+20638749386,2026-10-18T11:37:34,Run,"Cambridge, Massachusetts",false
+20646580061,2026-10-19T07:43:38,Run,"Cambridge, Massachusetts",false
+20660444767,2026-10-20T07:10:29,Run,"Cambridge, Massachusetts",false
+20674712535,2026-10-21T07:26:25,Run,"Cambridge, Massachusetts",false
+20688005897,2026-10-22T07:42:24,Run,"Cambridge, Massachusetts",false
+20706119701,2026-10-23T12:39:04,Walk,"Santa Cruz County, California",false
+20715565523,2026-10-24T08:19:30,Walk,"Santa Cruz County, California",false
+20737779752,2026-10-26T08:50:52,Run,"Cambridge, Massachusetts",false
+20750795133,2026-10-27T07:28:29,Run,"Cambridge, Massachusetts",false
+20778308060,2026-10-29T07:33:10,Run,"Cambridge, Massachusetts",false
+20791798552,2026-10-30T08:27:09,Run,"Hamden, Connecticut",false
+20804398593,2026-10-31T08:25:50,Run,"Hamden, Connecticut",false
+20818052616,2026-11-01T08:24:57,Run,"Hamden, Connecticut",false
+20842917023,2026-11-03T07:20:13,Run,"Cambridge, Massachusetts",false
+20857619297,2026-11-04T08:56:44,Run,"Washington, District of Columbia",false
+20886514004,2026-11-06T13:37:52,Run,"Washington, District of Columbia",false
+20912422292,2026-11-08T10:45:57,Run,"Cambridge, Massachusetts",false
+20920286658,2026-11-09T07:47:35,Run,"Cambridge, Massachusetts",false
