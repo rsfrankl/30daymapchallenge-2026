@@ -1,0 +1,122 @@
+location_summary,n,lat,lon,method
+"North Tyneside, United Kingdom",677,55.017,-1.45,manual
+"Providence, Rhode Island",303,41.82399,-71.41283,gazetteer
+"Cambridge, Massachusetts",228,42.373,-71.11,manual
+"Hamden, Connecticut",168,41.39593,-72.89677,gazetteer
+"Newcastle upon Tyne, United Kingdom",87,54.978,-1.618,manual
+"Bad Schönborn, Germany",80,49.205,8.645,manual
+"Brookfield, Vermont",69,44.04,-72.6,manual
+"Greater London, United Kingdom",32,51.507,-0.128,manual
+"Oak Bluffs, Massachusetts",23,41.45428,-70.56197,gazetteer
+"L'Aquila, Italy",21,42.35055,13.39954,gazetteer
+"New Haven, Connecticut",19,41.30815,-72.92816,gazetteer
+"Montpelier, Vermont",19,44.26006,-72.57539,gazetteer
+"Paris, France",16,48.85341,2.3488,gazetteer
+"Cambridge, United Kingdom",12,52.205,0.119,manual
+"Oxford, United Kingdom",11,51.752,-1.258,manual
+"Zurich, Switzerland",10,47.36667,8.55,gazetteer
+"Somerville, Massachusetts",10,42.3876,-71.0995,gazetteer
+"City of Edinburgh, United Kingdom",9,55.953,-3.189,manual
+"Rome, Italy",8,41.89193,12.51133,gazetteer
+"Bremen-West, Germany",7,53.09,8.76,manual
+"San Francisco, California",6,37.77493,-122.41942,gazetteer
+"Cairngorms National Park, United Kingdom",6,57.08,-3.67,manual
+"Detroit, Michigan",6,42.33143,-83.04575,gazetteer
+"Municipality of Athens, Greece",6,37.984,23.728,manual
+"Northumberland National Park, United Kingdom",5,55.3,-2.2,manual
+"Washington, District of Columbia",5,38.895,-77.036,manual
+"Central, Singapore",5,1.29,103.85,manual
+"Perth and Kinross, United Kingdom",4,56.396,-3.437,manual
+"Highland, United Kingdom",4,57.478,-4.225,manual
+"Utrechtse Heuvelrug, Netherlands",4,52.04,5.38,manual
+"Bloomington, Indiana",4,39.16533,-86.52639,gazetteer
+"Liverpool, United Kingdom",4,53.408,-2.991,manual
+"Los Angeles, California",4,34.05223,-118.24368,gazetteer
+"Chilmark, Massachusetts",4,41.343,-70.745,manual
+"Sharjah, United Arab Emirates",4,25.33737,55.41206,gazetteer
+"Florence, Italy",4,43.77925,11.24626,gazetteer
+"San Sebastián, Spain",3,43.31283,-1.97499,gazetteer
+"Santa Fe, New Mexico",3,35.68698,-105.9378,gazetteer
+"Melbourne, Australia",3,-37.814,144.96332,gazetteer
+"Denver, Colorado",3,39.73915,-104.9847,gazetteer
+"Meidling, Austria",3,48.175,16.33,manual
+"Boston, Massachusetts",3,42.35843,-71.05977,gazetteer
+"Rueil-Malmaison, France",3,48.8765,2.18967,gazetteer
+"Columbus, Ohio",3,39.96118,-82.99879,gazetteer
+"Dubai, United Arab Emirates",3,25.0657,55.17128,gazetteer
+"Redlands, California",3,34.05557,-117.18254,gazetteer
+"Santa Cruz County, California",3,36.97,-122.03,manual
+"Northern Ireland, United Kingdom",3,54.597,-5.93,manual
+"Webster Groves, Missouri",2,38.59255,-90.35734,gazetteer
+"Groningen, Netherlands",2,53.21917,6.56667,gazetteer
+"Altstadt, Germany",2,53.076,8.807,manual
+"Tampa, Florida",2,27.94752,-82.45843,gazetteer
+"Baiersbronn, Germany",2,48.50318,8.37699,gazetteer
+"Leeds, United Kingdom",2,53.801,-1.549,manual
+"Loch Lomond and The Trossachs National Park, United Kingdom",2,56.2,-4.6,manual
+"Northumberland Coast AONB, United Kingdom",2,55.55,-1.65,manual
+"New Orleans, Louisiana",2,29.95465,-90.07507,gazetteer
+"Toronto, Canada",2,43.70011,-79.4163,gazetteer
+"Strasbourg, France",2,48.58392,7.74553,gazetteer
+"Edgartown, Massachusetts",2,41.38901,-70.51336,gazetteer
+"Lund, Sweden",2,55.70584,13.19321,gazetteer
+"Fife, United Kingdom",2,56.34,-2.8,manual
+"San Diego, California",2,32.71533,-117.15726,gazetteer
+"Chicago, Illinois",2,41.85003,-87.65005,gazetteer
+"Yorkshire Dales National Park, United Kingdom",2,54.23,-2.1,manual
+"Saint-Cloud, France",2,48.84598,2.20289,gazetteer
+"Bath and North East Somerset, United Kingdom",2,51.381,-2.359,manual
+"City of Bristol, United Kingdom",2,51.454,-2.588,manual
+"Tempe, Arizona",2,33.41477,-111.90931,gazetteer
+"Burlington, Vermont",2,44.47588,-73.21207,gazetteer
+"Columbus, Indiana",1,39.20144,-85.92138,gazetteer
+"Quay County, New Mexico",1,35.17,-103.72,manual
+"Coconino National Forest, Arizona",1,35.2,-111.65,manual
+"Kane County, Utah",1,37.05,-112.53,manual
+"District of Bratislava I, Slovakia",1,48.145,17.107,manual
+"Palermo, Italy",1,38.13205,13.33561,gazetteer
+"Hawaiʻi County, Hawaii",1,19.72,-155.09,manual
+"Amsterdam, Netherlands",1,52.37403,4.88969,gazetteer
+"Arlington County, Virginia",1,38.88,-77.1,manual
+"Greater Brisbane, Australia",1,-27.47,153.03,manual
+"Copenhagen Municipality, Denmark",1,55.676,12.568,manual
+Denmark,1,55.676,12.568,manual
+"Dublin, Ireland",1,53.33306,-6.24889,gazetteer
+"Mitte, Germany",1,52.52,13.4,manual
+"Vancouver, Canada",1,49.24966,-123.11934,gazetteer
+"Brussels, Belgium",1,50.85045,4.34878,gazetteer
+"Woodinville, Washington",1,47.75427,-122.16346,gazetteer
+"Charnwood, United Kingdom",1,52.772,-1.206,manual
+"Lyon, France",1,45.74846,4.84671,gazetteer
+"Waitematā, New Zealand",1,-36.85,174.76,manual
+"Queenstown-Lakes District, New Zealand",1,-45.03,168.66,manual
+"Suresnes, France",1,48.87143,2.22929,gazetteer
+"North Yorkshire, United Kingdom",1,54.0,-1.54,manual
+"Brighton, Vermont",1,44.81,-71.88,manual
+"Pinkham's Grant, New Hampshire",1,44.26,-71.25,manual
+"Castelló de la Plana, Spain",1,39.98333,-0.03333,gazetteer
+"Stowe, Vermont",1,44.465,-72.685,manual
+"Vienna, Austria",1,48.20849,16.37208,gazetteer
+"Mendon, Vermont",1,43.65,-72.92,manual
+"Mytilene Municipal Unit, Greece",1,39.11,26.55,manual
+"Lake District National Park, United Kingdom",1,54.46,-3.09,manual
+"Honolulu, Hawaii",1,21.30694,-157.85833,gazetteer
+"Lincoln, Vermont",1,44.1,-72.99,manual
+"Westfield, Vermont",1,44.88,-72.42,manual
+"Starksboro, Vermont",1,44.23,-73.06,manual
+"North Pennines AONB, United Kingdom",1,54.75,-2.25,manual
+"Gwynedd, United Kingdom",1,52.93,-4.05,manual
+"Aberdeen City, United Kingdom",1,57.149,-2.094,manual
+"Pasadena, California",1,34.14778,-118.14452,gazetteer
+"Northumberland, United Kingdom",1,55.17,-1.69,manual
+"Döbling, Austria",1,48.25,16.34,manual
+"Del Mar, California",1,32.95949,-117.26531,gazetteer
+"Haarlemmermeer, Netherlands",1,52.3,4.69,manual
+"Inverleith Conservation Area, United Kingdom",1,55.965,-3.21,manual
+"Siena, Italy",1,43.32215,11.3259,gazetteer
+"Municipality of Hydra, Greece",1,37.35,23.47,manual
+"Wilder Ranch State Park, California",1,36.96,-122.08,manual
+"Santa Cruz, California",1,36.97412,-122.0308,gazetteer
+"Boulder Open Space and Mountain Parks, Colorado",1,39.99,-105.29,manual
+"Leuven, Belgium",1,50.87959,4.70093,gazetteer
+"Charlestown, Rhode Island",1,41.38316,-71.64173,gazetteer
